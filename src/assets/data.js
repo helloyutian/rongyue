@@ -1,0 +1,60 @@
+import HouseList from './houseList.json'
+
+// A1 A2 B1 B2 C1 C2 D1 D2 E1 E2 F1 F2
+export const houseTypeList = [
+    { H01: 'C1', H02: 'A2', H03: 'A1', H04: 'D2', H05: 'C1', H06: 'A2', H07: 'A1', H08: 'C2' },
+    { H01: 'D1', H02: 'A2', H03: 'A1', H04: 'D2', H05: 'E1', H06: 'F2', H07: 'B2' },
+    { H01: 'D1', H02: 'A2', H03: 'A1', H04: 'C1', H05: 'C2', H06: 'A2', H07: 'A1', H08: 'C1' },
+    { H01: 'C1', H02: 'A2', H03: 'A1', H04: 'C2', H05: 'C1', H06: 'A2', H07: 'A1', H08: 'D1' },
+    { H01: 'B1', H02: 'F2', H03: 'E2', H04: 'D2', H05: 'A2', H06: 'A1', H07: 'D1' },
+    { H01: 'C1', H02: 'A2', H03: 'A1', H04: 'C2', H05: 'D2', H06: 'A2', H07: 'A1', H08: 'C2' }
+]
+
+export const imgList = {
+    a: require('@/assets/img/a.jpg'),
+    b: require('@/assets/img/b.jpg'),
+    c: require('@/assets/img/c.jpg'),
+    d: require('@/assets/img/d.jpg'),
+    e: require('@/assets/img/e.jpg'),
+    f: require('@/assets/img/f.jpg')
+}
+
+// export let spareList = JSON.parse(localStorage.getItem('spareList')) || []
+
+// export let disabledList = JSON.parse(localStorage.getItem('disabledList')) || []
+
+export const houseList = HouseList.map(houseItem => {
+    const res = String(houseItem.roomId).match(/^([1-9]\d?)(\d\d)$/)
+    const key = 'H' + res[2]
+    houseItem.houseType = houseTypeList[houseItem.house - 1][key]
+    houseItem.floor = Number(res[1])
+    houseItem.voice = '--'
+    return houseItem
+})
+
+/** 3栋 { H01: 'D1', H02: 'A2', H03: 'A1', H04: 'C1', H05: 'C2', H06: 'A2', H07: 'A1', H08: 'C1' }
+ * 1601 两房 D1 https://720yun.com/t/d7vkcyq9dr9?scene_id=62180065
+ * 1602 三房 A2 https://720yun.com/t/c1vkcyq9zil?scene_id=62184998
+ * 1605 两房 C2 https://720yun.com/t/43vkcyq9Opb?scene_id=62186195
+ * 1607 三房 A1 https://720yun.com/t/83vkcyq97dq?scene_id=62187863
+ * 1608 两房 C1 https://720yun.com/t/1dvkcyqyrf9?scene_id=62188549
+ * 
+ * 1901 两房 D1 https://720yun.com/t/8avkcw87r1l?scene_id=62761749
+ * 1905 两房 C2 https://720yun.com/t/59vkcw870qb?scene_id=62764666
+ * 1906 三房 A2 https://720yun.com/t/21vkcw87gr7?scene_id=62766696
+ * 1908 两房 C1 https://720yun.com/t/b3vkcw8q58y?scene_id=62769893
+*/
+export const vrList = {
+  A1: 'https://720yun.com/t/83vkcyq97dq?scene_id=62187863',
+  A2: ['https://720yun.com/t/c1vkcyq9zil?scene_id=62184998', 'https://720yun.com/t/21vkcw87gr7?scene_id=62766696'],
+  B1: '',
+  B2: '',
+  C1: ['https://720yun.com/t/1dvkcyqyrf9?scene_id=62188549', 'https://720yun.com/t/b3vkcw8q58y?scene_id=62769893'],
+  C2: ['https://720yun.com/t/43vkcyq9Opb?scene_id=62186195', 'https://720yun.com/t/59vkcw870qb?scene_id=62764666'],
+  D1: ['https://720yun.com/t/d7vkcyq9dr9?scene_id=62180065', 'https://720yun.com/t/8avkcw87r1l?scene_id=62761749'],
+  D2: '',
+  E1: '',
+  E2: '',
+  F1: '',
+  F2: ''
+}

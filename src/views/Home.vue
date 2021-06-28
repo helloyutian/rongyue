@@ -60,8 +60,9 @@
       </el-table-column>
       <el-table-column prop="isSpare" label="状态" align="center">
         <template #default="scope">
-          <span v-if="scope.row.isSpare" class="text-success">预选</span>
-          <span v-else>可选</span>
+          <span v-if="type === 1 && scope.row.isDisabled" class="text-danger">已被选</span>
+          <span v-else-if="scope.row.isSpare" class="text-warning">已预选</span>
+          <span v-else class="text-success">可选</span>
         </template>
       </el-table-column>
       <el-table-column prop="direction" label="朝向" align="center"></el-table-column>

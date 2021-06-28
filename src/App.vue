@@ -259,4 +259,13 @@ a {
     text-decoration: underline;
   }
 }
+.text-danger {
+  color: #F56C6C;
+}
+.text-warning {
+  color: #E6A23C;
+}
+.text-success {
+  color: #67C23A;
+}
 </style>

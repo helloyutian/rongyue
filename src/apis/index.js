@@ -126,7 +126,7 @@ export const updateSpareSort = ({ id, sort }) => {
         return spareItem.id === id
     })
     const sortItem = spareList.splice(delIdx, 1)
-    spareList.splice(sort, 0, ...sortItem)
+    spareList.splice(sort - 1, 0, ...sortItem)
     localStorage.setItem('spareList', JSON.stringify(spareList))
 }
 

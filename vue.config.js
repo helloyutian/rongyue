@@ -5,7 +5,7 @@ module.exports = {
   configureWebpack: config => {
     config.plugins.forEach((val) => {
       if (val instanceof HtmlWebpackPlugin) {
-        val.options.title = "榕悦花园预选房系统"
+        val.options.title = "榕悦花园市级共有产权房预选"
       }
     }) 
   }

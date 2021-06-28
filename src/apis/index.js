@@ -4,17 +4,21 @@ let spareList = JSON.parse(localStorage.getItem('spareList')) || []
 let disabledList = JSON.parse(localStorage.getItem('disabledList')) || []
 
 // 获取房源列表
-export const getAllHouseList = ({ currentPage, pageSize, house, type, houseType, direction, floor }) => {
+export const getAllHouseList = ({ currentPage, pageSize, house, roomId, type, houseType, direction, floor }) => {
     const filterList = houseList.filter(houseItem => {
-        let [isDisable, isHouse, isType, isHouseType, isDirection, isFloor] = [false, true, true, true, true, true]
+        let [isHouse, isRoom, isType, isHouseType, isDirection, isFloor] = [true, true, true, true, true, true]
         // 过滤禁用列表
-        isDisable = disabledList.some(item => item.id === houseItem.id)
-        if (isDisable) return false
+        // isDisable = disabledList.some(item => item.id === houseItem.id)
+        // if (isDisable) return false
         // 过滤筛选条件
         if (house && house.length) {
             isHouse = house.some(item => houseItem.house === item)
         }
         if (!isHouse) return false
+        if (roomId) {
+          isRoom = houseItem.roomId === Number(roomId)
+        }
+        if (!isRoom) return false
         if (type) {
             isType = houseItem.type === type
         }
@@ -39,6 +43,7 @@ export const getAllHouseList = ({ currentPage, pageSize, house, type, houseType,
     const arr = filterList.slice(start, end)
     arr.forEach(item => {
       item.isSpare = spareList.some(spareItem => spareItem.id === item.id)
+      item.isDisabled = disabledList.some(disabledItem => disabledItem.id === item.id)
     })
     return {
         list: arr,
@@ -46,18 +51,32 @@ export const getAllHouseList = ({ currentPage, pageSize, house, type, houseType,
     }
 }
 
+// 导入预约列表
+export const importSpareFile = xlsxJson => {
+    const list = houseList.filter(item => {
+        return xlsxJson.some(xlsxItem => parseInt(xlsxItem.house) === item.house && Number(xlsxItem.roomId) === item.roomId)
+    })
+    return list
+}
+
 // // 获取预选列表
-export const getSpareList = ({ currentPage, pageSize, house, type, houseType, direction, floor }) => {
+export const getSpareList = ({ currentPage, pageSize, house, roomId, type, houseType, direction, floor, webType }) => {
     const filterList = spareList.filter(houseItem => {
-        let [isDisable, isHouse, isType, isHouseType, isDirection, isFloor] = [false, true, true, true, true, true]
+        let [isDisable, isHouse, isRoom, isType, isHouseType, isDirection, isFloor] = [false, true, true, true, true, true, true]
         // 过滤禁用列表
-        isDisable = disabledList.some(item => item.id === houseItem.id)
-        if (isDisable) return false
+        if (webType === 1) {
+          isDisable = disabledList.some(item => item.id === houseItem.id)
+          if (isDisable) return false
+        }
         // 过滤筛选条件
         if (house && house.length) {
             isHouse = house.some(item => houseItem.house === item)
         }
         if (!isHouse) return false
+        if (roomId) {
+          isRoom = houseItem.roomId === Number(roomId)
+        }
+        if (!isRoom) return false
         if (type) {
             isType = houseItem.type === type
         }
@@ -96,6 +115,20 @@ export const addSpareList = list => {
     }
     localStorage.setItem('spareList', JSON.stringify(spareList))
 }
+// 修改预选排序
+export const updateSpareSort = ({ id, sort }) => {
+    // debugger
+    let delIdx = null
+    spareList.some((spareItem, idx) => {
+        if (spareItem.id === id) {
+            delIdx = idx
+        }
+        return spareItem.id === id
+    })
+    const sortItem = spareList.splice(delIdx, 1)
+    spareList.splice(sort, 0, ...sortItem)
+    localStorage.setItem('spareList', JSON.stringify(spareList))
+}
 
 // 移出预选列表
 export const removeSpareList = list => {
@@ -106,14 +139,18 @@ export const removeSpareList = list => {
 }
 
 // 获取被选列表
-export const getDisabledList = ({ currentPage, pageSize, house, type, houseType, direction, floor }) => {
+export const getDisabledList = ({ currentPage, pageSize, house, roomId, type, houseType, direction, floor }) => {
     const filterList = disabledList.filter(houseItem => {
-        let [isHouse, isType, isHouseType, isDirection, isFloor] = [true, true, true, true, true]
+        let [isHouse, isRoom, isType, isHouseType, isDirection, isFloor] = [true, true, true, true, true, true]
         // 过滤筛选条件
         if (house && house.length) {
             isHouse = house.some(item => houseItem.house === item)
         }
         if (!isHouse) return false
+        if (roomId) {
+            isRoom = houseItem.roomId === Number(roomId)
+        }
+        if (!isRoom) return false
         if (type) {
             isType = houseItem.type === type
         }

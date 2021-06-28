@@ -3,24 +3,25 @@
     <div class="search">
     <!-- <el-form class="search" :inline="true" size="small"> -->
       <!-- <el-input></el-input> -->
-      <el-select class="search-item" v-model="queryParams.house" multiple placeholder="选择楼栋" size="small" collapse-tags clearable>
+      <el-select class="search-item" v-model="queryParams.house" multiple placeholder="选择楼栋，可多选" size="small" collapse-tags clearable>
         <el-option v-for="item in 6" :key="item" :value="item" :label="item + '栋'"></el-option>
       </el-select>
+      <el-input class="search-item" v-model.number="queryParams.roomId" placeholder="请填写房号" size="small"></el-input>
       <el-select class="search-item" v-model="queryParams.type" placeholder="选择房型" size="small" clearable>
         <el-option v-for="item in typeList" :key="item" :value="item" :label="item"></el-option>
       </el-select>
-      <el-select class="search-item" v-model="queryParams.houseType" multiple placeholder="选择户型" size="small" collapse-tags clearable>
+      <el-select class="search-item" v-model="queryParams.houseType" multiple placeholder="选择户型，可多选" size="small" collapse-tags clearable>
         <el-option v-for="item in houseTypeList" :key="item" :value="item" :label="item"></el-option>
       </el-select>
-      <el-select class="search-item" v-model="queryParams.direction" multiple placeholder="选择朝向" size="small" collapse-tags clearable>
+      <el-select class="search-item" v-model="queryParams.direction" multiple placeholder="选择朝向，可多选" size="small" collapse-tags clearable>
         <el-option v-for="item in directuionList" :key="item" :value="item" :label="item"></el-option>
       </el-select>
-      <el-select class="search-item" v-model="queryParams.floor" multiple placeholder="选择楼层" size="small" collapse-tags clearable>
+      <el-select class="search-item" v-model="queryParams.floor" multiple placeholder="选择楼层，可多选" size="small" collapse-tags clearable>
         <el-option v-for="item in 33" :key="item" :value="item" :label="item + '层'"></el-option>
       </el-select>
-      <el-button class="search-item" type="success" size="small" @click="queryTableList">查询</el-button>
-      <el-button class="search-item" type="success" size="small" :disabled="!selectHouseList.length" @click="addSpare">添加预选</el-button>
-      <el-button class="search-item" type="danger" size="small" :disabled="!selectHouseList.length" @click="addDisabled">添加已被选</el-button>
+      <el-button class="search-btn" type="success" size="small" @click="queryTableList">查询</el-button>
+      <el-button class="search-btn" type="success" size="small" :disabled="!selectHouseList.length" @click="addSpare">添加预选</el-button>
+      <el-button v-if="type === 1" class="search-btn" type="danger" size="small" :disabled="!selectHouseList.length" @click="addDisabled">设为已被选</el-button>
       <!-- <el-upload
         action="#"
         :auto-upload="false"
@@ -30,39 +31,54 @@
       </el-upload> -->
     <!-- </el-form> -->
     </div>
-    <p class="el-upload__tip mb-10" style="color: #888">* 添加到 已被选 的房源将不在下面的列表显示；VR实景为3栋16楼或19楼同户型房子的实景，仅供参考</p>
-    <el-table class="my-table" ref="multipleTable" :data="tableData" border @selection-change="handleSelectionChange">
-      <el-table-column type="selection" width="50" align="center"></el-table-column>
+    <p class="el-upload__tip mb-10" style="color: #888">* <span v-if="type === 1">添加到 已被选 的房源将不在下面的列表显示；</span>VR实景为3栋16楼或19楼同户型房子的实景，仅供参考</p>
+     <!--  -->
+    <el-table class="my-table" ref="multipleTable" :row-class-name="tableRowClassName" :data="tableData" border @selection-change="handleSelectionChange">
+      <el-table-column type="selection" :selectable="getSelectableStatus" width="50" align="center"></el-table-column>
       <el-table-column prop="house" label="楼栋" align="center">
         <template #default="scope">
-          <el-button type="text" :preview-src-list="previewList" @click="shouHousePic(scope.row.house)">{{ scope.row.house }}栋</el-button>
+          <el-button type="text" :preview-src-list="previewList" @click="shouHousePic(scope.row.house)" title="查看平面图">{{ scope.row.house }}栋</el-button>
         </template>
       </el-table-column>
       <el-table-column prop="roomId" label="房号" align="center"></el-table-column>
-      <el-table-column prop="houseType" label="户型" align="center" sortable min-width="100">
+      <el-table-column prop="type" label="房型" align="center" min-width="100"></el-table-column>
+      <el-table-column prop="houseType" label="户型" align="center" sortable  min-width="100">
         <template #header>
-          <el-tooltip class="item" effect="dark" content="户型1、户型2表示同户型的镜像，如A1、A2" placement="top-start">
+          <el-tooltip class="item" effect="dark" content="户型1、户型2表示同户型的镜像户型，如A1、A2" placement="top-start">
           <span>户型 <i class="el-icon-question"></i></span>
           </el-tooltip>
         </template>
         <template #default="scope">
-          <el-button type="text" :preview-src-list="previewList" @click="shouRoomPic(scope.row.houseType)">{{ scope.row.houseType }}</el-button>
+          <el-button type="text" :preview-src-list="previewList" @click="shouRoomPic(scope.row.houseType)" title="查看户型图">{{ scope.row.houseType }}</el-button>
         </template>
       </el-table-column>
-      <el-table-column prop="type" label="房型" align="center" min-width="100"></el-table-column>
       <el-table-column prop="area" label="面积(m²)" align="center" sortable min-width="100"></el-table-column>
       <el-table-column prop="floor" label="楼层" align="center" sortable>
         <template #default="scope">
           {{ scope.row.floor }} 层
         </template>
       </el-table-column>
+      <el-table-column prop="isSpare" label="状态" align="center">
+        <template #default="scope">
+          <span v-if="scope.row.isSpare" class="text-success">预选</span>
+          <span v-else>可选</span>
+        </template>
+      </el-table-column>
       <el-table-column prop="direction" label="朝向" align="center"></el-table-column>
       <!-- <el-table-column prop="voice" label="噪音" align="center"></el-table-column> -->
       <el-table-column label="操作" align="center" min-width="320">
         <template #default="scope">
-          <el-button v-if="!scope.row.isSpare" type="success" plain size="mini" @click="addSpare([scope.row])">加入预选</el-button>
-          <el-button v-else type="success" plain size="mini" disabled>已加入预选</el-button>
-          <el-button type="danger" plain size="mini" @click="addDisabled([scope.row])">设置为已被选</el-button>
+          <template v-if="type === 1">
+            <template v-if="!scope.row.isDisabled">
+              <el-button v-if="!scope.row.isSpare" type="success" plain size="mini" @click="addSpare([scope.row])">加入预选</el-button>
+              <el-button v-else type="success" plain size="mini" disabled>已加入预选</el-button>
+              <el-button type="danger" plain size="mini" @click="addDisabled([scope.row])">设为已被选</el-button>
+            </template>
+          </template>
+          <template v-else>
+            <el-button v-if="!scope.row.isSpare" type="success" plain size="mini" @click="addSpare([scope.row])">加入预选</el-button>
+            <el-button v-else type="success" plain size="mini" disabled>已加入预选</el-button>
+          </template>
           <el-button type="warning" plain size="mini" @click="toHouseVR(scope.row.houseType)">VR看房</el-button>
         </template>
       </el-table-column>
@@ -82,7 +98,6 @@
     </el-pagination>
 
     <!-- // 图片预览 -->
-    <!-- <el-image-viewer v-show="isShowView" :on-close="isShowView=false" :url-list="previewList"></el-image-viewer> -->
     <el-image v-show="false" class="previewImg" ref="previewElem" src='' width="0" height="0" :preview-src-list="previewList"></el-image>
     <float-box />
   </div>
@@ -97,6 +112,9 @@ export default {
   name: 'Home',
   components: {
     FloatBox
+  },
+  props: {
+    type: Number
   },
   data() {
     this.typeList = ['两房一厅', '三房一厅']
@@ -154,6 +172,9 @@ export default {
     },
     queryList() {
       // console.log(this.queryParams)
+      if (this.queryParams.roomId && !/^[1-9][0-9]{2,3}$/.test(this.queryParams.roomId)) {
+        return this.$message.error('请填写正确的房号')
+      }
       const res = getAllHouseList(this.queryParams)
       // console.log(res.list)
       this.tableData = res.list
@@ -213,6 +234,17 @@ export default {
       } else {
         this.$alert('没有找到该户型VR')
       }
+    },
+    getSelectableStatus (row) {
+      if (this.type === 1) {
+        return !row.isDisabled
+      } else {
+        return !row.isSpare
+      }
+    },
+    tableRowClassName({ row }) {
+      const className = this.type === 1 && row.isDisabled ? 'info-row' : ''
+      return className
     }
   }
 }

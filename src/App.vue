@@ -2,7 +2,7 @@
   <el-container>
     <el-header class="header">
         <div class="nav">
-          <h1 class="brand">共有房筛选</h1>
+          <h1 class="brand">榕悦花园共有房筛选 <p>选房快人一步</p></h1>
           <ul class="nav-ul">
             <li><a href="http://zwfw.gzonline.gov.cn/gzf-gycqsq/gzf/index" target="_blank">共有房进度</a></li>
             <li><a href="http://gz.bendibao.com/life/2021131/286998.shtml" target="_blank">房源及交通信息</a></li>
@@ -14,7 +14,10 @@
             <el-menu-item index="4"><a href="http://gz.bendibao.com/life/2021131/286998.shtml" target="_blank">房源及交通信息</a></el-menu-item>
         </el-menu> -->
         <div class="banner">
-            <a href="http://zwfw.gzonline.gov.cn/gzf-gycqsq/gzf/index" target="_blank"><img src="http://zwfw.gzonline.gov.cn/gzf-gycqsq/gzf/static/img/banner-gycq.c7d348ff.jpg" alt=""></a>
+            <a href="http://zwfw.gzonline.gov.cn/gzf-gycqsq/gzf/index" target="_blank">
+              <img src="http://zwfw.gzonline.gov.cn/gzf-gycqsq/gzf/static/img/banner-gycq.c7d348ff.jpg" alt="">
+              <p class="banner-title">广州市市本级共有产权住房</p>
+            </a>
         </div>
     </el-header>
     <el-container>
@@ -26,13 +29,13 @@
         >
             <el-menu-item index="/">
                 <i class="el-icon-menu"></i>
-                <template #title>全部</template>
+                <template #title>全部房源</template>
             </el-menu-item>
             <el-menu-item index="/spare">
                 <i class="el-icon-s-management"></i>
                 <template #title>我的预选</template>
             </el-menu-item>
-            <el-menu-item index="/disabled">
+            <el-menu-item v-if="type === 1" index="/disabled">
                 <i class="el-icon-s-release"></i>
                 <template #title>已被选列表</template>
             </el-menu-item>
@@ -45,7 +48,7 @@
         </div>
       </el-aside>
       <el-main>
-          <router-view />
+          <router-view :type="type" />
         </el-main>
     </el-container>
     <el-footer class="footer">
@@ -66,6 +69,17 @@ export default {
     const wt = document.documentElement.clientWidth
     if (wt < 1100) {
       this.isCollapse = true
+    }
+  },
+  computed: {
+    type() {
+      let type = this.$route.query.type
+      if (type) {
+        localStorage.setItem('webType', type)
+      } else {
+        type = localStorage.getItem('webType')
+      }
+      return type ? Number(type) : null
     }
   }
 }
@@ -99,17 +113,38 @@ a {
 }
 .brand {
   color: #2c3e50;
+  line-height: 1.2;
+  > p {
+    font-size: 12px;
+    font-weight: 300;
+    color: #888;
+    letter-spacing: 0.7em;
+    text-align: center;
+  }
 }
 .banner {
   width: 100%;
   height: 150px;
   overflow: hidden;
-  > a > img {
-    width: 100%;
-    height: 100%;
-    display: block;
-    object-fit: cover;
-    object-position: center;
+  position: relative;
+  > a {
+    > img {
+      width: 100%;
+      height: 100%;
+      display: block;
+      object-fit: cover;
+      object-position: center;
+    }
+    > p {
+      color: #fff;
+      font-size: 36px;
+      line-height: 1.5;
+      font-weight: bold;
+      position: absolute;
+      z-index: 2;
+      top: 30px;
+      left: 60px;
+    }
   }
 }
 .header {
@@ -119,11 +154,14 @@ a {
     height: 80px;
     padding: 0 50px;
     line-height: 80px;
+    display: flex;
+    align-items: center;
     > h1 {
-      float: left;
+      flex: none;
       margin-right: 50px;
     }
     .nav-ul {
+      flex: auto;
       list-style: none;
       padding: 0;
       display: inline-block;
@@ -187,17 +225,38 @@ a {
 // }
 .my-table {
   text-align: center;
+  .info-row {
+    background: #E4E7ED;
+  }
+  .success-row {
+    background: #f0f9eb;
+  }
 }
 .search {
   margin-bottom: 15px;
   .search-item {
+    width: 220px;
     margin-top: 15px;
     margin-right: 10px;
+  }
+  .search-btn {
+    margin-top: 15px;
   }
 }
 .previewImg {
     height: 0;
     width: 0;
     overflow: hidden;
+}
+.taggle-input {
+  color: #409EFF;
+  cursor: pointer;
+}
+.dl-link {
+  color: #409EFF;
+  text-decoration: none;
+  &:hover, &:active {
+    text-decoration: underline;
+  }
 }
 </style>

@@ -2,17 +2,13 @@
   <el-container>
     <el-header class="header">
         <div class="nav">
-          <h1 class="brand">榕悦花园共有房筛选 <p>选房快人一步</p></h1>
+          <h1 class="brand">榕悦花园共有房筛选<p>选房快人一步</p></h1>
           <ul class="nav-ul">
-            <li><a href="http://zwfw.gzonline.gov.cn/gzf-gycqsq/gzf/index" target="_blank">共有房进度</a></li>
-            <li><a href="http://gz.bendibao.com/life/2021131/286998.shtml" target="_blank">房源及交通信息</a></li>
+            <li><a href="http://zwfw.gzonline.gov.cn/gzf-gycqsq/gzf/index" target="_blank">查询申请进度</a></li>
+            <li><a href="http://zfcj.gz.gov.cn/" target="_blank">广州市住房和城乡建设局</a></li>
+            <li><a href="http://gz.bendibao.com/life/20201229/284674.shtml" target="_blank">房源信息</a></li>
           </ul>
         </div>
-        <!-- <el-menu mode="horizontal">
-            <el-menu-item index="0"><h1 class="brand">共有产权住房预选</h1></el-menu-item>
-            <el-menu-item index="1"><a href="http://zwfw.gzonline.gov.cn/gzf-gycqsq/gzf/index" target="_blank">共有房进度</a></el-menu-item>
-            <el-menu-item index="4"><a href="http://gz.bendibao.com/life/2021131/286998.shtml" target="_blank">房源及交通信息</a></el-menu-item>
-        </el-menu> -->
         <div class="banner">
             <a href="http://zwfw.gzonline.gov.cn/gzf-gycqsq/gzf/index" target="_blank">
               <img src="http://zwfw.gzonline.gov.cn/gzf-gycqsq/gzf/static/img/banner-gycq.c7d348ff.jpg" alt="">
@@ -164,8 +160,9 @@ a {
       flex: auto;
       list-style: none;
       padding: 0;
-      display: inline-block;
       font-size: 13px;
+      white-space: nowrap;
+      overflow: hidden;
       > li {
         display: inline-block;
         margin-right: 30px;

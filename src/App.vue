@@ -7,6 +7,7 @@
             <li><a href="http://zwfw.gzonline.gov.cn/gzf-gycqsq/gzf/index" target="_blank">查询申请进度</a></li>
             <li><a href="http://zfcj.gz.gov.cn/" target="_blank">广州市住房和城乡建设局</a></li>
             <li><a href="http://gz.bendibao.com/life/20201229/284674.shtml" target="_blank">房源信息</a></li>
+            <li><a href="http://imgbdb3.bendibao.com/gzbdb/life/20212/22/2021222092410_34172.doc">共有产权住房买卖合同示范文本</a></li>
           </ul>
         </div>
         <div class="banner">
@@ -34,6 +35,14 @@
             <el-menu-item v-if="type === 1" index="/disabled">
                 <i class="el-icon-s-release"></i>
                 <template #title>已被选列表</template>
+            </el-menu-item>
+            <el-menu-item index="/plane">
+                <i class="el-icon-camera"></i>
+                <template #title>平面图</template>
+            </el-menu-item>
+            <el-menu-item index="/price">
+                <i class="el-icon-view"></i>
+                <template #title>7-9栋价格</template>
             </el-menu-item>
         </el-menu>
         <div class="collapse-btn">

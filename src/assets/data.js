@@ -2,12 +2,12 @@ import HouseList from './houseList.json'
 
 // A1 A2 B1 B2 C1 C2 D1 D2 E1 E2 F1 F2
 export const houseTypeList = [
-    { H01: 'C1', H02: 'A2', H03: 'A1', H04: 'D2', H05: 'C1', H06: 'A2', H07: 'A1', H08: 'C2' },
-    { H01: 'D1', H02: 'A2', H03: 'A1', H04: 'D2', H05: 'E1', H06: 'F2', H07: 'B2' },
-    { H01: 'D1', H02: 'A2', H03: 'A1', H04: 'C1', H05: 'C2', H06: 'A2', H07: 'A1', H08: 'C1' },
-    { H01: 'C1', H02: 'A2', H03: 'A1', H04: 'C2', H05: 'C1', H06: 'A2', H07: 'A1', H08: 'D1' },
-    { H01: 'B1', H02: 'F2', H03: 'E2', H04: 'D2', H05: 'A2', H06: 'A1', H07: 'D1' },
-    { H01: 'C1', H02: 'A2', H03: 'A1', H04: 'C2', H05: 'D2', H06: 'A2', H07: 'A1', H08: 'C2' }
+    { H01: { hx: 'C1', cx: '变电站' }, H02: { hx: 'A2', cx: '小区北' }, H03: { hx: 'A1', cx: '小区北' }, H04: { hx: 'D2', cx: '小区北' }, H05: {hx: 'C1', cx: '2栋' }, H06: { hx: 'A2', cx: '幼儿园' }, H07: { hx: 'A1', cx: '幼儿园' }, H08: { hx: 'C2', cx: '变电站' }},
+    { H01: { hx: 'D1', cx: '小区北' }, H02: { hx: 'A2', cx: '小区北' }, H03: { hx: 'A1', cx: '小区北' }, H04: { hx: 'D2', cx: '小区北' }, H05: {hx: 'E1', cx: '幼儿园' }, H06: { hx: 'F2', cx: '幼儿园' }, H07: { hx: 'B2', cx: '幼儿园' }},
+    { H01: { hx: 'D1', cx: '小区北' }, H02: { hx: 'A2', cx: '小区北' }, H03: { hx: 'A1', cx: '小区北' }, H04: { hx: 'C1', cx: '售楼部' }, H05: {hx: 'C2', cx: '售楼部' }, H06: { hx: 'A2', cx: '幼儿园' }, H07: { hx: 'A1', cx: '幼儿园' }, H08: { hx: 'C1', cx: '2栋' }},
+    { H01: { hx: 'C1', cx: '售楼部' }, H02: { hx: 'A2', cx: '花园' }, H03: { hx: 'A1', cx: '花园' }, H04: { hx: 'C2', cx: '售楼部' }, H05: {hx: 'C1', cx: '售楼部' }, H06: { hx: 'A2', cx: '马路' }, H07: { hx: 'A1', cx: '马路' }, H08: { hx: 'D1', cx: '马路' }},
+    { H01: { hx: 'B1', cx: '幼儿园' }, H02: { hx: 'F2', cx: '幼儿园' }, H03: { hx: 'E2', cx: '幼儿园' }, H04: { hx: 'D2', cx: '马路' }, H05: {hx: 'A2', cx: '马路' }, H06: { hx: 'A1', cx: '马路' }, H07: { hx: 'D1', cx: '马路' }},
+    { H01: { hx: 'C1', cx: '7栋' }, H02: { hx: 'A2', cx: '幼儿园' }, H03: { hx: 'A1', cx: '幼儿园' }, H04: { hx: 'C2', cx: '5栋' }, H05: {hx: 'D2', cx: '马路' }, H06: { hx: 'A2', cx: '马路' }, H07: { hx: 'A1', cx: '马路' }, H08: { hx: 'C2', cx: '7栋' }}
 ]
 
 export const imgList = {
@@ -26,8 +26,9 @@ export const imgList = {
 export const houseList = HouseList.map(houseItem => {
     const res = String(houseItem.roomId).match(/^([1-9]\d?)(\d\d)$/)
     const key = 'H' + res[2]
-    houseItem.houseType = houseTypeList[houseItem.house - 1][key]
+    houseItem.houseType = houseTypeList[houseItem.house - 1][key].hx
     houseItem.floor = Number(res[1])
+    houseItem.face = houseTypeList[houseItem.house - 1][key].cx
     houseItem.voice = '--'
     return houseItem
 })

@@ -65,7 +65,11 @@
           <span v-else class="text-success">可选</span>
         </template>
       </el-table-column>
-      <el-table-column prop="direction" label="朝向" align="center"></el-table-column>
+      <el-table-column prop="direction" label="朝向" align="center">
+          <template #default="scope">
+              {{ scope.row.direction }}（{{ scope.row.face }}）
+          </template>
+      </el-table-column>
       <!-- <el-table-column prop="voice" label="噪音" align="center"></el-table-column> -->
       <el-table-column label="操作" align="center" min-width="320">
         <template #default="scope">

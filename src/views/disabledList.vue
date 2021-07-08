@@ -49,7 +49,11 @@
           {{ scope.row.floor }} 层
         </template>
       </el-table-column>
-      <el-table-column prop="direction" label="朝向" align="center"></el-table-column>
+      <el-table-column prop="direction" label="朝向" align="center">
+          <template #default="scope">
+            {{ scope.row.direction }}（{{ scope.row.face || getHouseFace(scope.row.house, scope.row.roomId) }}）
+          </template>
+      </el-table-column>
       <!-- <el-table-column prop="voice" label="噪音" align="center"></el-table-column> -->
       <el-table-column label="操作" align="center" min-width="150">
         <template #default="scope">
@@ -81,6 +85,7 @@
 <script>
 import FloatBox from '@/components/floatBox.vue'
 import { getDisabledList, removeDisabledList } from '@/apis'
+import { houseTypeList } from '@/assets/data'
 export default {
   name: 'DisabledList',
   beforeRouteEnter(to, from, next) {
@@ -123,6 +128,10 @@ export default {
     this.queryTableList()
   },
   methods: {
+    getHouseFace(house, roomId) {
+      const key = 'H' + String(roomId).substr(1)
+      return houseTypeList[house - 1][key].cx
+    },
     handleSizeChange(val) {
       this.queryParams.pageSize = val
       this.queryTableList()

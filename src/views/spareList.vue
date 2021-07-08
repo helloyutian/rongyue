@@ -164,8 +164,8 @@ export default {
   },
   methods: {
     getHouseFace(house, roomId) {
-      const key = 'H' + String(roomId).substr(1)
-      return houseTypeList[house - 1][key].cx
+      const key = 'H' + String(roomId).substr(-2)
+      return houseTypeList[house - 1][key] ? houseTypeList[house - 1][key].cx : ''
     },
     handleSizeChange(val) {
       this.queryParams.pageSize = val

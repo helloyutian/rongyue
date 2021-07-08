@@ -129,7 +129,7 @@ export default {
   },
   methods: {
     getHouseFace(house, roomId) {
-      const key = 'H' + String(roomId).substr(1)
+      const key = 'H' + String(roomId).substr(-2)
       return houseTypeList[house - 1][key].cx
     },
     handleSizeChange(val) {

@@ -1,4 +1,54 @@
 import HouseList from './houseList.json'
+import PriceList from './priceList.json'
+
+const getPriceItem = (house, roomId) => {
+    let priceItem = {}
+    for (let i = 0; i < PriceList.length; i++) {
+        const pItem = PriceList[i]
+        if (house === pItem.house && roomId === pItem.roomId) {
+            priceItem = pItem
+            break
+        }
+    }
+    return priceItem
+}
+
+// 处理localStorage
+const doLocalStoragePrice = () => {
+    let spareList = localStorage.getItem('spareList')
+    let disabledList = localStorage.getItem('disabledList')
+    if (spareList) {
+        spareList = JSON.parse(spareList)
+        if (!spareList[0].totalPrice) {
+            spareList.forEach(item => {
+                const priceItem = PriceList[item.id - 1]
+                if (priceItem.house === item.house && priceItem.roomId === item.roomId) {
+                    item.totalPrice = priceItem.totalPrice
+                } else {
+                    const pItem = getPriceItem(item.house, item.roomId)
+                    item.totalPrice = pItem.totalPrice
+                }
+            })
+            localStorage.setItem('spareList', JSON.stringify(spareList))
+        }
+    }
+    if (disabledList) {
+        disabledList = JSON.parse(disabledList)
+        if (!disabledList[0].totalPrice) {
+            disabledList.forEach(item => {
+                const priceItem = PriceList[item.id - 1]
+                if (priceItem.house === item.house && priceItem.roomId === item.roomId) {
+                    item.totalPrice = priceItem.totalPrice
+                } else {
+                    const pItem = getPriceItem(item.house, item.roomId)
+                    item.totalPrice = pItem.totalPrice
+                }
+            })
+            localStorage.setItem('disabledList', JSON.stringify(disabledList))
+        }
+    }
+}
+doLocalStoragePrice()
 
 // A1 A2 B1 B2 C1 C2 D1 D2 E1 E2 F1 F2
 export const houseTypeList = [
@@ -30,6 +80,13 @@ export const houseList = HouseList.map(houseItem => {
     houseItem.floor = Number(res[1])
     houseItem.face = houseTypeList[houseItem.house - 1][key].cx
     houseItem.voice = '--'
+    const priceItem = PriceList[houseItem.id - 1]
+      if (priceItem.house === houseItem.house && priceItem.roomId === houseItem.roomId) {
+        houseItem.totalPrice = priceItem.totalPrice
+      } else {
+        const pItem = getPriceItem(houseItem.house, houseItem.roomId)
+        houseItem.totalPrice = pItem.totalPrice
+      }
     return houseItem
 })
 

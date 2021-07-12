@@ -54,6 +54,16 @@
             {{ scope.row.direction }}（{{ scope.row.face || getHouseFace(scope.row.house, scope.row.roomId) }}）
           </template>
       </el-table-column>
+      <el-table-column prop="unitPrice" label="单价(元)" align="center">
+          <template #default="scope">
+              {{ (scope.row.totalPrice / scope.row.area).toFixed(2) }}
+          </template>
+      </el-table-column>
+      <el-table-column prop="totalPrice" label="总价(元)" align="center">
+          <template #default="scope">
+            <span class="text-danger">{{ (scope.row.totalPrice).toFixed(2) }}</span>
+          </template>
+      </el-table-column>
       <!-- <el-table-column prop="voice" label="噪音" align="center"></el-table-column> -->
       <el-table-column label="操作" align="center" min-width="150">
         <template #default="scope">

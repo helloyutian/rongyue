@@ -70,6 +70,16 @@
               {{ scope.row.direction }}（{{ scope.row.face }}）
           </template>
       </el-table-column>
+      <el-table-column prop="unitPrice" label="单价(元)" align="center" sortable>
+          <template #default="scope">
+              {{ (scope.row.totalPrice / scope.row.area).toFixed(2) }}
+          </template>
+      </el-table-column>
+      <el-table-column prop="totalPrice" label="总价(元)" align="center" sortable>
+          <template #default="scope">
+            <span class="text-danger">{{ (scope.row.totalPrice).toFixed(2) }}</span>
+          </template>
+      </el-table-column>
       <!-- <el-table-column prop="voice" label="噪音" align="center"></el-table-column> -->
       <el-table-column label="操作" align="center" min-width="320">
         <template #default="scope">
@@ -113,6 +123,7 @@
 import FloatBox from '@/components/floatBox.vue'
 import { getAllHouseList, addSpareList, addDisabledList } from '@/apis'
 import { vrList } from '@/assets/data'
+// import XLSX from 'xlsx'
 export default {
   name: 'Home',
   components: {
@@ -158,11 +169,12 @@ export default {
     //   reader.onload = (e) => {
     //     const data = new Uint8Array(e.target.result)
     //     const wb = XLSX.read(data, { type: 'array' })
-    //     const jsonData = XLSX.utils.sheet_to_json(wb.Sheets['s'])
+    //     console.log(wb)
+    //     const jsonData = XLSX.utils.sheet_to_json(wb.Sheets[wb.SheetNames[0]])
     //     console.log(JSON.stringify(jsonData))
     //   }
     //   reader.readAsArrayBuffer(file.raw)
-    // }
+    // },
     handleSizeChange(val) {
       this.queryParams.pageSize = val
       this.queryTableList()

@@ -1,0 +1,8198 @@
+[
+  {
+    "house": 1,
+    "roomId": 201,
+    "area": 66.0693,
+    "totalPrice": 749225.862
+  },
+  {
+    "house": 1,
+    "roomId": 202,
+    "area": 85.5162,
+    "totalPrice": 1080923.9032301044
+  },
+  {
+    "house": 1,
+    "roomId": 203,
+    "area": 85.5162,
+    "totalPrice": 1080944.1480149657
+  },
+  {
+    "house": 1,
+    "roomId": 204,
+    "area": 67.2084,
+    "totalPrice": 775564.7799596183
+  },
+  {
+    "house": 1,
+    "roomId": 205,
+    "area": 66.2074,
+    "totalPrice": 770641.3054281005
+  },
+  {
+    "house": 1,
+    "roomId": 206,
+    "area": 85.5162,
+    "totalPrice": 1089447.6686348806
+  },
+  {
+    "house": 1,
+    "roomId": 207,
+    "area": 85.5162,
+    "totalPrice": 1089463.8644627698
+  },
+  {
+    "house": 1,
+    "roomId": 208,
+    "area": 66.0693,
+    "totalPrice": 749238.4608946408
+  },
+  {
+    "house": 1,
+    "roomId": 301,
+    "area": 66.0693,
+    "totalPrice": 749225.862
+  },
+  {
+    "house": 1,
+    "roomId": 302,
+    "area": 85.5162,
+    "totalPrice": 1080923.9032301044
+  },
+  {
+    "house": 1,
+    "roomId": 303,
+    "area": 85.5162,
+    "totalPrice": 1080944.1480149657
+  },
+  {
+    "house": 1,
+    "roomId": 304,
+    "area": 67.2084,
+    "totalPrice": 775564.7799596183
+  },
+  {
+    "house": 1,
+    "roomId": 305,
+    "area": 66.2074,
+    "totalPrice": 770641.3054281005
+  },
+  {
+    "house": 1,
+    "roomId": 306,
+    "area": 85.5162,
+    "totalPrice": 1089447.6686348806
+  },
+  {
+    "house": 1,
+    "roomId": 307,
+    "area": 85.5162,
+    "totalPrice": 1089463.8644627698
+  },
+  {
+    "house": 1,
+    "roomId": 308,
+    "area": 66.0693,
+    "totalPrice": 749238.4608946408
+  },
+  {
+    "house": 1,
+    "roomId": 401,
+    "area": 66.0693,
+    "totalPrice": 749225.862
+  },
+  {
+    "house": 1,
+    "roomId": 402,
+    "area": 85.5162,
+    "totalPrice": 1080923.9032301044
+  },
+  {
+    "house": 1,
+    "roomId": 403,
+    "area": 85.5162,
+    "totalPrice": 1080944.1480149657
+  },
+  {
+    "house": 1,
+    "roomId": 404,
+    "area": 67.2084,
+    "totalPrice": 775564.7799596183
+  },
+  {
+    "house": 1,
+    "roomId": 405,
+    "area": 66.2074,
+    "totalPrice": 770641.3054281005
+  },
+  {
+    "house": 1,
+    "roomId": 406,
+    "area": 85.5162,
+    "totalPrice": 1089447.6686348806
+  },
+  {
+    "house": 1,
+    "roomId": 407,
+    "area": 85.5162,
+    "totalPrice": 1089463.8644627698
+  },
+  {
+    "house": 1,
+    "roomId": 408,
+    "area": 66.0693,
+    "totalPrice": 749238.4608946408
+  },
+  {
+    "house": 1,
+    "roomId": 501,
+    "area": 66.0693,
+    "totalPrice": 751055.4733846154
+  },
+  {
+    "house": 1,
+    "roomId": 502,
+    "area": 85.5162,
+    "totalPrice": 1083292.0441531814
+  },
+  {
+    "house": 1,
+    "roomId": 503,
+    "area": 85.5162,
+    "totalPrice": 1083312.2889380427
+  },
+  {
+    "house": 1,
+    "roomId": 504,
+    "area": 67.2084,
+    "totalPrice": 777425.9356519261
+  },
+  {
+    "house": 1,
+    "roomId": 505,
+    "area": 66.2074,
+    "totalPrice": 772474.7411204083
+  },
+  {
+    "house": 1,
+    "roomId": 506,
+    "area": 85.5162,
+    "totalPrice": 1091815.8095579576
+  },
+  {
+    "house": 1,
+    "roomId": 507,
+    "area": 85.5162,
+    "totalPrice": 1091832.0053858466
+  },
+  {
+    "house": 1,
+    "roomId": 508,
+    "area": 66.0693,
+    "totalPrice": 751068.0722792563
+  },
+  {
+    "house": 1,
+    "roomId": 601,
+    "area": 66.0693,
+    "totalPrice": 752885.0847692307
+  },
+  {
+    "house": 1,
+    "roomId": 602,
+    "area": 85.5162,
+    "totalPrice": 1085660.1850762581
+  },
+  {
+    "house": 1,
+    "roomId": 603,
+    "area": 85.5162,
+    "totalPrice": 1085680.4298611195
+  },
+  {
+    "house": 1,
+    "roomId": 604,
+    "area": 67.2084,
+    "totalPrice": 779287.0913442337
+  },
+  {
+    "house": 1,
+    "roomId": 605,
+    "area": 66.2074,
+    "totalPrice": 774308.176812716
+  },
+  {
+    "house": 1,
+    "roomId": 606,
+    "area": 85.5162,
+    "totalPrice": 1094183.9504810343
+  },
+  {
+    "house": 1,
+    "roomId": 607,
+    "area": 85.5162,
+    "totalPrice": 1094200.1463089236
+  },
+  {
+    "house": 1,
+    "roomId": 608,
+    "area": 66.0693,
+    "totalPrice": 752897.6836638716
+  },
+  {
+    "house": 1,
+    "roomId": 701,
+    "area": 66.0693,
+    "totalPrice": 754714.6961538462
+  },
+  {
+    "house": 1,
+    "roomId": 702,
+    "area": 85.5162,
+    "totalPrice": 1088028.3259993352
+  },
+  {
+    "house": 1,
+    "roomId": 703,
+    "area": 85.5162,
+    "totalPrice": 1088048.5707841965
+  },
+  {
+    "house": 1,
+    "roomId": 704,
+    "area": 67.2084,
+    "totalPrice": 781148.2470365415
+  },
+  {
+    "house": 1,
+    "roomId": 705,
+    "area": 66.2074,
+    "totalPrice": 776141.6125050236
+  },
+  {
+    "house": 1,
+    "roomId": 706,
+    "area": 85.5162,
+    "totalPrice": 1094578.6406348806
+  },
+  {
+    "house": 1,
+    "roomId": 707,
+    "area": 85.5162,
+    "totalPrice": 1094594.8364627697
+  },
+  {
+    "house": 1,
+    "roomId": 802,
+    "area": 85.5162,
+    "totalPrice": 1090396.4669224122
+  },
+  {
+    "house": 1,
+    "roomId": 803,
+    "area": 85.5162,
+    "totalPrice": 1090416.7117072735
+  },
+  {
+    "house": 1,
+    "roomId": 804,
+    "area": 67.2084,
+    "totalPrice": 783009.4027288491
+  },
+  {
+    "house": 1,
+    "roomId": 805,
+    "area": 66.2074,
+    "totalPrice": 777975.0481973313
+  },
+  {
+    "house": 1,
+    "roomId": 807,
+    "area": 85.5162,
+    "totalPrice": 1094594.8364627697
+  },
+  {
+    "house": 1,
+    "roomId": 808,
+    "area": 66.0693,
+    "totalPrice": 756556.9064331023
+  },
+  {
+    "house": 1,
+    "roomId": 901,
+    "area": 66.0693,
+    "totalPrice": 758373.9189230769
+  },
+  {
+    "house": 1,
+    "roomId": 902,
+    "area": 85.5162,
+    "totalPrice": 1092764.6078454892
+  },
+  {
+    "house": 1,
+    "roomId": 903,
+    "area": 85.5162,
+    "totalPrice": 1092784.8526303505
+  },
+  {
+    "house": 1,
+    "roomId": 904,
+    "area": 67.2084,
+    "totalPrice": 784870.5584211568
+  },
+  {
+    "house": 1,
+    "roomId": 905,
+    "area": 66.2074,
+    "totalPrice": 779808.483889639
+  },
+  {
+    "house": 1,
+    "roomId": 906,
+    "area": 85.5162,
+    "totalPrice": 1094578.6406348806
+  },
+  {
+    "house": 1,
+    "roomId": 907,
+    "area": 85.5162,
+    "totalPrice": 1094594.8364627697
+  },
+  {
+    "house": 1,
+    "roomId": 908,
+    "area": 66.0693,
+    "totalPrice": 758386.5178177177
+  },
+  {
+    "house": 1,
+    "roomId": 1001,
+    "area": 66.0693,
+    "totalPrice": 760203.5303076922
+  },
+  {
+    "house": 1,
+    "roomId": 1002,
+    "area": 85.5162,
+    "totalPrice": 1094606.4952301043
+  },
+  {
+    "house": 1,
+    "roomId": 1003,
+    "area": 85.5162,
+    "totalPrice": 1094626.7400149656
+  },
+  {
+    "house": 1,
+    "roomId": 1004,
+    "area": 67.2084,
+    "totalPrice": 786731.7141134645
+  },
+  {
+    "house": 1,
+    "roomId": 1005,
+    "area": 66.2074,
+    "totalPrice": 781641.9195819467
+  },
+  {
+    "house": 1,
+    "roomId": 1006,
+    "area": 85.5162,
+    "totalPrice": 1094578.6406348806
+  },
+  {
+    "house": 1,
+    "roomId": 1007,
+    "area": 85.5162,
+    "totalPrice": 1094594.8364627697
+  },
+  {
+    "house": 1,
+    "roomId": 1008,
+    "area": 66.0693,
+    "totalPrice": 760216.129202333
+  },
+  {
+    "house": 1,
+    "roomId": 1101,
+    "area": 66.0693,
+    "totalPrice": 762033.1416923077
+  },
+  {
+    "house": 1,
+    "roomId": 1102,
+    "area": 85.5162,
+    "totalPrice": 1094606.4952301043
+  },
+  {
+    "house": 1,
+    "roomId": 1103,
+    "area": 85.5162,
+    "totalPrice": 1094626.7400149656
+  },
+  {
+    "house": 1,
+    "roomId": 1104,
+    "area": 67.2084,
+    "totalPrice": 788592.8698057722
+  },
+  {
+    "house": 1,
+    "roomId": 1105,
+    "area": 66.2074,
+    "totalPrice": 783475.3552742545
+  },
+  {
+    "house": 1,
+    "roomId": 1106,
+    "area": 85.5162,
+    "totalPrice": 1094578.6406348806
+  },
+  {
+    "house": 1,
+    "roomId": 1107,
+    "area": 85.5162,
+    "totalPrice": 1094594.8364627697
+  },
+  {
+    "house": 1,
+    "roomId": 1108,
+    "area": 66.0693,
+    "totalPrice": 762045.7405869486
+  },
+  {
+    "house": 1,
+    "roomId": 1201,
+    "area": 66.0693,
+    "totalPrice": 763862.753076923
+  },
+  {
+    "house": 1,
+    "roomId": 1202,
+    "area": 85.5162,
+    "totalPrice": 1094606.4952301043
+  },
+  {
+    "house": 1,
+    "roomId": 1203,
+    "area": 85.5162,
+    "totalPrice": 1094626.7400149656
+  },
+  {
+    "house": 1,
+    "roomId": 1204,
+    "area": 67.2084,
+    "totalPrice": 790454.0254980798
+  },
+  {
+    "house": 1,
+    "roomId": 1205,
+    "area": 66.2074,
+    "totalPrice": 785308.790966562
+  },
+  {
+    "house": 1,
+    "roomId": 1206,
+    "area": 85.5162,
+    "totalPrice": 1094578.6406348806
+  },
+  {
+    "house": 1,
+    "roomId": 1207,
+    "area": 85.5162,
+    "totalPrice": 1094594.8364627697
+  },
+  {
+    "house": 1,
+    "roomId": 1208,
+    "area": 66.0693,
+    "totalPrice": 763875.3519715639
+  },
+  {
+    "house": 1,
+    "roomId": 1301,
+    "area": 66.0693,
+    "totalPrice": 763862.753076923
+  },
+  {
+    "house": 1,
+    "roomId": 1302,
+    "area": 85.5162,
+    "totalPrice": 1094606.4952301043
+  },
+  {
+    "house": 1,
+    "roomId": 1303,
+    "area": 85.5162,
+    "totalPrice": 1094626.7400149656
+  },
+  {
+    "house": 1,
+    "roomId": 1304,
+    "area": 67.2084,
+    "totalPrice": 790454.0254980798
+  },
+  {
+    "house": 1,
+    "roomId": 1305,
+    "area": 66.2074,
+    "totalPrice": 785308.790966562
+  },
+  {
+    "house": 1,
+    "roomId": 1306,
+    "area": 85.5162,
+    "totalPrice": 1094578.6406348806
+  },
+  {
+    "house": 1,
+    "roomId": 1307,
+    "area": 85.5162,
+    "totalPrice": 1094594.8364627697
+  },
+  {
+    "house": 1,
+    "roomId": 1308,
+    "area": 66.0693,
+    "totalPrice": 763875.3519715639
+  },
+  {
+    "house": 1,
+    "roomId": 1401,
+    "area": 66.0693,
+    "totalPrice": 765692.3644615385
+  },
+  {
+    "house": 1,
+    "roomId": 1402,
+    "area": 85.5162,
+    "totalPrice": 1094606.4952301043
+  },
+  {
+    "house": 1,
+    "roomId": 1403,
+    "area": 85.5162,
+    "totalPrice": 1094626.7400149656
+  },
+  {
+    "house": 1,
+    "roomId": 1404,
+    "area": 67.2084,
+    "totalPrice": 792315.1811903876
+  },
+  {
+    "house": 1,
+    "roomId": 1405,
+    "area": 66.2074,
+    "totalPrice": 787142.2266588698
+  },
+  {
+    "house": 1,
+    "roomId": 1406,
+    "area": 85.5162,
+    "totalPrice": 1094578.6406348806
+  },
+  {
+    "house": 1,
+    "roomId": 1407,
+    "area": 85.5162,
+    "totalPrice": 1094594.8364627697
+  },
+  {
+    "house": 1,
+    "roomId": 1408,
+    "area": 66.0693,
+    "totalPrice": 765704.9633561793
+  },
+  {
+    "house": 1,
+    "roomId": 1501,
+    "area": 66.0693,
+    "totalPrice": 767521.9758461538
+  },
+  {
+    "house": 1,
+    "roomId": 1502,
+    "area": 85.5162,
+    "totalPrice": 1094606.4952301043
+  },
+  {
+    "house": 1,
+    "roomId": 1503,
+    "area": 85.5162,
+    "totalPrice": 1094626.7400149656
+  },
+  {
+    "house": 1,
+    "roomId": 1504,
+    "area": 67.2084,
+    "totalPrice": 794176.3368826952
+  },
+  {
+    "house": 1,
+    "roomId": 1505,
+    "area": 66.2074,
+    "totalPrice": 788975.6623511774
+  },
+  {
+    "house": 1,
+    "roomId": 1506,
+    "area": 85.5162,
+    "totalPrice": 1094578.6406348806
+  },
+  {
+    "house": 1,
+    "roomId": 1507,
+    "area": 85.5162,
+    "totalPrice": 1094594.8364627697
+  },
+  {
+    "house": 1,
+    "roomId": 1508,
+    "area": 66.0693,
+    "totalPrice": 767534.5747407946
+  },
+  {
+    "house": 1,
+    "roomId": 1601,
+    "area": 66.0693,
+    "totalPrice": 769351.5872307692
+  },
+  {
+    "house": 1,
+    "roomId": 1602,
+    "area": 85.5162,
+    "totalPrice": 1094606.4952301043
+  },
+  {
+    "house": 1,
+    "roomId": 1603,
+    "area": 85.5162,
+    "totalPrice": 1094626.7400149656
+  },
+  {
+    "house": 1,
+    "roomId": 1604,
+    "area": 67.2084,
+    "totalPrice": 796037.492575003
+  },
+  {
+    "house": 1,
+    "roomId": 1605,
+    "area": 66.2074,
+    "totalPrice": 790809.0980434852
+  },
+  {
+    "house": 1,
+    "roomId": 1606,
+    "area": 85.5162,
+    "totalPrice": 1094578.6406348806
+  },
+  {
+    "house": 1,
+    "roomId": 1607,
+    "area": 85.5162,
+    "totalPrice": 1094594.8364627697
+  },
+  {
+    "house": 1,
+    "roomId": 1608,
+    "area": 66.0693,
+    "totalPrice": 769364.18612541
+  },
+  {
+    "house": 1,
+    "roomId": 1701,
+    "area": 66.0693,
+    "totalPrice": 771181.1986153845
+  },
+  {
+    "house": 1,
+    "roomId": 1702,
+    "area": 85.5162,
+    "totalPrice": 1094606.4952301043
+  },
+  {
+    "house": 1,
+    "roomId": 1703,
+    "area": 85.5162,
+    "totalPrice": 1094626.7400149656
+  },
+  {
+    "house": 1,
+    "roomId": 1704,
+    "area": 67.2084,
+    "totalPrice": 797898.6482673106
+  },
+  {
+    "house": 1,
+    "roomId": 1705,
+    "area": 66.2074,
+    "totalPrice": 792642.5337357927
+  },
+  {
+    "house": 1,
+    "roomId": 1706,
+    "area": 85.5162,
+    "totalPrice": 1094578.6406348806
+  },
+  {
+    "house": 1,
+    "roomId": 1707,
+    "area": 85.5162,
+    "totalPrice": 1094594.8364627697
+  },
+  {
+    "house": 1,
+    "roomId": 1708,
+    "area": 66.0693,
+    "totalPrice": 771193.7975100253
+  },
+  {
+    "house": 1,
+    "roomId": 1801,
+    "area": 66.0693,
+    "totalPrice": 773010.8099999999
+  },
+  {
+    "house": 1,
+    "roomId": 1802,
+    "area": 85.5162,
+    "totalPrice": 1094606.4952301043
+  },
+  {
+    "house": 1,
+    "roomId": 1803,
+    "area": 85.5162,
+    "totalPrice": 1094626.7400149656
+  },
+  {
+    "house": 1,
+    "roomId": 1804,
+    "area": 67.2084,
+    "totalPrice": 799759.8039596183
+  },
+  {
+    "house": 1,
+    "roomId": 1805,
+    "area": 66.2074,
+    "totalPrice": 794475.9694281005
+  },
+  {
+    "house": 1,
+    "roomId": 1806,
+    "area": 85.5162,
+    "totalPrice": 1094578.6406348806
+  },
+  {
+    "house": 1,
+    "roomId": 1807,
+    "area": 85.5162,
+    "totalPrice": 1094594.8364627697
+  },
+  {
+    "house": 1,
+    "roomId": 1808,
+    "area": 66.0693,
+    "totalPrice": 773023.4088946409
+  },
+  {
+    "house": 1,
+    "roomId": 1901,
+    "area": 66.0693,
+    "totalPrice": 774840.4213846155
+  },
+  {
+    "house": 1,
+    "roomId": 1902,
+    "area": 85.5162,
+    "totalPrice": 1094606.4952301043
+  },
+  {
+    "house": 1,
+    "roomId": 1903,
+    "area": 85.5162,
+    "totalPrice": 1094626.7400149656
+  },
+  {
+    "house": 1,
+    "roomId": 1904,
+    "area": 67.2084,
+    "totalPrice": 801620.9596519261
+  },
+  {
+    "house": 1,
+    "roomId": 1905,
+    "area": 66.2074,
+    "totalPrice": 796309.4051204083
+  },
+  {
+    "house": 1,
+    "roomId": 1906,
+    "area": 85.5162,
+    "totalPrice": 1094578.6406348806
+  },
+  {
+    "house": 1,
+    "roomId": 1907,
+    "area": 85.5162,
+    "totalPrice": 1094594.8364627697
+  },
+  {
+    "house": 1,
+    "roomId": 1908,
+    "area": 66.0693,
+    "totalPrice": 774853.0202792563
+  },
+  {
+    "house": 1,
+    "roomId": 2001,
+    "area": 66.0693,
+    "totalPrice": 776670.0327692308
+  },
+  {
+    "house": 1,
+    "roomId": 2002,
+    "area": 85.5162,
+    "totalPrice": 1094606.4952301043
+  },
+  {
+    "house": 1,
+    "roomId": 2003,
+    "area": 85.5162,
+    "totalPrice": 1094626.7400149656
+  },
+  {
+    "house": 1,
+    "roomId": 2004,
+    "area": 67.2084,
+    "totalPrice": 803482.1153442337
+  },
+  {
+    "house": 1,
+    "roomId": 2005,
+    "area": 66.2074,
+    "totalPrice": 798142.8408127159
+  },
+  {
+    "house": 1,
+    "roomId": 2006,
+    "area": 85.5162,
+    "totalPrice": 1094578.6406348806
+  },
+  {
+    "house": 1,
+    "roomId": 2007,
+    "area": 85.5162,
+    "totalPrice": 1094594.8364627697
+  },
+  {
+    "house": 1,
+    "roomId": 2008,
+    "area": 66.0693,
+    "totalPrice": 776682.6316638716
+  },
+  {
+    "house": 1,
+    "roomId": 2101,
+    "area": 66.0693,
+    "totalPrice": 778499.6441538462
+  },
+  {
+    "house": 1,
+    "roomId": 2102,
+    "area": 85.5162,
+    "totalPrice": 1094606.4952301043
+  },
+  {
+    "house": 1,
+    "roomId": 2103,
+    "area": 85.5162,
+    "totalPrice": 1094626.7400149656
+  },
+  {
+    "house": 1,
+    "roomId": 2104,
+    "area": 67.2084,
+    "totalPrice": 805343.2710365414
+  },
+  {
+    "house": 1,
+    "roomId": 2105,
+    "area": 66.2074,
+    "totalPrice": 799976.2765050237
+  },
+  {
+    "house": 1,
+    "roomId": 2106,
+    "area": 85.5162,
+    "totalPrice": 1094578.6406348806
+  },
+  {
+    "house": 1,
+    "roomId": 2107,
+    "area": 85.5162,
+    "totalPrice": 1094594.8364627697
+  },
+  {
+    "house": 1,
+    "roomId": 2108,
+    "area": 66.0693,
+    "totalPrice": 778512.243048487
+  },
+  {
+    "house": 1,
+    "roomId": 2201,
+    "area": 66.0693,
+    "totalPrice": 780329.2555384615
+  },
+  {
+    "house": 1,
+    "roomId": 2202,
+    "area": 85.5162,
+    "totalPrice": 1094606.4952301043
+  },
+  {
+    "house": 1,
+    "roomId": 2203,
+    "area": 85.5162,
+    "totalPrice": 1094626.7400149656
+  },
+  {
+    "house": 1,
+    "roomId": 2204,
+    "area": 67.2084,
+    "totalPrice": 807204.4267288491
+  },
+  {
+    "house": 1,
+    "roomId": 2205,
+    "area": 66.2074,
+    "totalPrice": 801809.7121973312
+  },
+  {
+    "house": 1,
+    "roomId": 2206,
+    "area": 85.5162,
+    "totalPrice": 1094578.6406348806
+  },
+  {
+    "house": 1,
+    "roomId": 2207,
+    "area": 85.5162,
+    "totalPrice": 1094594.8364627697
+  },
+  {
+    "house": 1,
+    "roomId": 2208,
+    "area": 66.0693,
+    "totalPrice": 780341.8544331023
+  },
+  {
+    "house": 1,
+    "roomId": 2301,
+    "area": 66.0693,
+    "totalPrice": 780329.2555384615
+  },
+  {
+    "house": 1,
+    "roomId": 2302,
+    "area": 85.5162,
+    "totalPrice": 1094606.4952301043
+  },
+  {
+    "house": 1,
+    "roomId": 2303,
+    "area": 85.5162,
+    "totalPrice": 1094626.7400149656
+  },
+  {
+    "house": 1,
+    "roomId": 2304,
+    "area": 67.2084,
+    "totalPrice": 807204.4267288491
+  },
+  {
+    "house": 1,
+    "roomId": 2305,
+    "area": 66.2074,
+    "totalPrice": 801809.7121973312
+  },
+  {
+    "house": 1,
+    "roomId": 2306,
+    "area": 85.5162,
+    "totalPrice": 1094578.6406348806
+  },
+  {
+    "house": 1,
+    "roomId": 2307,
+    "area": 85.5162,
+    "totalPrice": 1094594.8364627697
+  },
+  {
+    "house": 1,
+    "roomId": 2308,
+    "area": 66.0693,
+    "totalPrice": 780341.8544331023
+  },
+  {
+    "house": 1,
+    "roomId": 2401,
+    "area": 66.0693,
+    "totalPrice": 782158.8669230769
+  },
+  {
+    "house": 1,
+    "roomId": 2402,
+    "area": 85.5162,
+    "totalPrice": 1094606.4952301043
+  },
+  {
+    "house": 1,
+    "roomId": 2403,
+    "area": 85.5162,
+    "totalPrice": 1094626.7400149656
+  },
+  {
+    "house": 1,
+    "roomId": 2404,
+    "area": 67.2084,
+    "totalPrice": 809065.5824211568
+  },
+  {
+    "house": 1,
+    "roomId": 2405,
+    "area": 66.2074,
+    "totalPrice": 803643.147889639
+  },
+  {
+    "house": 1,
+    "roomId": 2406,
+    "area": 85.5162,
+    "totalPrice": 1094578.6406348806
+  },
+  {
+    "house": 1,
+    "roomId": 2407,
+    "area": 85.5162,
+    "totalPrice": 1094594.8364627697
+  },
+  {
+    "house": 1,
+    "roomId": 2408,
+    "area": 66.0693,
+    "totalPrice": 782171.4658177178
+  },
+  {
+    "house": 1,
+    "roomId": 2501,
+    "area": 66.0693,
+    "totalPrice": 783966.2898995323
+  },
+  {
+    "house": 1,
+    "roomId": 2502,
+    "area": 85.5162,
+    "totalPrice": 1094606.4952301043
+  },
+  {
+    "house": 1,
+    "roomId": 2503,
+    "area": 85.5162,
+    "totalPrice": 1094626.7400149656
+  },
+  {
+    "house": 1,
+    "roomId": 2504,
+    "area": 67.2084,
+    "totalPrice": 810926.7381134644
+  },
+  {
+    "house": 1,
+    "roomId": 2505,
+    "area": 66.2074,
+    "totalPrice": 805476.5835819467
+  },
+  {
+    "house": 1,
+    "roomId": 2506,
+    "area": 85.5162,
+    "totalPrice": 1094578.6406348806
+  },
+  {
+    "house": 1,
+    "roomId": 2507,
+    "area": 85.5162,
+    "totalPrice": 1094594.8364627697
+  },
+  {
+    "house": 1,
+    "roomId": 2508,
+    "area": 66.0693,
+    "totalPrice": 784001.0772023331
+  },
+  {
+    "house": 1,
+    "roomId": 2601,
+    "area": 66.0693,
+    "totalPrice": 785818.0896923078
+  },
+  {
+    "house": 1,
+    "roomId": 2602,
+    "area": 85.5162,
+    "totalPrice": 1094606.4952301043
+  },
+  {
+    "house": 1,
+    "roomId": 2603,
+    "area": 85.5162,
+    "totalPrice": 1094626.7400149656
+  },
+  {
+    "house": 1,
+    "roomId": 2604,
+    "area": 67.2084,
+    "totalPrice": 812787.8938057722
+  },
+  {
+    "house": 1,
+    "roomId": 2605,
+    "area": 66.2074,
+    "totalPrice": 807310.0192742544
+  },
+  {
+    "house": 1,
+    "roomId": 2606,
+    "area": 85.5162,
+    "totalPrice": 1094578.6406348806
+  },
+  {
+    "house": 1,
+    "roomId": 2607,
+    "area": 85.5162,
+    "totalPrice": 1094594.8364627697
+  },
+  {
+    "house": 1,
+    "roomId": 2608,
+    "area": 66.0693,
+    "totalPrice": 785830.6885869486
+  },
+  {
+    "house": 1,
+    "roomId": 2701,
+    "area": 66.0693,
+    "totalPrice": 787647.701076923
+  },
+  {
+    "house": 1,
+    "roomId": 2702,
+    "area": 85.5162,
+    "totalPrice": 1094606.4952301043
+  },
+  {
+    "house": 1,
+    "roomId": 2703,
+    "area": 85.5162,
+    "totalPrice": 1094626.7400149656
+  },
+  {
+    "house": 1,
+    "roomId": 2704,
+    "area": 67.2084,
+    "totalPrice": 814649.0494980798
+  },
+  {
+    "house": 1,
+    "roomId": 2705,
+    "area": 66.2074,
+    "totalPrice": 809143.454966562
+  },
+  {
+    "house": 1,
+    "roomId": 2706,
+    "area": 85.5162,
+    "totalPrice": 1094578.6406348806
+  },
+  {
+    "house": 1,
+    "roomId": 2707,
+    "area": 85.5162,
+    "totalPrice": 1094594.8364627697
+  },
+  {
+    "house": 1,
+    "roomId": 2708,
+    "area": 66.0693,
+    "totalPrice": 787660.2999715639
+  },
+  {
+    "house": 1,
+    "roomId": 2801,
+    "area": 66.0693,
+    "totalPrice": 789477.3124615385
+  },
+  {
+    "house": 1,
+    "roomId": 2802,
+    "area": 85.5162,
+    "totalPrice": 1094606.4952301043
+  },
+  {
+    "house": 1,
+    "roomId": 2803,
+    "area": 85.5162,
+    "totalPrice": 1094626.7400149656
+  },
+  {
+    "house": 1,
+    "roomId": 2804,
+    "area": 67.2084,
+    "totalPrice": 816510.2051903876
+  },
+  {
+    "house": 1,
+    "roomId": 2805,
+    "area": 66.2074,
+    "totalPrice": 810976.8906588698
+  },
+  {
+    "house": 1,
+    "roomId": 2806,
+    "area": 85.5162,
+    "totalPrice": 1094578.6406348806
+  },
+  {
+    "house": 1,
+    "roomId": 2807,
+    "area": 85.5162,
+    "totalPrice": 1094594.8364627697
+  },
+  {
+    "house": 1,
+    "roomId": 2808,
+    "area": 66.0693,
+    "totalPrice": 789489.9113561793
+  },
+  {
+    "house": 1,
+    "roomId": 2901,
+    "area": 66.0693,
+    "totalPrice": 791306.9238461538
+  },
+  {
+    "house": 1,
+    "roomId": 2902,
+    "area": 85.5162,
+    "totalPrice": 1094606.4952301043
+  },
+  {
+    "house": 1,
+    "roomId": 2903,
+    "area": 85.5162,
+    "totalPrice": 1094626.7400149656
+  },
+  {
+    "house": 1,
+    "roomId": 2904,
+    "area": 67.2084,
+    "totalPrice": 818371.3608826952
+  },
+  {
+    "house": 1,
+    "roomId": 2905,
+    "area": 66.2074,
+    "totalPrice": 812810.3263511774
+  },
+  {
+    "house": 1,
+    "roomId": 2906,
+    "area": 85.5162,
+    "totalPrice": 1094578.6406348806
+  },
+  {
+    "house": 1,
+    "roomId": 2907,
+    "area": 85.5162,
+    "totalPrice": 1094594.8364627697
+  },
+  {
+    "house": 1,
+    "roomId": 2908,
+    "area": 66.0693,
+    "totalPrice": 791319.5227407946
+  },
+  {
+    "house": 1,
+    "roomId": 3001,
+    "area": 66.0693,
+    "totalPrice": 793136.5352307692
+  },
+  {
+    "house": 1,
+    "roomId": 3002,
+    "area": 85.5162,
+    "totalPrice": 1094606.4952301043
+  },
+  {
+    "house": 1,
+    "roomId": 3003,
+    "area": 85.5162,
+    "totalPrice": 1094626.7400149656
+  },
+  {
+    "house": 1,
+    "roomId": 3004,
+    "area": 67.2084,
+    "totalPrice": 820232.5165750029
+  },
+  {
+    "house": 1,
+    "roomId": 3005,
+    "area": 66.2074,
+    "totalPrice": 814643.7620434852
+  },
+  {
+    "house": 1,
+    "roomId": 3006,
+    "area": 85.5162,
+    "totalPrice": 1094578.6406348806
+  },
+  {
+    "house": 1,
+    "roomId": 3007,
+    "area": 85.5162,
+    "totalPrice": 1094594.8364627697
+  },
+  {
+    "house": 1,
+    "roomId": 3008,
+    "area": 66.0693,
+    "totalPrice": 793149.1341254101
+  },
+  {
+    "house": 1,
+    "roomId": 3101,
+    "area": 66.0693,
+    "totalPrice": 794966.1466153845
+  },
+  {
+    "house": 1,
+    "roomId": 3102,
+    "area": 85.5162,
+    "totalPrice": 1094606.4952301043
+  },
+  {
+    "house": 1,
+    "roomId": 3103,
+    "area": 85.5162,
+    "totalPrice": 1094626.7400149656
+  },
+  {
+    "house": 1,
+    "roomId": 3104,
+    "area": 67.2084,
+    "totalPrice": 822093.6722673106
+  },
+  {
+    "house": 1,
+    "roomId": 3105,
+    "area": 66.2074,
+    "totalPrice": 816477.1977357928
+  },
+  {
+    "house": 1,
+    "roomId": 3106,
+    "area": 85.5162,
+    "totalPrice": 1094578.6406348806
+  },
+  {
+    "house": 1,
+    "roomId": 3107,
+    "area": 85.5162,
+    "totalPrice": 1094594.8364627697
+  },
+  {
+    "house": 1,
+    "roomId": 3108,
+    "area": 66.0693,
+    "totalPrice": 794978.7455100254
+  },
+  {
+    "house": 1,
+    "roomId": 3201,
+    "area": 66.0693,
+    "totalPrice": 796795.758
+  },
+  {
+    "house": 1,
+    "roomId": 3202,
+    "area": 85.5162,
+    "totalPrice": 1094606.4952301043
+  },
+  {
+    "house": 1,
+    "roomId": 3203,
+    "area": 85.5162,
+    "totalPrice": 1094626.7400149656
+  },
+  {
+    "house": 1,
+    "roomId": 3204,
+    "area": 67.2084,
+    "totalPrice": 823954.8279596183
+  },
+  {
+    "house": 1,
+    "roomId": 3205,
+    "area": 66.2074,
+    "totalPrice": 818310.6334281005
+  },
+  {
+    "house": 1,
+    "roomId": 3206,
+    "area": 85.5162,
+    "totalPrice": 1094578.6406348806
+  },
+  {
+    "house": 1,
+    "roomId": 3207,
+    "area": 85.5162,
+    "totalPrice": 1094594.8364627697
+  },
+  {
+    "house": 1,
+    "roomId": 3208,
+    "area": 66.0693,
+    "totalPrice": 796808.3568946408
+  },
+  {
+    "house": 1,
+    "roomId": 3301,
+    "area": 66.0693,
+    "totalPrice": 794966.1466153845
+  },
+  {
+    "house": 1,
+    "roomId": 3302,
+    "area": 85.5162,
+    "totalPrice": 1094606.4952301043
+  },
+  {
+    "house": 1,
+    "roomId": 3303,
+    "area": 85.5162,
+    "totalPrice": 1094626.7400149656
+  },
+  {
+    "house": 1,
+    "roomId": 3304,
+    "area": 67.2084,
+    "totalPrice": 822093.6722673106
+  },
+  {
+    "house": 1,
+    "roomId": 3305,
+    "area": 66.2074,
+    "totalPrice": 816477.1977357928
+  },
+  {
+    "house": 1,
+    "roomId": 3306,
+    "area": 85.5162,
+    "totalPrice": 1094578.6406348806
+  },
+  {
+    "house": 1,
+    "roomId": 3307,
+    "area": 85.5162,
+    "totalPrice": 1094594.8364627697
+  },
+  {
+    "house": 1,
+    "roomId": 3308,
+    "area": 66.0693,
+    "totalPrice": 794978.7455100254
+  },
+  {
+    "house": 2,
+    "roomId": 201,
+    "area": 67.2084,
+    "totalPrice": 748694.1484915117
+  },
+  {
+    "house": 2,
+    "roomId": 202,
+    "area": 85.5162,
+    "totalPrice": 1080960.343842855
+  },
+  {
+    "house": 2,
+    "roomId": 203,
+    "area": 85.5162,
+    "totalPrice": 1080944.1480149657
+  },
+  {
+    "house": 2,
+    "roomId": 204,
+    "area": 67.2084,
+    "totalPrice": 748681.4199596184
+  },
+  {
+    "house": 2,
+    "roomId": 205,
+    "area": 66.3863,
+    "totalPrice": 845783.550970437
+  },
+  {
+    "house": 2,
+    "roomId": 206,
+    "area": 69.6654,
+    "totalPrice": 810881.8598942471
+  },
+  {
+    "house": 2,
+    "roomId": 207,
+    "area": 87.5153,
+    "totalPrice": 1114903.1004397974
+  },
+  {
+    "house": 2,
+    "roomId": 301,
+    "area": 67.2084,
+    "totalPrice": 748694.1484915117
+  },
+  {
+    "house": 2,
+    "roomId": 302,
+    "area": 85.5162,
+    "totalPrice": 1080960.343842855
+  },
+  {
+    "house": 2,
+    "roomId": 303,
+    "area": 85.5162,
+    "totalPrice": 1080944.1480149657
+  },
+  {
+    "house": 2,
+    "roomId": 304,
+    "area": 67.2084,
+    "totalPrice": 748681.4199596184
+  },
+  {
+    "house": 2,
+    "roomId": 305,
+    "area": 66.3863,
+    "totalPrice": 845783.550970437
+  },
+  {
+    "house": 2,
+    "roomId": 306,
+    "area": 69.6654,
+    "totalPrice": 810881.8598942471
+  },
+  {
+    "house": 2,
+    "roomId": 307,
+    "area": 87.5153,
+    "totalPrice": 1114903.1004397974
+  },
+  {
+    "house": 2,
+    "roomId": 401,
+    "area": 67.2084,
+    "totalPrice": 748694.1484915117
+  },
+  {
+    "house": 2,
+    "roomId": 402,
+    "area": 85.5162,
+    "totalPrice": 1080960.343842855
+  },
+  {
+    "house": 2,
+    "roomId": 403,
+    "area": 85.5162,
+    "totalPrice": 1080944.1480149657
+  },
+  {
+    "house": 2,
+    "roomId": 404,
+    "area": 67.2084,
+    "totalPrice": 748681.4199596184
+  },
+  {
+    "house": 2,
+    "roomId": 405,
+    "area": 66.3863,
+    "totalPrice": 845783.550970437
+  },
+  {
+    "house": 2,
+    "roomId": 406,
+    "area": 69.6654,
+    "totalPrice": 810881.8598942471
+  },
+  {
+    "house": 2,
+    "roomId": 407,
+    "area": 87.5153,
+    "totalPrice": 1114903.1004397974
+  },
+  {
+    "house": 2,
+    "roomId": 501,
+    "area": 67.2084,
+    "totalPrice": 750555.3041838194
+  },
+  {
+    "house": 2,
+    "roomId": 502,
+    "area": 85.5162,
+    "totalPrice": 1083328.484765932
+  },
+  {
+    "house": 2,
+    "roomId": 503,
+    "area": 85.5162,
+    "totalPrice": 1083312.2889380427
+  },
+  {
+    "house": 2,
+    "roomId": 504,
+    "area": 67.2084,
+    "totalPrice": 750542.5756519261
+  },
+  {
+    "house": 2,
+    "roomId": 505,
+    "area": 66.3863,
+    "totalPrice": 847621.9408165909
+  },
+  {
+    "house": 2,
+    "roomId": 506,
+    "area": 69.6654,
+    "totalPrice": 812811.0555865548
+  },
+  {
+    "house": 2,
+    "roomId": 507,
+    "area": 87.5153,
+    "totalPrice": 1117326.601055182
+  },
+  {
+    "house": 2,
+    "roomId": 601,
+    "area": 67.2084,
+    "totalPrice": 752416.4598761271
+  },
+  {
+    "house": 2,
+    "roomId": 602,
+    "area": 85.5162,
+    "totalPrice": 1085696.6256890087
+  },
+  {
+    "house": 2,
+    "roomId": 603,
+    "area": 85.5162,
+    "totalPrice": 1085680.4298611195
+  },
+  {
+    "house": 2,
+    "roomId": 604,
+    "area": 67.2084,
+    "totalPrice": 752403.7313442337
+  },
+  {
+    "house": 2,
+    "roomId": 605,
+    "area": 66.3863,
+    "totalPrice": 849460.3306627447
+  },
+  {
+    "house": 2,
+    "roomId": 606,
+    "area": 69.6654,
+    "totalPrice": 814740.2512788625
+  },
+  {
+    "house": 2,
+    "roomId": 607,
+    "area": 87.5153,
+    "totalPrice": 1119750.1016705667
+  },
+  {
+    "house": 2,
+    "roomId": 701,
+    "area": 67.2084,
+    "totalPrice": 754277.6155684348
+  },
+  {
+    "house": 2,
+    "roomId": 702,
+    "area": 85.5162,
+    "totalPrice": 1088064.7666120857
+  },
+  {
+    "house": 2,
+    "roomId": 703,
+    "area": 85.5162,
+    "totalPrice": 1088048.5707841965
+  },
+  {
+    "house": 2,
+    "roomId": 704,
+    "area": 67.2084,
+    "totalPrice": 754264.8870365415
+  },
+  {
+    "house": 2,
+    "roomId": 705,
+    "area": 66.3863,
+    "totalPrice": 851298.7205088986
+  },
+  {
+    "house": 2,
+    "roomId": 706,
+    "area": 69.6654,
+    "totalPrice": 816669.4469711703
+  },
+  {
+    "house": 2,
+    "roomId": 707,
+    "area": 87.5153,
+    "totalPrice": 1122173.6022859514
+  },
+  {
+    "house": 2,
+    "roomId": 801,
+    "area": 67.2084,
+    "totalPrice": 756138.7712607424
+  },
+  {
+    "house": 2,
+    "roomId": 802,
+    "area": 85.5162,
+    "totalPrice": 1090432.9075351625
+  },
+  {
+    "house": 2,
+    "roomId": 803,
+    "area": 85.5162,
+    "totalPrice": 1090416.7117072735
+  },
+  {
+    "house": 2,
+    "roomId": 804,
+    "area": 67.2084,
+    "totalPrice": 756126.0427288491
+  },
+  {
+    "house": 2,
+    "roomId": 805,
+    "area": 66.3863,
+    "totalPrice": 853137.1103550524
+  },
+  {
+    "house": 2,
+    "roomId": 806,
+    "area": 69.6654,
+    "totalPrice": 818598.6426634778
+  },
+  {
+    "house": 2,
+    "roomId": 807,
+    "area": 87.5153,
+    "totalPrice": 1124597.1029013358
+  },
+  {
+    "house": 2,
+    "roomId": 901,
+    "area": 67.2084,
+    "totalPrice": 757999.9269530502
+  },
+  {
+    "house": 2,
+    "roomId": 902,
+    "area": 85.5162,
+    "totalPrice": 1092801.0484582395
+  },
+  {
+    "house": 2,
+    "roomId": 903,
+    "area": 85.5162,
+    "totalPrice": 1092784.8526303505
+  },
+  {
+    "house": 2,
+    "roomId": 904,
+    "area": 67.2084,
+    "totalPrice": 757987.1984211568
+  },
+  {
+    "house": 2,
+    "roomId": 905,
+    "area": 66.3863,
+    "totalPrice": 854975.5002012063
+  },
+  {
+    "house": 2,
+    "roomId": 906,
+    "area": 69.6654,
+    "totalPrice": 820527.8383557856
+  },
+  {
+    "house": 2,
+    "roomId": 907,
+    "area": 87.5153,
+    "totalPrice": 1127020.6035167205
+  },
+  {
+    "house": 2,
+    "roomId": 1001,
+    "area": 67.2084,
+    "totalPrice": 759861.0826453578
+  },
+  {
+    "house": 2,
+    "roomId": 1002,
+    "area": 85.5162,
+    "totalPrice": 1094642.935842855
+  },
+  {
+    "house": 2,
+    "roomId": 1003,
+    "area": 85.5162,
+    "totalPrice": 1093771.5780149659
+  },
+  {
+    "house": 2,
+    "roomId": 1004,
+    "area": 67.2084,
+    "totalPrice": 759848.3541134645
+  },
+  {
+    "house": 2,
+    "roomId": 1005,
+    "area": 66.3863,
+    "totalPrice": 856405.358970437
+  },
+  {
+    "house": 2,
+    "roomId": 1006,
+    "area": 69.6654,
+    "totalPrice": 822457.0340480933
+  },
+  {
+    "house": 2,
+    "roomId": 1007,
+    "area": 87.5153,
+    "totalPrice": 1128905.5484397975
+  },
+  {
+    "house": 2,
+    "roomId": 1101,
+    "area": 67.2084,
+    "totalPrice": 761722.2383376656
+  },
+  {
+    "house": 2,
+    "roomId": 1102,
+    "area": 85.5162,
+    "totalPrice": 1094642.935842855
+  },
+  {
+    "house": 2,
+    "roomId": 1103,
+    "area": 85.5162,
+    "totalPrice": 1093771.5780149659
+  },
+  {
+    "house": 2,
+    "roomId": 1104,
+    "area": 67.2084,
+    "totalPrice": 761709.5098057722
+  },
+  {
+    "house": 2,
+    "roomId": 1105,
+    "area": 66.3863,
+    "totalPrice": 856405.358970437
+  },
+  {
+    "house": 2,
+    "roomId": 1106,
+    "area": 69.6654,
+    "totalPrice": 824386.2297404009
+  },
+  {
+    "house": 2,
+    "roomId": 1107,
+    "area": 87.5153,
+    "totalPrice": 1128905.5484397975
+  },
+  {
+    "house": 2,
+    "roomId": 1201,
+    "area": 67.2084,
+    "totalPrice": 763583.3940299732
+  },
+  {
+    "house": 2,
+    "roomId": 1202,
+    "area": 85.5162,
+    "totalPrice": 1094642.935842855
+  },
+  {
+    "house": 2,
+    "roomId": 1203,
+    "area": 85.5162,
+    "totalPrice": 1093771.5780149659
+  },
+  {
+    "house": 2,
+    "roomId": 1204,
+    "area": 67.2084,
+    "totalPrice": 763570.6654980798
+  },
+  {
+    "house": 2,
+    "roomId": 1205,
+    "area": 66.3863,
+    "totalPrice": 856405.358970437
+  },
+  {
+    "house": 2,
+    "roomId": 1206,
+    "area": 69.6654,
+    "totalPrice": 826315.4254327086
+  },
+  {
+    "house": 2,
+    "roomId": 1207,
+    "area": 87.5153,
+    "totalPrice": 1128905.5484397975
+  },
+  {
+    "house": 2,
+    "roomId": 1301,
+    "area": 67.2084,
+    "totalPrice": 763583.3940299732
+  },
+  {
+    "house": 2,
+    "roomId": 1302,
+    "area": 85.5162,
+    "totalPrice": 1094642.935842855
+  },
+  {
+    "house": 2,
+    "roomId": 1303,
+    "area": 85.5162,
+    "totalPrice": 1093771.5780149659
+  },
+  {
+    "house": 2,
+    "roomId": 1304,
+    "area": 67.2084,
+    "totalPrice": 763570.6654980798
+  },
+  {
+    "house": 2,
+    "roomId": 1305,
+    "area": 66.3863,
+    "totalPrice": 856405.358970437
+  },
+  {
+    "house": 2,
+    "roomId": 1306,
+    "area": 69.6654,
+    "totalPrice": 826315.4254327086
+  },
+  {
+    "house": 2,
+    "roomId": 1307,
+    "area": 87.5153,
+    "totalPrice": 1128905.5484397975
+  },
+  {
+    "house": 2,
+    "roomId": 1401,
+    "area": 67.2084,
+    "totalPrice": 765444.5497222809
+  },
+  {
+    "house": 2,
+    "roomId": 1402,
+    "area": 85.5162,
+    "totalPrice": 1094642.935842855
+  },
+  {
+    "house": 2,
+    "roomId": 1403,
+    "area": 85.5162,
+    "totalPrice": 1093771.5780149659
+  },
+  {
+    "house": 2,
+    "roomId": 1404,
+    "area": 67.2084,
+    "totalPrice": 765431.8211903876
+  },
+  {
+    "house": 2,
+    "roomId": 1405,
+    "area": 66.3863,
+    "totalPrice": 856405.358970437
+  },
+  {
+    "house": 2,
+    "roomId": 1406,
+    "area": 69.6654,
+    "totalPrice": 828244.6211250164
+  },
+  {
+    "house": 2,
+    "roomId": 1407,
+    "area": 87.5153,
+    "totalPrice": 1128905.5484397975
+  },
+  {
+    "house": 2,
+    "roomId": 1501,
+    "area": 67.2084,
+    "totalPrice": 767305.7054145886
+  },
+  {
+    "house": 2,
+    "roomId": 1502,
+    "area": 85.5162,
+    "totalPrice": 1094642.935842855
+  },
+  {
+    "house": 2,
+    "roomId": 1503,
+    "area": 85.5162,
+    "totalPrice": 1093771.5780149659
+  },
+  {
+    "house": 2,
+    "roomId": 1504,
+    "area": 67.2084,
+    "totalPrice": 767292.9768826952
+  },
+  {
+    "house": 2,
+    "roomId": 1505,
+    "area": 66.3863,
+    "totalPrice": 856405.358970437
+  },
+  {
+    "house": 2,
+    "roomId": 1506,
+    "area": 69.6654,
+    "totalPrice": 830173.8168173239
+  },
+  {
+    "house": 2,
+    "roomId": 1507,
+    "area": 87.5153,
+    "totalPrice": 1128905.5484397975
+  },
+  {
+    "house": 2,
+    "roomId": 1601,
+    "area": 67.2084,
+    "totalPrice": 769166.8611068963
+  },
+  {
+    "house": 2,
+    "roomId": 1602,
+    "area": 85.5162,
+    "totalPrice": 1094642.935842855
+  },
+  {
+    "house": 2,
+    "roomId": 1603,
+    "area": 85.5162,
+    "totalPrice": 1093771.5780149659
+  },
+  {
+    "house": 2,
+    "roomId": 1604,
+    "area": 67.2084,
+    "totalPrice": 769154.132575003
+  },
+  {
+    "house": 2,
+    "roomId": 1605,
+    "area": 66.3863,
+    "totalPrice": 856405.358970437
+  },
+  {
+    "house": 2,
+    "roomId": 1606,
+    "area": 69.6654,
+    "totalPrice": 832103.0125096317
+  },
+  {
+    "house": 2,
+    "roomId": 1607,
+    "area": 87.5153,
+    "totalPrice": 1128905.5484397975
+  },
+  {
+    "house": 2,
+    "roomId": 1701,
+    "area": 67.2084,
+    "totalPrice": 771028.0167992039
+  },
+  {
+    "house": 2,
+    "roomId": 1702,
+    "area": 85.5162,
+    "totalPrice": 1094642.935842855
+  },
+  {
+    "house": 2,
+    "roomId": 1703,
+    "area": 85.5162,
+    "totalPrice": 1093771.5780149659
+  },
+  {
+    "house": 2,
+    "roomId": 1704,
+    "area": 67.2084,
+    "totalPrice": 771015.2882673106
+  },
+  {
+    "house": 2,
+    "roomId": 1705,
+    "area": 66.3863,
+    "totalPrice": 856405.358970437
+  },
+  {
+    "house": 2,
+    "roomId": 1706,
+    "area": 69.6654,
+    "totalPrice": 834032.2082019394
+  },
+  {
+    "house": 2,
+    "roomId": 1707,
+    "area": 87.5153,
+    "totalPrice": 1128905.5484397975
+  },
+  {
+    "house": 2,
+    "roomId": 1801,
+    "area": 67.2084,
+    "totalPrice": 772889.1724915117
+  },
+  {
+    "house": 2,
+    "roomId": 1802,
+    "area": 85.5162,
+    "totalPrice": 1094642.935842855
+  },
+  {
+    "house": 2,
+    "roomId": 1803,
+    "area": 85.5162,
+    "totalPrice": 1093771.5780149659
+  },
+  {
+    "house": 2,
+    "roomId": 1804,
+    "area": 67.2084,
+    "totalPrice": 772876.4439596183
+  },
+  {
+    "house": 2,
+    "roomId": 1805,
+    "area": 66.3863,
+    "totalPrice": 856405.358970437
+  },
+  {
+    "house": 2,
+    "roomId": 1806,
+    "area": 69.6654,
+    "totalPrice": 835961.4038942471
+  },
+  {
+    "house": 2,
+    "roomId": 1807,
+    "area": 87.5153,
+    "totalPrice": 1128905.5484397975
+  },
+  {
+    "house": 2,
+    "roomId": 1901,
+    "area": 67.2084,
+    "totalPrice": 774750.3281838194
+  },
+  {
+    "house": 2,
+    "roomId": 1902,
+    "area": 85.5162,
+    "totalPrice": 1094642.935842855
+  },
+  {
+    "house": 2,
+    "roomId": 1903,
+    "area": 85.5162,
+    "totalPrice": 1093771.5780149659
+  },
+  {
+    "house": 2,
+    "roomId": 1904,
+    "area": 67.2084,
+    "totalPrice": 774737.5996519261
+  },
+  {
+    "house": 2,
+    "roomId": 1905,
+    "area": 66.3863,
+    "totalPrice": 856405.358970437
+  },
+  {
+    "house": 2,
+    "roomId": 1906,
+    "area": 69.6654,
+    "totalPrice": 837890.5995865548
+  },
+  {
+    "house": 2,
+    "roomId": 1907,
+    "area": 87.5153,
+    "totalPrice": 1128905.5484397975
+  },
+  {
+    "house": 2,
+    "roomId": 2001,
+    "area": 67.2084,
+    "totalPrice": 776611.483876127
+  },
+  {
+    "house": 2,
+    "roomId": 2002,
+    "area": 85.5162,
+    "totalPrice": 1094642.935842855
+  },
+  {
+    "house": 2,
+    "roomId": 2003,
+    "area": 85.5162,
+    "totalPrice": 1093771.5780149659
+  },
+  {
+    "house": 2,
+    "roomId": 2004,
+    "area": 67.2084,
+    "totalPrice": 776598.7553442337
+  },
+  {
+    "house": 2,
+    "roomId": 2005,
+    "area": 66.3863,
+    "totalPrice": 856405.358970437
+  },
+  {
+    "house": 2,
+    "roomId": 2006,
+    "area": 69.6654,
+    "totalPrice": 839819.7952788625
+  },
+  {
+    "house": 2,
+    "roomId": 2007,
+    "area": 87.5153,
+    "totalPrice": 1128905.5484397975
+  },
+  {
+    "house": 2,
+    "roomId": 2101,
+    "area": 67.2084,
+    "totalPrice": 778472.6395684348
+  },
+  {
+    "house": 2,
+    "roomId": 2102,
+    "area": 85.5162,
+    "totalPrice": 1094642.935842855
+  },
+  {
+    "house": 2,
+    "roomId": 2103,
+    "area": 85.5162,
+    "totalPrice": 1093771.5780149659
+  },
+  {
+    "house": 2,
+    "roomId": 2104,
+    "area": 67.2084,
+    "totalPrice": 778459.9110365415
+  },
+  {
+    "house": 2,
+    "roomId": 2105,
+    "area": 66.3863,
+    "totalPrice": 856405.358970437
+  },
+  {
+    "house": 2,
+    "roomId": 2106,
+    "area": 69.6654,
+    "totalPrice": 841748.9909711702
+  },
+  {
+    "house": 2,
+    "roomId": 2107,
+    "area": 87.5153,
+    "totalPrice": 1128905.5484397975
+  },
+  {
+    "house": 2,
+    "roomId": 2201,
+    "area": 67.2084,
+    "totalPrice": 780333.7952607424
+  },
+  {
+    "house": 2,
+    "roomId": 2202,
+    "area": 85.5162,
+    "totalPrice": 1094642.935842855
+  },
+  {
+    "house": 2,
+    "roomId": 2203,
+    "area": 85.5162,
+    "totalPrice": 1093771.5780149659
+  },
+  {
+    "house": 2,
+    "roomId": 2204,
+    "area": 67.2084,
+    "totalPrice": 780321.0667288491
+  },
+  {
+    "house": 2,
+    "roomId": 2205,
+    "area": 66.3863,
+    "totalPrice": 856405.358970437
+  },
+  {
+    "house": 2,
+    "roomId": 2206,
+    "area": 69.6654,
+    "totalPrice": 843678.1866634778
+  },
+  {
+    "house": 2,
+    "roomId": 2207,
+    "area": 87.5153,
+    "totalPrice": 1128905.5484397975
+  },
+  {
+    "house": 2,
+    "roomId": 2301,
+    "area": 67.2084,
+    "totalPrice": 780333.7952607424
+  },
+  {
+    "house": 2,
+    "roomId": 2302,
+    "area": 85.5162,
+    "totalPrice": 1094642.935842855
+  },
+  {
+    "house": 2,
+    "roomId": 2303,
+    "area": 85.5162,
+    "totalPrice": 1093771.5780149659
+  },
+  {
+    "house": 2,
+    "roomId": 2304,
+    "area": 67.2084,
+    "totalPrice": 780321.0667288491
+  },
+  {
+    "house": 2,
+    "roomId": 2305,
+    "area": 66.3863,
+    "totalPrice": 856405.358970437
+  },
+  {
+    "house": 2,
+    "roomId": 2306,
+    "area": 69.6654,
+    "totalPrice": 843678.1866634778
+  },
+  {
+    "house": 2,
+    "roomId": 2307,
+    "area": 87.5153,
+    "totalPrice": 1128905.5484397975
+  },
+  {
+    "house": 2,
+    "roomId": 2401,
+    "area": 67.2084,
+    "totalPrice": 782194.9509530502
+  },
+  {
+    "house": 2,
+    "roomId": 2402,
+    "area": 85.5162,
+    "totalPrice": 1094642.935842855
+  },
+  {
+    "house": 2,
+    "roomId": 2403,
+    "area": 85.5162,
+    "totalPrice": 1093771.5780149659
+  },
+  {
+    "house": 2,
+    "roomId": 2404,
+    "area": 67.2084,
+    "totalPrice": 782182.2224211568
+  },
+  {
+    "house": 2,
+    "roomId": 2405,
+    "area": 66.3863,
+    "totalPrice": 856405.358970437
+  },
+  {
+    "house": 2,
+    "roomId": 2406,
+    "area": 69.6654,
+    "totalPrice": 845607.3823557856
+  },
+  {
+    "house": 2,
+    "roomId": 2407,
+    "area": 87.5153,
+    "totalPrice": 1128905.5484397975
+  },
+  {
+    "house": 2,
+    "roomId": 2501,
+    "area": 67.2084,
+    "totalPrice": 784056.1066453578
+  },
+  {
+    "house": 2,
+    "roomId": 2502,
+    "area": 85.5162,
+    "totalPrice": 1094642.935842855
+  },
+  {
+    "house": 2,
+    "roomId": 2503,
+    "area": 85.5162,
+    "totalPrice": 1093771.5780149659
+  },
+  {
+    "house": 2,
+    "roomId": 2504,
+    "area": 67.2084,
+    "totalPrice": 784043.3781134645
+  },
+  {
+    "house": 2,
+    "roomId": 2505,
+    "area": 66.3863,
+    "totalPrice": 856405.358970437
+  },
+  {
+    "house": 2,
+    "roomId": 2506,
+    "area": 69.6654,
+    "totalPrice": 847536.5780480932
+  },
+  {
+    "house": 2,
+    "roomId": 2507,
+    "area": 87.5153,
+    "totalPrice": 1128905.5484397975
+  },
+  {
+    "house": 2,
+    "roomId": 2601,
+    "area": 67.2084,
+    "totalPrice": 785917.2623376655
+  },
+  {
+    "house": 2,
+    "roomId": 2602,
+    "area": 85.5162,
+    "totalPrice": 1094642.935842855
+  },
+  {
+    "house": 2,
+    "roomId": 2603,
+    "area": 85.5162,
+    "totalPrice": 1093771.5780149659
+  },
+  {
+    "house": 2,
+    "roomId": 2604,
+    "area": 67.2084,
+    "totalPrice": 785904.5338057722
+  },
+  {
+    "house": 2,
+    "roomId": 2605,
+    "area": 66.3863,
+    "totalPrice": 856405.358970437
+  },
+  {
+    "house": 2,
+    "roomId": 2606,
+    "area": 69.6654,
+    "totalPrice": 849465.7737404009
+  },
+  {
+    "house": 2,
+    "roomId": 2607,
+    "area": 87.5153,
+    "totalPrice": 1128905.5484397975
+  },
+  {
+    "house": 2,
+    "roomId": 2701,
+    "area": 67.2084,
+    "totalPrice": 787778.4180299732
+  },
+  {
+    "house": 2,
+    "roomId": 2702,
+    "area": 85.5162,
+    "totalPrice": 1094642.935842855
+  },
+  {
+    "house": 2,
+    "roomId": 2703,
+    "area": 85.5162,
+    "totalPrice": 1093771.5780149659
+  },
+  {
+    "house": 2,
+    "roomId": 2704,
+    "area": 67.2084,
+    "totalPrice": 787765.6894980798
+  },
+  {
+    "house": 2,
+    "roomId": 2705,
+    "area": 66.3863,
+    "totalPrice": 856405.358970437
+  },
+  {
+    "house": 2,
+    "roomId": 2706,
+    "area": 69.6654,
+    "totalPrice": 851394.9694327086
+  },
+  {
+    "house": 2,
+    "roomId": 2707,
+    "area": 87.5153,
+    "totalPrice": 1128905.5484397975
+  },
+  {
+    "house": 2,
+    "roomId": 2801,
+    "area": 67.2084,
+    "totalPrice": 789639.5737222809
+  },
+  {
+    "house": 2,
+    "roomId": 2802,
+    "area": 85.5162,
+    "totalPrice": 1094642.935842855
+  },
+  {
+    "house": 2,
+    "roomId": 2803,
+    "area": 85.5162,
+    "totalPrice": 1093771.5780149659
+  },
+  {
+    "house": 2,
+    "roomId": 2804,
+    "area": 67.2084,
+    "totalPrice": 789626.8451903876
+  },
+  {
+    "house": 2,
+    "roomId": 2805,
+    "area": 66.3863,
+    "totalPrice": 856405.358970437
+  },
+  {
+    "house": 2,
+    "roomId": 2806,
+    "area": 69.6654,
+    "totalPrice": 853324.1651250164
+  },
+  {
+    "house": 2,
+    "roomId": 2807,
+    "area": 87.5153,
+    "totalPrice": 1128905.5484397975
+  },
+  {
+    "house": 2,
+    "roomId": 2901,
+    "area": 67.2084,
+    "totalPrice": 791500.7294145885
+  },
+  {
+    "house": 2,
+    "roomId": 2902,
+    "area": 85.5162,
+    "totalPrice": 1094642.935842855
+  },
+  {
+    "house": 2,
+    "roomId": 2903,
+    "area": 85.5162,
+    "totalPrice": 1093771.5780149659
+  },
+  {
+    "house": 2,
+    "roomId": 2904,
+    "area": 67.2084,
+    "totalPrice": 791488.0008826952
+  },
+  {
+    "house": 2,
+    "roomId": 2905,
+    "area": 66.3863,
+    "totalPrice": 856405.358970437
+  },
+  {
+    "house": 2,
+    "roomId": 2906,
+    "area": 69.6654,
+    "totalPrice": 855253.360817324
+  },
+  {
+    "house": 2,
+    "roomId": 2907,
+    "area": 87.5153,
+    "totalPrice": 1128905.5484397975
+  },
+  {
+    "house": 2,
+    "roomId": 3001,
+    "area": 67.2084,
+    "totalPrice": 793361.8851068963
+  },
+  {
+    "house": 2,
+    "roomId": 3002,
+    "area": 85.5162,
+    "totalPrice": 1094642.935842855
+  },
+  {
+    "house": 2,
+    "roomId": 3003,
+    "area": 85.5162,
+    "totalPrice": 1093771.5780149659
+  },
+  {
+    "house": 2,
+    "roomId": 3004,
+    "area": 67.2084,
+    "totalPrice": 793349.1565750029
+  },
+  {
+    "house": 2,
+    "roomId": 3005,
+    "area": 66.3863,
+    "totalPrice": 856405.358970437
+  },
+  {
+    "house": 2,
+    "roomId": 3006,
+    "area": 69.6654,
+    "totalPrice": 857182.5565096317
+  },
+  {
+    "house": 2,
+    "roomId": 3007,
+    "area": 87.5153,
+    "totalPrice": 1128905.5484397975
+  },
+  {
+    "house": 2,
+    "roomId": 3101,
+    "area": 67.2084,
+    "totalPrice": 795223.0407992039
+  },
+  {
+    "house": 2,
+    "roomId": 3102,
+    "area": 85.5162,
+    "totalPrice": 1094642.935842855
+  },
+  {
+    "house": 2,
+    "roomId": 3103,
+    "area": 85.5162,
+    "totalPrice": 1093771.5780149659
+  },
+  {
+    "house": 2,
+    "roomId": 3104,
+    "area": 67.2084,
+    "totalPrice": 795210.3122673106
+  },
+  {
+    "house": 2,
+    "roomId": 3105,
+    "area": 66.3863,
+    "totalPrice": 856405.358970437
+  },
+  {
+    "house": 2,
+    "roomId": 3106,
+    "area": 69.6654,
+    "totalPrice": 859111.7522019394
+  },
+  {
+    "house": 2,
+    "roomId": 3107,
+    "area": 87.5153,
+    "totalPrice": 1128905.5484397975
+  },
+  {
+    "house": 2,
+    "roomId": 3201,
+    "area": 67.2084,
+    "totalPrice": 797084.1964915117
+  },
+  {
+    "house": 2,
+    "roomId": 3202,
+    "area": 85.5162,
+    "totalPrice": 1094642.935842855
+  },
+  {
+    "house": 2,
+    "roomId": 3203,
+    "area": 85.5162,
+    "totalPrice": 1093771.5780149659
+  },
+  {
+    "house": 2,
+    "roomId": 3204,
+    "area": 67.2084,
+    "totalPrice": 797071.4679596183
+  },
+  {
+    "house": 2,
+    "roomId": 3205,
+    "area": 66.3863,
+    "totalPrice": 856405.358970437
+  },
+  {
+    "house": 2,
+    "roomId": 3206,
+    "area": 69.6654,
+    "totalPrice": 861040.9478942471
+  },
+  {
+    "house": 2,
+    "roomId": 3207,
+    "area": 87.5153,
+    "totalPrice": 1128905.5484397975
+  },
+  {
+    "house": 2,
+    "roomId": 3301,
+    "area": 67.2084,
+    "totalPrice": 795223.0407992039
+  },
+  {
+    "house": 2,
+    "roomId": 3302,
+    "area": 85.5162,
+    "totalPrice": 1094642.935842855
+  },
+  {
+    "house": 2,
+    "roomId": 3303,
+    "area": 85.5162,
+    "totalPrice": 1091206.0920149658
+  },
+  {
+    "house": 2,
+    "roomId": 3304,
+    "area": 67.2084,
+    "totalPrice": 795210.3122673106
+  },
+  {
+    "house": 2,
+    "roomId": 3305,
+    "area": 66.3863,
+    "totalPrice": 856405.358970437
+  },
+  {
+    "house": 2,
+    "roomId": 3306,
+    "area": 69.6654,
+    "totalPrice": 859111.7522019394
+  },
+  {
+    "house": 2,
+    "roomId": 3307,
+    "area": 87.5153,
+    "totalPrice": 1128905.5484397975
+  },
+  {
+    "house": 3,
+    "roomId": 201,
+    "area": 67.2084,
+    "totalPrice": 748694.1484915117
+  },
+  {
+    "house": 3,
+    "roomId": 202,
+    "area": 85.5162,
+    "totalPrice": 1080960.343842855
+  },
+  {
+    "house": 3,
+    "roomId": 203,
+    "area": 85.5162,
+    "totalPrice": 1080907.7074022153
+  },
+  {
+    "house": 3,
+    "roomId": 204,
+    "area": 66.0693,
+    "totalPrice": 769046.3609898795
+  },
+  {
+    "house": 3,
+    "roomId": 205,
+    "area": 66.0693,
+    "totalPrice": 769033.4710851182
+  },
+  {
+    "house": 3,
+    "roomId": 206,
+    "area": 85.5162,
+    "totalPrice": 1089447.6686348806
+  },
+  {
+    "house": 3,
+    "roomId": 207,
+    "area": 85.5162,
+    "totalPrice": 1089463.8644627698
+  },
+  {
+    "house": 3,
+    "roomId": 208,
+    "area": 66.2074,
+    "totalPrice": 744183.4233351026
+  },
+  {
+    "house": 3,
+    "roomId": 301,
+    "area": 67.2084,
+    "totalPrice": 748694.1484915117
+  },
+  {
+    "house": 3,
+    "roomId": 302,
+    "area": 85.5162,
+    "totalPrice": 1080960.343842855
+  },
+  {
+    "house": 3,
+    "roomId": 303,
+    "area": 85.5162,
+    "totalPrice": 1080907.7074022153
+  },
+  {
+    "house": 3,
+    "roomId": 304,
+    "area": 66.0693,
+    "totalPrice": 769046.3609898795
+  },
+  {
+    "house": 3,
+    "roomId": 305,
+    "area": 66.0693,
+    "totalPrice": 769033.4710851182
+  },
+  {
+    "house": 3,
+    "roomId": 306,
+    "area": 85.5162,
+    "totalPrice": 1089447.6686348806
+  },
+  {
+    "house": 3,
+    "roomId": 307,
+    "area": 85.5162,
+    "totalPrice": 1089463.8644627698
+  },
+  {
+    "house": 3,
+    "roomId": 308,
+    "area": 66.2074,
+    "totalPrice": 744183.4233351026
+  },
+  {
+    "house": 3,
+    "roomId": 401,
+    "area": 67.2084,
+    "totalPrice": 748694.1484915117
+  },
+  {
+    "house": 3,
+    "roomId": 402,
+    "area": 85.5162,
+    "totalPrice": 1080960.343842855
+  },
+  {
+    "house": 3,
+    "roomId": 403,
+    "area": 85.5162,
+    "totalPrice": 1080907.7074022153
+  },
+  {
+    "house": 3,
+    "roomId": 404,
+    "area": 66.0693,
+    "totalPrice": 769046.3609898795
+  },
+  {
+    "house": 3,
+    "roomId": 405,
+    "area": 66.0693,
+    "totalPrice": 769033.4710851182
+  },
+  {
+    "house": 3,
+    "roomId": 406,
+    "area": 85.5162,
+    "totalPrice": 1089447.6686348806
+  },
+  {
+    "house": 3,
+    "roomId": 407,
+    "area": 85.5162,
+    "totalPrice": 1089463.8644627698
+  },
+  {
+    "house": 3,
+    "roomId": 408,
+    "area": 66.2074,
+    "totalPrice": 744183.4233351026
+  },
+  {
+    "house": 3,
+    "roomId": 501,
+    "area": 67.2084,
+    "totalPrice": 750555.3041838194
+  },
+  {
+    "house": 3,
+    "roomId": 502,
+    "area": 85.5162,
+    "totalPrice": 1083328.484765932
+  },
+  {
+    "house": 3,
+    "roomId": 503,
+    "area": 85.5162,
+    "totalPrice": 1083275.8483252923
+  },
+  {
+    "house": 3,
+    "roomId": 504,
+    "area": 66.0693,
+    "totalPrice": 770875.9723744949
+  },
+  {
+    "house": 3,
+    "roomId": 505,
+    "area": 66.0693,
+    "totalPrice": 770863.0824697337
+  },
+  {
+    "house": 3,
+    "roomId": 506,
+    "area": 85.5162,
+    "totalPrice": 1091815.8095579576
+  },
+  {
+    "house": 3,
+    "roomId": 507,
+    "area": 85.5162,
+    "totalPrice": 1091832.0053858466
+  },
+  {
+    "house": 3,
+    "roomId": 508,
+    "area": 66.2074,
+    "totalPrice": 746016.8590274104
+  },
+  {
+    "house": 3,
+    "roomId": 601,
+    "area": 67.2084,
+    "totalPrice": 752416.4598761271
+  },
+  {
+    "house": 3,
+    "roomId": 602,
+    "area": 85.5162,
+    "totalPrice": 1085696.6256890087
+  },
+  {
+    "house": 3,
+    "roomId": 603,
+    "area": 85.5162,
+    "totalPrice": 1085643.9892483691
+  },
+  {
+    "house": 3,
+    "roomId": 604,
+    "area": 66.0693,
+    "totalPrice": 772705.5837591102
+  },
+  {
+    "house": 3,
+    "roomId": 605,
+    "area": 66.0693,
+    "totalPrice": 772692.693854349
+  },
+  {
+    "house": 3,
+    "roomId": 606,
+    "area": 85.5162,
+    "totalPrice": 1094183.9504810343
+  },
+  {
+    "house": 3,
+    "roomId": 607,
+    "area": 85.5162,
+    "totalPrice": 1094200.1463089236
+  },
+  {
+    "house": 3,
+    "roomId": 608,
+    "area": 66.2074,
+    "totalPrice": 747850.2947197179
+  },
+  {
+    "house": 3,
+    "roomId": 701,
+    "area": 67.2084,
+    "totalPrice": 754277.6155684348
+  },
+  {
+    "house": 3,
+    "roomId": 702,
+    "area": 85.5162,
+    "totalPrice": 1088064.7666120857
+  },
+  {
+    "house": 3,
+    "roomId": 703,
+    "area": 85.5162,
+    "totalPrice": 1088012.1301714461
+  },
+  {
+    "house": 3,
+    "roomId": 704,
+    "area": 66.0693,
+    "totalPrice": 774535.1951437257
+  },
+  {
+    "house": 3,
+    "roomId": 705,
+    "area": 66.0693,
+    "totalPrice": 774522.3052389644
+  },
+  {
+    "house": 3,
+    "roomId": 706,
+    "area": 85.5162,
+    "totalPrice": 1096552.0914041114
+  },
+  {
+    "house": 3,
+    "roomId": 707,
+    "area": 85.5162,
+    "totalPrice": 1096568.2872320006
+  },
+  {
+    "house": 3,
+    "roomId": 708,
+    "area": 66.2074,
+    "totalPrice": 749683.7304120257
+  },
+  {
+    "house": 3,
+    "roomId": 801,
+    "area": 67.2084,
+    "totalPrice": 756138.7712607424
+  },
+  {
+    "house": 3,
+    "roomId": 802,
+    "area": 85.5162,
+    "totalPrice": 1090432.9075351625
+  },
+  {
+    "house": 3,
+    "roomId": 803,
+    "area": 85.5162,
+    "totalPrice": 1090380.2710945231
+  },
+  {
+    "house": 3,
+    "roomId": 804,
+    "area": 66.0693,
+    "totalPrice": 776364.806528341
+  },
+  {
+    "house": 3,
+    "roomId": 805,
+    "area": 66.0693,
+    "totalPrice": 776351.9166235798
+  },
+  {
+    "house": 3,
+    "roomId": 806,
+    "area": 85.5162,
+    "totalPrice": 1098920.2323271881
+  },
+  {
+    "house": 3,
+    "roomId": 807,
+    "area": 85.5162,
+    "totalPrice": 1098936.4281550774
+  },
+  {
+    "house": 3,
+    "roomId": 808,
+    "area": 66.2074,
+    "totalPrice": 751517.1661043334
+  },
+  {
+    "house": 3,
+    "roomId": 901,
+    "area": 67.2084,
+    "totalPrice": 757999.9269530502
+  },
+  {
+    "house": 3,
+    "roomId": 902,
+    "area": 85.5162,
+    "totalPrice": 1092801.0484582395
+  },
+  {
+    "house": 3,
+    "roomId": 903,
+    "area": 85.5162,
+    "totalPrice": 1092748.4120176001
+  },
+  {
+    "house": 3,
+    "roomId": 904,
+    "area": 66.0693,
+    "totalPrice": 778194.4179129564
+  },
+  {
+    "house": 3,
+    "roomId": 905,
+    "area": 66.0693,
+    "totalPrice": 778181.5280081952
+  },
+  {
+    "house": 3,
+    "roomId": 906,
+    "area": 85.5162,
+    "totalPrice": 1101288.3732502651
+  },
+  {
+    "house": 3,
+    "roomId": 907,
+    "area": 85.5162,
+    "totalPrice": 1101304.5690781544
+  },
+  {
+    "house": 3,
+    "roomId": 908,
+    "area": 66.2074,
+    "totalPrice": 753350.6017966411
+  },
+  {
+    "house": 3,
+    "roomId": 1001,
+    "area": 67.2084,
+    "totalPrice": 759861.0826453578
+  },
+  {
+    "house": 3,
+    "roomId": 1002,
+    "area": 85.5162,
+    "totalPrice": 1095169.1893813165
+  },
+  {
+    "house": 3,
+    "roomId": 1003,
+    "area": 85.5162,
+    "totalPrice": 1095116.552940677
+  },
+  {
+    "house": 3,
+    "roomId": 1004,
+    "area": 66.0693,
+    "totalPrice": 780024.0292975717
+  },
+  {
+    "house": 3,
+    "roomId": 1005,
+    "area": 66.0693,
+    "totalPrice": 780011.1393928105
+  },
+  {
+    "house": 3,
+    "roomId": 1006,
+    "area": 85.5162,
+    "totalPrice": 1103130.2606348805
+  },
+  {
+    "house": 3,
+    "roomId": 1007,
+    "area": 85.5162,
+    "totalPrice": 1103146.4564627698
+  },
+  {
+    "house": 3,
+    "roomId": 1008,
+    "area": 66.2074,
+    "totalPrice": 755184.0374889488
+  },
+  {
+    "house": 3,
+    "roomId": 1101,
+    "area": 67.2084,
+    "totalPrice": 761722.2383376656
+  },
+  {
+    "house": 3,
+    "roomId": 1102,
+    "area": 85.5162,
+    "totalPrice": 1097537.3303043935
+  },
+  {
+    "house": 3,
+    "roomId": 1103,
+    "area": 85.5162,
+    "totalPrice": 1097484.693863754
+  },
+  {
+    "house": 3,
+    "roomId": 1104,
+    "area": 66.0693,
+    "totalPrice": 781853.6406821872
+  },
+  {
+    "house": 3,
+    "roomId": 1105,
+    "area": 66.0693,
+    "totalPrice": 781840.750777426
+  },
+  {
+    "house": 3,
+    "roomId": 1106,
+    "area": 85.5162,
+    "totalPrice": 1103130.2606348805
+  },
+  {
+    "house": 3,
+    "roomId": 1107,
+    "area": 85.5162,
+    "totalPrice": 1103146.4564627698
+  },
+  {
+    "house": 3,
+    "roomId": 1108,
+    "area": 66.2074,
+    "totalPrice": 757017.4731812564
+  },
+  {
+    "house": 3,
+    "roomId": 1201,
+    "area": 67.2084,
+    "totalPrice": 763583.3940299732
+  },
+  {
+    "house": 3,
+    "roomId": 1202,
+    "area": 85.5162,
+    "totalPrice": 1099905.4712274703
+  },
+  {
+    "house": 3,
+    "roomId": 1203,
+    "area": 85.5162,
+    "totalPrice": 1099852.8347868307
+  },
+  {
+    "house": 3,
+    "roomId": 1204,
+    "area": 66.0693,
+    "totalPrice": 783683.2520668025
+  },
+  {
+    "house": 3,
+    "roomId": 1205,
+    "area": 66.0693,
+    "totalPrice": 783670.3621620412
+  },
+  {
+    "house": 3,
+    "roomId": 1206,
+    "area": 85.5162,
+    "totalPrice": 1103130.2606348805
+  },
+  {
+    "house": 3,
+    "roomId": 1207,
+    "area": 85.5162,
+    "totalPrice": 1103146.4564627698
+  },
+  {
+    "house": 3,
+    "roomId": 1208,
+    "area": 66.2074,
+    "totalPrice": 758850.9088735641
+  },
+  {
+    "house": 3,
+    "roomId": 1301,
+    "area": 67.2084,
+    "totalPrice": 763583.3940299732
+  },
+  {
+    "house": 3,
+    "roomId": 1302,
+    "area": 85.5162,
+    "totalPrice": 1099905.4712274703
+  },
+  {
+    "house": 3,
+    "roomId": 1303,
+    "area": 85.5162,
+    "totalPrice": 1099852.8347868307
+  },
+  {
+    "house": 3,
+    "roomId": 1304,
+    "area": 66.0693,
+    "totalPrice": 783683.2520668025
+  },
+  {
+    "house": 3,
+    "roomId": 1305,
+    "area": 66.0693,
+    "totalPrice": 783670.3621620412
+  },
+  {
+    "house": 3,
+    "roomId": 1306,
+    "area": 85.5162,
+    "totalPrice": 1103130.2606348805
+  },
+  {
+    "house": 3,
+    "roomId": 1307,
+    "area": 85.5162,
+    "totalPrice": 1103146.4564627698
+  },
+  {
+    "house": 3,
+    "roomId": 1308,
+    "area": 66.2074,
+    "totalPrice": 758850.9088735641
+  },
+  {
+    "house": 3,
+    "roomId": 1401,
+    "area": 67.2084,
+    "totalPrice": 765444.5497222809
+  },
+  {
+    "house": 3,
+    "roomId": 1402,
+    "area": 85.5162,
+    "totalPrice": 1102273.6121505473
+  },
+  {
+    "house": 3,
+    "roomId": 1403,
+    "area": 85.5162,
+    "totalPrice": 1102220.9757099077
+  },
+  {
+    "house": 3,
+    "roomId": 1404,
+    "area": 66.0693,
+    "totalPrice": 785512.863451418
+  },
+  {
+    "house": 3,
+    "roomId": 1405,
+    "area": 66.0693,
+    "totalPrice": 785499.9735466567
+  },
+  {
+    "house": 3,
+    "roomId": 1406,
+    "area": 85.5162,
+    "totalPrice": 1103130.2606348805
+  },
+  {
+    "house": 3,
+    "roomId": 1407,
+    "area": 85.5162,
+    "totalPrice": 1103146.4564627698
+  },
+  {
+    "house": 3,
+    "roomId": 1408,
+    "area": 66.2074,
+    "totalPrice": 760684.3445658719
+  },
+  {
+    "house": 3,
+    "roomId": 1501,
+    "area": 67.2084,
+    "totalPrice": 767305.7054145886
+  },
+  {
+    "house": 3,
+    "roomId": 1502,
+    "area": 85.5162,
+    "totalPrice": 1103194.555842855
+  },
+  {
+    "house": 3,
+    "roomId": 1503,
+    "area": 85.5162,
+    "totalPrice": 1103141.9194022154
+  },
+  {
+    "house": 3,
+    "roomId": 1504,
+    "area": 66.0693,
+    "totalPrice": 787342.4748360333
+  },
+  {
+    "house": 3,
+    "roomId": 1505,
+    "area": 66.0693,
+    "totalPrice": 787329.5849312721
+  },
+  {
+    "house": 3,
+    "roomId": 1506,
+    "area": 85.5162,
+    "totalPrice": 1103130.2606348805
+  },
+  {
+    "house": 3,
+    "roomId": 1507,
+    "area": 85.5162,
+    "totalPrice": 1103146.4564627698
+  },
+  {
+    "house": 3,
+    "roomId": 1508,
+    "area": 66.2074,
+    "totalPrice": 762517.7802581795
+  },
+  {
+    "house": 3,
+    "roomId": 1601,
+    "area": 67.2084,
+    "totalPrice": 769166.8611068963
+  },
+  {
+    "house": 3,
+    "roomId": 1602,
+    "area": 85.5162,
+    "totalPrice": 1103194.555842855
+  },
+  {
+    "house": 3,
+    "roomId": 1603,
+    "area": 85.5162,
+    "totalPrice": 1103141.9194022154
+  },
+  {
+    "house": 3,
+    "roomId": 1604,
+    "area": 66.0693,
+    "totalPrice": 789172.0862206487
+  },
+  {
+    "house": 3,
+    "roomId": 1605,
+    "area": 66.0693,
+    "totalPrice": 789159.1963158875
+  },
+  {
+    "house": 3,
+    "roomId": 1606,
+    "area": 85.5162,
+    "totalPrice": 1103130.2606348805
+  },
+  {
+    "house": 3,
+    "roomId": 1607,
+    "area": 85.5162,
+    "totalPrice": 1103146.4564627698
+  },
+  {
+    "house": 3,
+    "roomId": 1608,
+    "area": 66.2074,
+    "totalPrice": 764351.2159504872
+  },
+  {
+    "house": 3,
+    "roomId": 1701,
+    "area": 67.2084,
+    "totalPrice": 771028.0167992039
+  },
+  {
+    "house": 3,
+    "roomId": 1702,
+    "area": 85.5162,
+    "totalPrice": 1103194.555842855
+  },
+  {
+    "house": 3,
+    "roomId": 1703,
+    "area": 85.5162,
+    "totalPrice": 1103141.9194022154
+  },
+  {
+    "house": 3,
+    "roomId": 1704,
+    "area": 66.0693,
+    "totalPrice": 791001.697605264
+  },
+  {
+    "house": 3,
+    "roomId": 1705,
+    "area": 66.0693,
+    "totalPrice": 790988.8077005028
+  },
+  {
+    "house": 3,
+    "roomId": 1706,
+    "area": 85.5162,
+    "totalPrice": 1103130.2606348805
+  },
+  {
+    "house": 3,
+    "roomId": 1707,
+    "area": 85.5162,
+    "totalPrice": 1103146.4564627698
+  },
+  {
+    "house": 3,
+    "roomId": 1708,
+    "area": 66.2074,
+    "totalPrice": 766184.6516427948
+  },
+  {
+    "house": 3,
+    "roomId": 1801,
+    "area": 67.2084,
+    "totalPrice": 772889.1724915117
+  },
+  {
+    "house": 3,
+    "roomId": 1802,
+    "area": 85.5162,
+    "totalPrice": 1103194.555842855
+  },
+  {
+    "house": 3,
+    "roomId": 1803,
+    "area": 85.5162,
+    "totalPrice": 1103141.9194022154
+  },
+  {
+    "house": 3,
+    "roomId": 1804,
+    "area": 66.0693,
+    "totalPrice": 792831.3089898794
+  },
+  {
+    "house": 3,
+    "roomId": 1805,
+    "area": 66.0693,
+    "totalPrice": 792818.4190851182
+  },
+  {
+    "house": 3,
+    "roomId": 1806,
+    "area": 85.5162,
+    "totalPrice": 1103130.2606348805
+  },
+  {
+    "house": 3,
+    "roomId": 1807,
+    "area": 85.5162,
+    "totalPrice": 1103146.4564627698
+  },
+  {
+    "house": 3,
+    "roomId": 1808,
+    "area": 66.2074,
+    "totalPrice": 768018.0873351026
+  },
+  {
+    "house": 3,
+    "roomId": 1901,
+    "area": 67.2084,
+    "totalPrice": 774750.3281838194
+  },
+  {
+    "house": 3,
+    "roomId": 1902,
+    "area": 85.5162,
+    "totalPrice": 1103194.555842855
+  },
+  {
+    "house": 3,
+    "roomId": 1903,
+    "area": 85.5162,
+    "totalPrice": 1103141.9194022154
+  },
+  {
+    "house": 3,
+    "roomId": 1904,
+    "area": 66.0693,
+    "totalPrice": 794660.9203744949
+  },
+  {
+    "house": 3,
+    "roomId": 1905,
+    "area": 66.0693,
+    "totalPrice": 794648.0304697336
+  },
+  {
+    "house": 3,
+    "roomId": 1906,
+    "area": 85.5162,
+    "totalPrice": 1103130.2606348805
+  },
+  {
+    "house": 3,
+    "roomId": 1907,
+    "area": 85.5162,
+    "totalPrice": 1103146.4564627698
+  },
+  {
+    "house": 3,
+    "roomId": 1908,
+    "area": 66.2074,
+    "totalPrice": 769851.5230274104
+  },
+  {
+    "house": 3,
+    "roomId": 2001,
+    "area": 67.2084,
+    "totalPrice": 776611.483876127
+  },
+  {
+    "house": 3,
+    "roomId": 2002,
+    "area": 85.5162,
+    "totalPrice": 1103194.555842855
+  },
+  {
+    "house": 3,
+    "roomId": 2003,
+    "area": 85.5162,
+    "totalPrice": 1103141.9194022154
+  },
+  {
+    "house": 3,
+    "roomId": 2004,
+    "area": 66.0693,
+    "totalPrice": 796490.5317591103
+  },
+  {
+    "house": 3,
+    "roomId": 2005,
+    "area": 66.0693,
+    "totalPrice": 796477.641854349
+  },
+  {
+    "house": 3,
+    "roomId": 2006,
+    "area": 85.5162,
+    "totalPrice": 1103130.2606348805
+  },
+  {
+    "house": 3,
+    "roomId": 2007,
+    "area": 85.5162,
+    "totalPrice": 1103146.4564627698
+  },
+  {
+    "house": 3,
+    "roomId": 2008,
+    "area": 66.2074,
+    "totalPrice": 771684.958719718
+  },
+  {
+    "house": 3,
+    "roomId": 2101,
+    "area": 67.2084,
+    "totalPrice": 778472.6395684348
+  },
+  {
+    "house": 3,
+    "roomId": 2102,
+    "area": 85.5162,
+    "totalPrice": 1103194.555842855
+  },
+  {
+    "house": 3,
+    "roomId": 2103,
+    "area": 85.5162,
+    "totalPrice": 1103141.9194022154
+  },
+  {
+    "house": 3,
+    "roomId": 2104,
+    "area": 66.0693,
+    "totalPrice": 798320.1431437257
+  },
+  {
+    "house": 3,
+    "roomId": 2105,
+    "area": 66.0693,
+    "totalPrice": 798307.2532389645
+  },
+  {
+    "house": 3,
+    "roomId": 2106,
+    "area": 85.5162,
+    "totalPrice": 1103130.2606348805
+  },
+  {
+    "house": 3,
+    "roomId": 2107,
+    "area": 85.5162,
+    "totalPrice": 1103146.4564627698
+  },
+  {
+    "house": 3,
+    "roomId": 2108,
+    "area": 66.2074,
+    "totalPrice": 773518.3944120257
+  },
+  {
+    "house": 3,
+    "roomId": 2201,
+    "area": 67.2084,
+    "totalPrice": 780333.7952607424
+  },
+  {
+    "house": 3,
+    "roomId": 2202,
+    "area": 85.5162,
+    "totalPrice": 1103194.555842855
+  },
+  {
+    "house": 3,
+    "roomId": 2203,
+    "area": 85.5162,
+    "totalPrice": 1103141.9194022154
+  },
+  {
+    "house": 3,
+    "roomId": 2204,
+    "area": 66.0693,
+    "totalPrice": 800149.754528341
+  },
+  {
+    "house": 3,
+    "roomId": 2205,
+    "area": 66.0693,
+    "totalPrice": 800136.8646235798
+  },
+  {
+    "house": 3,
+    "roomId": 2206,
+    "area": 85.5162,
+    "totalPrice": 1103130.2606348805
+  },
+  {
+    "house": 3,
+    "roomId": 2207,
+    "area": 85.5162,
+    "totalPrice": 1103146.4564627698
+  },
+  {
+    "house": 3,
+    "roomId": 2208,
+    "area": 66.2074,
+    "totalPrice": 775351.8301043333
+  },
+  {
+    "house": 3,
+    "roomId": 2301,
+    "area": 67.2084,
+    "totalPrice": 780333.7952607424
+  },
+  {
+    "house": 3,
+    "roomId": 2302,
+    "area": 85.5162,
+    "totalPrice": 1103194.555842855
+  },
+  {
+    "house": 3,
+    "roomId": 2303,
+    "area": 85.5162,
+    "totalPrice": 1103141.9194022154
+  },
+  {
+    "house": 3,
+    "roomId": 2304,
+    "area": 66.0693,
+    "totalPrice": 800149.754528341
+  },
+  {
+    "house": 3,
+    "roomId": 2305,
+    "area": 66.0693,
+    "totalPrice": 800136.8646235798
+  },
+  {
+    "house": 3,
+    "roomId": 2306,
+    "area": 85.5162,
+    "totalPrice": 1103130.2606348805
+  },
+  {
+    "house": 3,
+    "roomId": 2307,
+    "area": 85.5162,
+    "totalPrice": 1103146.4564627698
+  },
+  {
+    "house": 3,
+    "roomId": 2308,
+    "area": 66.2074,
+    "totalPrice": 775351.8301043333
+  },
+  {
+    "house": 3,
+    "roomId": 2401,
+    "area": 67.2084,
+    "totalPrice": 782194.9509530502
+  },
+  {
+    "house": 3,
+    "roomId": 2402,
+    "area": 85.5162,
+    "totalPrice": 1103194.555842855
+  },
+  {
+    "house": 3,
+    "roomId": 2403,
+    "area": 85.5162,
+    "totalPrice": 1103141.9194022154
+  },
+  {
+    "house": 3,
+    "roomId": 2404,
+    "area": 66.0693,
+    "totalPrice": 801979.3659129564
+  },
+  {
+    "house": 3,
+    "roomId": 2405,
+    "area": 66.0693,
+    "totalPrice": 801966.4760081952
+  },
+  {
+    "house": 3,
+    "roomId": 2406,
+    "area": 85.5162,
+    "totalPrice": 1103130.2606348805
+  },
+  {
+    "house": 3,
+    "roomId": 2407,
+    "area": 85.5162,
+    "totalPrice": 1103146.4564627698
+  },
+  {
+    "house": 3,
+    "roomId": 2408,
+    "area": 66.2074,
+    "totalPrice": 777185.2657966411
+  },
+  {
+    "house": 3,
+    "roomId": 2501,
+    "area": 67.2084,
+    "totalPrice": 784056.1066453578
+  },
+  {
+    "house": 3,
+    "roomId": 2502,
+    "area": 85.5162,
+    "totalPrice": 1103194.555842855
+  },
+  {
+    "house": 3,
+    "roomId": 2503,
+    "area": 85.5162,
+    "totalPrice": 1103141.9194022154
+  },
+  {
+    "house": 3,
+    "roomId": 2504,
+    "area": 66.0693,
+    "totalPrice": 803808.9772975717
+  },
+  {
+    "house": 3,
+    "roomId": 2505,
+    "area": 66.0693,
+    "totalPrice": 803796.0873928105
+  },
+  {
+    "house": 3,
+    "roomId": 2506,
+    "area": 85.5162,
+    "totalPrice": 1103130.2606348805
+  },
+  {
+    "house": 3,
+    "roomId": 2507,
+    "area": 85.5162,
+    "totalPrice": 1103146.4564627698
+  },
+  {
+    "house": 3,
+    "roomId": 2508,
+    "area": 66.2074,
+    "totalPrice": 779018.7014889488
+  },
+  {
+    "house": 3,
+    "roomId": 2601,
+    "area": 67.2084,
+    "totalPrice": 785917.2623376655
+  },
+  {
+    "house": 3,
+    "roomId": 2602,
+    "area": 85.5162,
+    "totalPrice": 1103194.555842855
+  },
+  {
+    "house": 3,
+    "roomId": 2603,
+    "area": 85.5162,
+    "totalPrice": 1103141.9194022154
+  },
+  {
+    "house": 3,
+    "roomId": 2604,
+    "area": 66.0693,
+    "totalPrice": 805638.5886821871
+  },
+  {
+    "house": 3,
+    "roomId": 2605,
+    "area": 66.0693,
+    "totalPrice": 805625.6987774259
+  },
+  {
+    "house": 3,
+    "roomId": 2606,
+    "area": 85.5162,
+    "totalPrice": 1103130.2606348805
+  },
+  {
+    "house": 3,
+    "roomId": 2607,
+    "area": 85.5162,
+    "totalPrice": 1103146.4564627698
+  },
+  {
+    "house": 3,
+    "roomId": 2608,
+    "area": 66.2074,
+    "totalPrice": 780852.1371812564
+  },
+  {
+    "house": 3,
+    "roomId": 2701,
+    "area": 67.2084,
+    "totalPrice": 787778.4180299732
+  },
+  {
+    "house": 3,
+    "roomId": 2702,
+    "area": 85.5162,
+    "totalPrice": 1103194.555842855
+  },
+  {
+    "house": 3,
+    "roomId": 2703,
+    "area": 85.5162,
+    "totalPrice": 1103141.9194022154
+  },
+  {
+    "house": 3,
+    "roomId": 2704,
+    "area": 66.0693,
+    "totalPrice": 807468.2000668026
+  },
+  {
+    "house": 3,
+    "roomId": 2705,
+    "area": 66.0693,
+    "totalPrice": 807455.3101620413
+  },
+  {
+    "house": 3,
+    "roomId": 2706,
+    "area": 85.5162,
+    "totalPrice": 1103130.2606348805
+  },
+  {
+    "house": 3,
+    "roomId": 2707,
+    "area": 85.5162,
+    "totalPrice": 1103146.4564627698
+  },
+  {
+    "house": 3,
+    "roomId": 2708,
+    "area": 66.2074,
+    "totalPrice": 782685.5728735641
+  },
+  {
+    "house": 3,
+    "roomId": 2801,
+    "area": 67.2084,
+    "totalPrice": 789639.5737222809
+  },
+  {
+    "house": 3,
+    "roomId": 2802,
+    "area": 85.5162,
+    "totalPrice": 1103194.555842855
+  },
+  {
+    "house": 3,
+    "roomId": 2803,
+    "area": 85.5162,
+    "totalPrice": 1103141.9194022154
+  },
+  {
+    "house": 3,
+    "roomId": 2804,
+    "area": 66.0693,
+    "totalPrice": 809297.811451418
+  },
+  {
+    "house": 3,
+    "roomId": 2805,
+    "area": 66.0693,
+    "totalPrice": 809284.9215466568
+  },
+  {
+    "house": 3,
+    "roomId": 2806,
+    "area": 85.5162,
+    "totalPrice": 1103130.2606348805
+  },
+  {
+    "house": 3,
+    "roomId": 2807,
+    "area": 85.5162,
+    "totalPrice": 1103146.4564627698
+  },
+  {
+    "house": 3,
+    "roomId": 2808,
+    "area": 66.2074,
+    "totalPrice": 784519.0085658719
+  },
+  {
+    "house": 3,
+    "roomId": 2901,
+    "area": 67.2084,
+    "totalPrice": 791500.7294145885
+  },
+  {
+    "house": 3,
+    "roomId": 2902,
+    "area": 85.5162,
+    "totalPrice": 1103194.555842855
+  },
+  {
+    "house": 3,
+    "roomId": 2903,
+    "area": 85.5162,
+    "totalPrice": 1103141.9194022154
+  },
+  {
+    "house": 3,
+    "roomId": 2904,
+    "area": 66.0693,
+    "totalPrice": 811127.4228360333
+  },
+  {
+    "house": 3,
+    "roomId": 2905,
+    "area": 66.0693,
+    "totalPrice": 811114.532931272
+  },
+  {
+    "house": 3,
+    "roomId": 2906,
+    "area": 85.5162,
+    "totalPrice": 1103130.2606348805
+  },
+  {
+    "house": 3,
+    "roomId": 2907,
+    "area": 85.5162,
+    "totalPrice": 1103146.4564627698
+  },
+  {
+    "house": 3,
+    "roomId": 2908,
+    "area": 66.2074,
+    "totalPrice": 786352.4442581795
+  },
+  {
+    "house": 3,
+    "roomId": 3001,
+    "area": 67.2084,
+    "totalPrice": 793361.8851068963
+  },
+  {
+    "house": 3,
+    "roomId": 3002,
+    "area": 85.5162,
+    "totalPrice": 1103194.555842855
+  },
+  {
+    "house": 3,
+    "roomId": 3003,
+    "area": 85.5162,
+    "totalPrice": 1103141.9194022154
+  },
+  {
+    "house": 3,
+    "roomId": 3004,
+    "area": 66.0693,
+    "totalPrice": 812957.0342206487
+  },
+  {
+    "house": 3,
+    "roomId": 3005,
+    "area": 66.0693,
+    "totalPrice": 812944.1443158875
+  },
+  {
+    "house": 3,
+    "roomId": 3006,
+    "area": 85.5162,
+    "totalPrice": 1103130.2606348805
+  },
+  {
+    "house": 3,
+    "roomId": 3007,
+    "area": 85.5162,
+    "totalPrice": 1103146.4564627698
+  },
+  {
+    "house": 3,
+    "roomId": 3008,
+    "area": 66.2074,
+    "totalPrice": 788185.8799504873
+  },
+  {
+    "house": 3,
+    "roomId": 3101,
+    "area": 67.2084,
+    "totalPrice": 795223.0407992039
+  },
+  {
+    "house": 3,
+    "roomId": 3102,
+    "area": 85.5162,
+    "totalPrice": 1103194.555842855
+  },
+  {
+    "house": 3,
+    "roomId": 3103,
+    "area": 85.5162,
+    "totalPrice": 1103141.9194022154
+  },
+  {
+    "house": 3,
+    "roomId": 3104,
+    "area": 66.0693,
+    "totalPrice": 814786.645605264
+  },
+  {
+    "house": 3,
+    "roomId": 3105,
+    "area": 66.0693,
+    "totalPrice": 814773.7557005028
+  },
+  {
+    "house": 3,
+    "roomId": 3106,
+    "area": 85.5162,
+    "totalPrice": 1103130.2606348805
+  },
+  {
+    "house": 3,
+    "roomId": 3107,
+    "area": 85.5162,
+    "totalPrice": 1103146.4564627698
+  },
+  {
+    "house": 3,
+    "roomId": 3108,
+    "area": 66.2074,
+    "totalPrice": 790019.3156427948
+  },
+  {
+    "house": 3,
+    "roomId": 3201,
+    "area": 67.2084,
+    "totalPrice": 797084.1964915117
+  },
+  {
+    "house": 3,
+    "roomId": 3202,
+    "area": 85.5162,
+    "totalPrice": 1103194.555842855
+  },
+  {
+    "house": 3,
+    "roomId": 3203,
+    "area": 85.5162,
+    "totalPrice": 1103141.9194022154
+  },
+  {
+    "house": 3,
+    "roomId": 3204,
+    "area": 66.0693,
+    "totalPrice": 816616.2569898794
+  },
+  {
+    "house": 3,
+    "roomId": 3205,
+    "area": 66.0693,
+    "totalPrice": 816603.3670851182
+  },
+  {
+    "house": 3,
+    "roomId": 3206,
+    "area": 85.5162,
+    "totalPrice": 1103130.2606348805
+  },
+  {
+    "house": 3,
+    "roomId": 3207,
+    "area": 85.5162,
+    "totalPrice": 1103146.4564627698
+  },
+  {
+    "house": 3,
+    "roomId": 3208,
+    "area": 66.2074,
+    "totalPrice": 791852.7513351026
+  },
+  {
+    "house": 3,
+    "roomId": 3301,
+    "area": 67.2084,
+    "totalPrice": 795223.0407992039
+  },
+  {
+    "house": 3,
+    "roomId": 3302,
+    "area": 85.5162,
+    "totalPrice": 1103194.555842855
+  },
+  {
+    "house": 3,
+    "roomId": 3303,
+    "area": 85.5162,
+    "totalPrice": 1103141.9194022154
+  },
+  {
+    "house": 3,
+    "roomId": 3304,
+    "area": 66.0693,
+    "totalPrice": 814786.645605264
+  },
+  {
+    "house": 3,
+    "roomId": 3305,
+    "area": 66.0693,
+    "totalPrice": 814773.7557005028
+  },
+  {
+    "house": 3,
+    "roomId": 3306,
+    "area": 85.5162,
+    "totalPrice": 1103130.2606348805
+  },
+  {
+    "house": 3,
+    "roomId": 3307,
+    "area": 85.5162,
+    "totalPrice": 1103146.4564627698
+  },
+  {
+    "house": 3,
+    "roomId": 3308,
+    "area": 66.2074,
+    "totalPrice": 790019.3156427948
+  },
+  {
+    "house": 4,
+    "roomId": 301,
+    "area": 66.6429,
+    "totalPrice": 735737.3224633897
+  },
+  {
+    "house": 4,
+    "roomId": 302,
+    "area": 84.5714,
+    "totalPrice": 992827.3385513575
+  },
+  {
+    "house": 4,
+    "roomId": 303,
+    "area": 84.5714,
+    "totalPrice": 992866.8980733379
+  },
+  {
+    "house": 4,
+    "roomId": 304,
+    "area": 66.4979,
+    "totalPrice": 754079.2165643407
+  },
+  {
+    "house": 4,
+    "roomId": 305,
+    "area": 66.498,
+    "totalPrice": 754057.5519658825
+  },
+  {
+    "house": 4,
+    "roomId": 306,
+    "area": 84.5714,
+    "totalPrice": 992853.9199816358
+  },
+  {
+    "house": 4,
+    "roomId": 307,
+    "area": 85.0416,
+    "totalPrice": 998357.8824435807
+  },
+  {
+    "house": 4,
+    "roomId": 308,
+    "area": 66.9594,
+    "totalPrice": 723239.7192843569
+  },
+  {
+    "house": 4,
+    "roomId": 401,
+    "area": 66.6429,
+    "totalPrice": 735737.3224633897
+  },
+  {
+    "house": 4,
+    "roomId": 402,
+    "area": 84.5714,
+    "totalPrice": 992827.3385513575
+  },
+  {
+    "house": 4,
+    "roomId": 403,
+    "area": 84.5714,
+    "totalPrice": 992866.8980733379
+  },
+  {
+    "house": 4,
+    "roomId": 404,
+    "area": 66.4979,
+    "totalPrice": 754079.2165643407
+  },
+  {
+    "house": 4,
+    "roomId": 405,
+    "area": 66.498,
+    "totalPrice": 754057.5519658825
+  },
+  {
+    "house": 4,
+    "roomId": 406,
+    "area": 84.5714,
+    "totalPrice": 992853.9199816358
+  },
+  {
+    "house": 4,
+    "roomId": 407,
+    "area": 85.0416,
+    "totalPrice": 998357.8824435807
+  },
+  {
+    "house": 4,
+    "roomId": 408,
+    "area": 66.9594,
+    "totalPrice": 723239.7192843569
+  },
+  {
+    "house": 4,
+    "roomId": 501,
+    "area": 66.6429,
+    "totalPrice": 737918.362827026
+  },
+  {
+    "house": 4,
+    "roomId": 502,
+    "area": 84.5714,
+    "totalPrice": 995595.1298240847
+  },
+  {
+    "house": 4,
+    "roomId": 503,
+    "area": 84.5714,
+    "totalPrice": 995634.689346065
+  },
+  {
+    "house": 4,
+    "roomId": 504,
+    "area": 66.4979,
+    "totalPrice": 756255.5114734316
+  },
+  {
+    "house": 4,
+    "roomId": 505,
+    "area": 66.498,
+    "totalPrice": 756233.8501477008
+  },
+  {
+    "house": 4,
+    "roomId": 506,
+    "area": 84.5714,
+    "totalPrice": 995621.711254363
+  },
+  {
+    "house": 4,
+    "roomId": 507,
+    "area": 85.0416,
+    "totalPrice": 1001141.0620799442
+  },
+  {
+    "house": 4,
+    "roomId": 508,
+    "area": 66.9594,
+    "totalPrice": 723239.7192843569
+  },
+  {
+    "house": 4,
+    "roomId": 601,
+    "area": 66.6429,
+    "totalPrice": 740099.4031906625
+  },
+  {
+    "house": 4,
+    "roomId": 602,
+    "area": 84.5714,
+    "totalPrice": 998362.921096812
+  },
+  {
+    "house": 4,
+    "roomId": 603,
+    "area": 84.5714,
+    "totalPrice": 998402.4806187925
+  },
+  {
+    "house": 4,
+    "roomId": 604,
+    "area": 66.4979,
+    "totalPrice": 758431.8063825226
+  },
+  {
+    "house": 4,
+    "roomId": 605,
+    "area": 66.498,
+    "totalPrice": 758410.148329519
+  },
+  {
+    "house": 4,
+    "roomId": 606,
+    "area": 84.5714,
+    "totalPrice": 998389.5025270903
+  },
+  {
+    "house": 4,
+    "roomId": 607,
+    "area": 85.0416,
+    "totalPrice": 1003924.2417163079
+  },
+  {
+    "house": 4,
+    "roomId": 608,
+    "area": 66.9594,
+    "totalPrice": 723239.7192843569
+  },
+  {
+    "house": 4,
+    "roomId": 701,
+    "area": 66.6429,
+    "totalPrice": 742280.4435542988
+  },
+  {
+    "house": 4,
+    "roomId": 702,
+    "area": 84.5714,
+    "totalPrice": 1001130.7123695393
+  },
+  {
+    "house": 4,
+    "roomId": 703,
+    "area": 84.5714,
+    "totalPrice": 1001170.2718915197
+  },
+  {
+    "house": 4,
+    "roomId": 704,
+    "area": 66.4979,
+    "totalPrice": 760608.1012916134
+  },
+  {
+    "house": 4,
+    "roomId": 705,
+    "area": 66.498,
+    "totalPrice": 760586.4465113371
+  },
+  {
+    "house": 4,
+    "roomId": 706,
+    "area": 84.5714,
+    "totalPrice": 1001157.2937998176
+  },
+  {
+    "house": 4,
+    "roomId": 707,
+    "area": 85.0416,
+    "totalPrice": 1006707.4213526716
+  },
+  {
+    "house": 4,
+    "roomId": 708,
+    "area": 66.9594,
+    "totalPrice": 723239.7192843569
+  },
+  {
+    "house": 4,
+    "roomId": 801,
+    "area": 66.6429,
+    "totalPrice": 744461.4839179352
+  },
+  {
+    "house": 4,
+    "roomId": 802,
+    "area": 84.5714,
+    "totalPrice": 1003898.5036422665
+  },
+  {
+    "house": 4,
+    "roomId": 803,
+    "area": 84.5714,
+    "totalPrice": 1003938.0631642469
+  },
+  {
+    "house": 4,
+    "roomId": 804,
+    "area": 66.4979,
+    "totalPrice": 762784.3962007044
+  },
+  {
+    "house": 4,
+    "roomId": 805,
+    "area": 66.498,
+    "totalPrice": 762762.7446931553
+  },
+  {
+    "house": 4,
+    "roomId": 806,
+    "area": 84.5714,
+    "totalPrice": 1003925.0850725448
+  },
+  {
+    "house": 4,
+    "roomId": 807,
+    "area": 85.0416,
+    "totalPrice": 1009490.6009890351
+  },
+  {
+    "house": 4,
+    "roomId": 808,
+    "area": 66.9594,
+    "totalPrice": 723239.7192843569
+  },
+  {
+    "house": 4,
+    "roomId": 901,
+    "area": 66.6429,
+    "totalPrice": 746642.5242815716
+  },
+  {
+    "house": 4,
+    "roomId": 902,
+    "area": 84.5714,
+    "totalPrice": 1006666.2949149938
+  },
+  {
+    "house": 4,
+    "roomId": 903,
+    "area": 84.5714,
+    "totalPrice": 1006705.8544369743
+  },
+  {
+    "house": 4,
+    "roomId": 904,
+    "area": 66.4979,
+    "totalPrice": 764960.6911097954
+  },
+  {
+    "house": 4,
+    "roomId": 905,
+    "area": 66.498,
+    "totalPrice": 764939.0428749735
+  },
+  {
+    "house": 4,
+    "roomId": 906,
+    "area": 84.5714,
+    "totalPrice": 1006692.8763452721
+  },
+  {
+    "house": 4,
+    "roomId": 907,
+    "area": 85.0416,
+    "totalPrice": 1012273.7806253989
+  },
+  {
+    "house": 4,
+    "roomId": 908,
+    "area": 66.9594,
+    "totalPrice": 723416.2486116296
+  },
+  {
+    "house": 4,
+    "roomId": 1001,
+    "area": 66.6429,
+    "totalPrice": 748823.564645208
+  },
+  {
+    "house": 4,
+    "roomId": 1002,
+    "area": 84.5714,
+    "totalPrice": 1009434.0861877211
+  },
+  {
+    "house": 4,
+    "roomId": 1003,
+    "area": 84.5714,
+    "totalPrice": 1009473.6457097015
+  },
+  {
+    "house": 4,
+    "roomId": 1004,
+    "area": 66.4979,
+    "totalPrice": 767136.9860188862
+  },
+  {
+    "house": 4,
+    "roomId": 1005,
+    "area": 66.498,
+    "totalPrice": 767115.3410567916
+  },
+  {
+    "house": 4,
+    "roomId": 1006,
+    "area": 84.5714,
+    "totalPrice": 1009460.6676179994
+  },
+  {
+    "house": 4,
+    "roomId": 1007,
+    "area": 85.0416,
+    "totalPrice": 1015056.9602617624
+  },
+  {
+    "house": 4,
+    "roomId": 1008,
+    "area": 66.9594,
+    "totalPrice": 725607.6471570841
+  },
+  {
+    "house": 4,
+    "roomId": 1101,
+    "area": 66.6429,
+    "totalPrice": 751004.6050088444
+  },
+  {
+    "house": 4,
+    "roomId": 1102,
+    "area": 84.5714,
+    "totalPrice": 1012201.8774604484
+  },
+  {
+    "house": 4,
+    "roomId": 1103,
+    "area": 84.5714,
+    "totalPrice": 1012241.4369824288
+  },
+  {
+    "house": 4,
+    "roomId": 1104,
+    "area": 66.4979,
+    "totalPrice": 769313.2809279772
+  },
+  {
+    "house": 4,
+    "roomId": 1105,
+    "area": 66.498,
+    "totalPrice": 769291.6392386099
+  },
+  {
+    "house": 4,
+    "roomId": 1106,
+    "area": 84.5714,
+    "totalPrice": 1012228.4588907267
+  },
+  {
+    "house": 4,
+    "roomId": 1107,
+    "area": 85.0416,
+    "totalPrice": 1017840.1398981261
+  },
+  {
+    "house": 4,
+    "roomId": 1108,
+    "area": 66.9594,
+    "totalPrice": 727799.0457025387
+  },
+  {
+    "house": 4,
+    "roomId": 1201,
+    "area": 66.6429,
+    "totalPrice": 753185.6453724807
+  },
+  {
+    "house": 4,
+    "roomId": 1202,
+    "area": 84.5714,
+    "totalPrice": 1014969.6687331756
+  },
+  {
+    "house": 4,
+    "roomId": 1203,
+    "area": 84.5714,
+    "totalPrice": 1015009.2282551561
+  },
+  {
+    "house": 4,
+    "roomId": 1204,
+    "area": 66.4979,
+    "totalPrice": 771489.575837068
+  },
+  {
+    "house": 4,
+    "roomId": 1205,
+    "area": 66.498,
+    "totalPrice": 771467.937420428
+  },
+  {
+    "house": 4,
+    "roomId": 1206,
+    "area": 84.5714,
+    "totalPrice": 1014996.2501634539
+  },
+  {
+    "house": 4,
+    "roomId": 1207,
+    "area": 85.0416,
+    "totalPrice": 1020623.3195344898
+  },
+  {
+    "house": 4,
+    "roomId": 1208,
+    "area": 66.9594,
+    "totalPrice": 729990.4442479933
+  },
+  {
+    "house": 4,
+    "roomId": 1301,
+    "area": 66.6429,
+    "totalPrice": 755366.685736117
+  },
+  {
+    "house": 4,
+    "roomId": 1302,
+    "area": 84.5714,
+    "totalPrice": 1017737.4600059029
+  },
+  {
+    "house": 4,
+    "roomId": 1303,
+    "area": 84.5714,
+    "totalPrice": 1017777.0195278833
+  },
+  {
+    "house": 4,
+    "roomId": 1304,
+    "area": 66.4979,
+    "totalPrice": 773665.8707461589
+  },
+  {
+    "house": 4,
+    "roomId": 1305,
+    "area": 66.498,
+    "totalPrice": 773644.2356022461
+  },
+  {
+    "house": 4,
+    "roomId": 1306,
+    "area": 84.5714,
+    "totalPrice": 1017764.0414361812
+  },
+  {
+    "house": 4,
+    "roomId": 1307,
+    "area": 85.0416,
+    "totalPrice": 1023406.4991708533
+  },
+  {
+    "house": 4,
+    "roomId": 1308,
+    "area": 66.9594,
+    "totalPrice": 732181.8427934478
+  },
+  {
+    "house": 4,
+    "roomId": 1401,
+    "area": 66.6429,
+    "totalPrice": 755366.685736117
+  },
+  {
+    "house": 4,
+    "roomId": 1402,
+    "area": 84.5714,
+    "totalPrice": 1017737.4600059029
+  },
+  {
+    "house": 4,
+    "roomId": 1403,
+    "area": 84.5714,
+    "totalPrice": 1017777.0195278833
+  },
+  {
+    "house": 4,
+    "roomId": 1404,
+    "area": 66.4979,
+    "totalPrice": 773665.8707461589
+  },
+  {
+    "house": 4,
+    "roomId": 1405,
+    "area": 66.498,
+    "totalPrice": 773644.2356022461
+  },
+  {
+    "house": 4,
+    "roomId": 1406,
+    "area": 84.5714,
+    "totalPrice": 1017764.0414361812
+  },
+  {
+    "house": 4,
+    "roomId": 1407,
+    "area": 85.0416,
+    "totalPrice": 1023406.4991708533
+  },
+  {
+    "house": 4,
+    "roomId": 1408,
+    "area": 66.9594,
+    "totalPrice": 732181.8427934478
+  },
+  {
+    "house": 4,
+    "roomId": 1501,
+    "area": 66.6429,
+    "totalPrice": 757547.7260997534
+  },
+  {
+    "house": 4,
+    "roomId": 1502,
+    "area": 84.5714,
+    "totalPrice": 1020505.2512786302
+  },
+  {
+    "house": 4,
+    "roomId": 1503,
+    "area": 84.5714,
+    "totalPrice": 1020544.8108006106
+  },
+  {
+    "house": 4,
+    "roomId": 1504,
+    "area": 66.4979,
+    "totalPrice": 775842.1656552498
+  },
+  {
+    "house": 4,
+    "roomId": 1505,
+    "area": 66.498,
+    "totalPrice": 775820.5337840645
+  },
+  {
+    "house": 4,
+    "roomId": 1506,
+    "area": 84.5714,
+    "totalPrice": 1020531.8327089085
+  },
+  {
+    "house": 4,
+    "roomId": 1507,
+    "area": 85.0416,
+    "totalPrice": 1026189.678807217
+  },
+  {
+    "house": 4,
+    "roomId": 1508,
+    "area": 66.9594,
+    "totalPrice": 734373.2413389024
+  },
+  {
+    "house": 4,
+    "roomId": 1601,
+    "area": 66.6429,
+    "totalPrice": 759728.7664633897
+  },
+  {
+    "house": 4,
+    "roomId": 1602,
+    "area": 84.5714,
+    "totalPrice": 1023273.0425513574
+  },
+  {
+    "house": 4,
+    "roomId": 1603,
+    "area": 84.5714,
+    "totalPrice": 1023312.6020733379
+  },
+  {
+    "house": 4,
+    "roomId": 1604,
+    "area": 66.4979,
+    "totalPrice": 778018.4605643408
+  },
+  {
+    "house": 4,
+    "roomId": 1605,
+    "area": 66.498,
+    "totalPrice": 777996.8319658826
+  },
+  {
+    "house": 4,
+    "roomId": 1606,
+    "area": 84.5714,
+    "totalPrice": 1023299.6239816357
+  },
+  {
+    "house": 4,
+    "roomId": 1607,
+    "area": 85.0416,
+    "totalPrice": 1028972.8584435807
+  },
+  {
+    "house": 4,
+    "roomId": 1608,
+    "area": 66.9594,
+    "totalPrice": 736564.6398843569
+  },
+  {
+    "house": 4,
+    "roomId": 1701,
+    "area": 66.6429,
+    "totalPrice": 761909.8068270261
+  },
+  {
+    "house": 4,
+    "roomId": 1702,
+    "area": 84.5714,
+    "totalPrice": 1026040.8338240847
+  },
+  {
+    "house": 4,
+    "roomId": 1703,
+    "area": 84.5714,
+    "totalPrice": 1026080.3933460651
+  },
+  {
+    "house": 4,
+    "roomId": 1704,
+    "area": 66.4979,
+    "totalPrice": 780194.7554734317
+  },
+  {
+    "house": 4,
+    "roomId": 1705,
+    "area": 66.498,
+    "totalPrice": 780173.1301477007
+  },
+  {
+    "house": 4,
+    "roomId": 1706,
+    "area": 84.5714,
+    "totalPrice": 1026067.415254363
+  },
+  {
+    "house": 4,
+    "roomId": 1707,
+    "area": 85.0416,
+    "totalPrice": 1031756.0380799442
+  },
+  {
+    "house": 4,
+    "roomId": 1708,
+    "area": 66.9594,
+    "totalPrice": 738756.0384298114
+  },
+  {
+    "house": 4,
+    "roomId": 1801,
+    "area": 66.6429,
+    "totalPrice": 764090.8471906625
+  },
+  {
+    "house": 4,
+    "roomId": 1802,
+    "area": 84.5714,
+    "totalPrice": 1028808.625096812
+  },
+  {
+    "house": 4,
+    "roomId": 1803,
+    "area": 84.5714,
+    "totalPrice": 1028848.1846187924
+  },
+  {
+    "house": 4,
+    "roomId": 1804,
+    "area": 66.4979,
+    "totalPrice": 782371.0503825226
+  },
+  {
+    "house": 4,
+    "roomId": 1805,
+    "area": 66.498,
+    "totalPrice": 782349.428329519
+  },
+  {
+    "house": 4,
+    "roomId": 1806,
+    "area": 84.5714,
+    "totalPrice": 1028835.2065270903
+  },
+  {
+    "house": 4,
+    "roomId": 1807,
+    "area": 85.0416,
+    "totalPrice": 1034539.217716308
+  },
+  {
+    "house": 4,
+    "roomId": 1808,
+    "area": 66.9594,
+    "totalPrice": 740947.436975266
+  },
+  {
+    "house": 4,
+    "roomId": 1901,
+    "area": 66.6429,
+    "totalPrice": 766271.8875542989
+  },
+  {
+    "house": 4,
+    "roomId": 1902,
+    "area": 84.5714,
+    "totalPrice": 1031576.4163695392
+  },
+  {
+    "house": 4,
+    "roomId": 1903,
+    "area": 84.5714,
+    "totalPrice": 1031615.9758915197
+  },
+  {
+    "house": 4,
+    "roomId": 1904,
+    "area": 66.4979,
+    "totalPrice": 784547.3452916135
+  },
+  {
+    "house": 4,
+    "roomId": 1905,
+    "area": 66.498,
+    "totalPrice": 784525.7265113371
+  },
+  {
+    "house": 4,
+    "roomId": 1906,
+    "area": 84.5714,
+    "totalPrice": 1031602.9977998175
+  },
+  {
+    "house": 4,
+    "roomId": 1907,
+    "area": 85.0416,
+    "totalPrice": 1037322.3973526715
+  },
+  {
+    "house": 4,
+    "roomId": 1908,
+    "area": 66.9594,
+    "totalPrice": 743138.8355207205
+  },
+  {
+    "house": 4,
+    "roomId": 2001,
+    "area": 66.6429,
+    "totalPrice": 768452.9279179352
+  },
+  {
+    "house": 4,
+    "roomId": 2002,
+    "area": 84.5714,
+    "totalPrice": 1034344.2076422665
+  },
+  {
+    "house": 4,
+    "roomId": 2003,
+    "area": 84.5714,
+    "totalPrice": 1034383.7671642469
+  },
+  {
+    "house": 4,
+    "roomId": 2004,
+    "area": 66.4979,
+    "totalPrice": 786723.6402007043
+  },
+  {
+    "house": 4,
+    "roomId": 2005,
+    "area": 66.498,
+    "totalPrice": 786702.0246931553
+  },
+  {
+    "house": 4,
+    "roomId": 2006,
+    "area": 84.5714,
+    "totalPrice": 1034370.7890725448
+  },
+  {
+    "house": 4,
+    "roomId": 2007,
+    "area": 85.0416,
+    "totalPrice": 1040105.5769890351
+  },
+  {
+    "house": 4,
+    "roomId": 2008,
+    "area": 66.9594,
+    "totalPrice": 745330.234066175
+  },
+  {
+    "house": 4,
+    "roomId": 2101,
+    "area": 66.6429,
+    "totalPrice": 770633.9682815716
+  },
+  {
+    "house": 4,
+    "roomId": 2102,
+    "area": 84.5714,
+    "totalPrice": 1037111.9989149938
+  },
+  {
+    "house": 4,
+    "roomId": 2103,
+    "area": 84.5714,
+    "totalPrice": 1037151.5584369742
+  },
+  {
+    "house": 4,
+    "roomId": 2104,
+    "area": 66.4979,
+    "totalPrice": 788899.9351097953
+  },
+  {
+    "house": 4,
+    "roomId": 2105,
+    "area": 66.498,
+    "totalPrice": 788878.3228749735
+  },
+  {
+    "house": 4,
+    "roomId": 2106,
+    "area": 84.5714,
+    "totalPrice": 1037138.5803452721
+  },
+  {
+    "house": 4,
+    "roomId": 2107,
+    "area": 85.0416,
+    "totalPrice": 1042888.7566253989
+  },
+  {
+    "house": 4,
+    "roomId": 2108,
+    "area": 66.9594,
+    "totalPrice": 747521.6326116297
+  },
+  {
+    "house": 4,
+    "roomId": 2201,
+    "area": 66.6429,
+    "totalPrice": 772815.008645208
+  },
+  {
+    "house": 4,
+    "roomId": 2202,
+    "area": 84.5714,
+    "totalPrice": 1039879.790187721
+  },
+  {
+    "house": 4,
+    "roomId": 2203,
+    "area": 84.5714,
+    "totalPrice": 1039919.3497097015
+  },
+  {
+    "house": 4,
+    "roomId": 2204,
+    "area": 66.4979,
+    "totalPrice": 791076.2300188862
+  },
+  {
+    "house": 4,
+    "roomId": 2205,
+    "area": 66.498,
+    "totalPrice": 791054.6210567916
+  },
+  {
+    "house": 4,
+    "roomId": 2206,
+    "area": 84.5714,
+    "totalPrice": 1039906.3716179993
+  },
+  {
+    "house": 4,
+    "roomId": 2207,
+    "area": 85.0416,
+    "totalPrice": 1045671.9362617624
+  },
+  {
+    "house": 4,
+    "roomId": 2208,
+    "area": 66.9594,
+    "totalPrice": 749713.0311570842
+  },
+  {
+    "house": 4,
+    "roomId": 2301,
+    "area": 66.6429,
+    "totalPrice": 774996.0490088444
+  },
+  {
+    "house": 4,
+    "roomId": 2302,
+    "area": 84.5714,
+    "totalPrice": 1042647.5814604484
+  },
+  {
+    "house": 4,
+    "roomId": 2303,
+    "area": 84.5714,
+    "totalPrice": 1042687.1409824288
+  },
+  {
+    "house": 4,
+    "roomId": 2304,
+    "area": 66.4979,
+    "totalPrice": 793252.5249279771
+  },
+  {
+    "house": 4,
+    "roomId": 2305,
+    "area": 66.498,
+    "totalPrice": 793230.91923861
+  },
+  {
+    "house": 4,
+    "roomId": 2306,
+    "area": 84.5714,
+    "totalPrice": 1042674.1628907267
+  },
+  {
+    "house": 4,
+    "roomId": 2307,
+    "area": 85.0416,
+    "totalPrice": 1048455.1158981262
+  },
+  {
+    "house": 4,
+    "roomId": 2308,
+    "area": 66.9594,
+    "totalPrice": 751904.4297025388
+  },
+  {
+    "house": 4,
+    "roomId": 2401,
+    "area": 66.6429,
+    "totalPrice": 774996.0490088444
+  },
+  {
+    "house": 4,
+    "roomId": 2402,
+    "area": 84.5714,
+    "totalPrice": 1042647.5814604484
+  },
+  {
+    "house": 4,
+    "roomId": 2403,
+    "area": 84.5714,
+    "totalPrice": 1042687.1409824288
+  },
+  {
+    "house": 4,
+    "roomId": 2404,
+    "area": 66.4979,
+    "totalPrice": 793252.5249279771
+  },
+  {
+    "house": 4,
+    "roomId": 2405,
+    "area": 66.498,
+    "totalPrice": 793230.91923861
+  },
+  {
+    "house": 4,
+    "roomId": 2406,
+    "area": 84.5714,
+    "totalPrice": 1042674.1628907267
+  },
+  {
+    "house": 4,
+    "roomId": 2407,
+    "area": 85.0416,
+    "totalPrice": 1048455.1158981262
+  },
+  {
+    "house": 4,
+    "roomId": 2408,
+    "area": 66.9594,
+    "totalPrice": 751904.4297025388
+  },
+  {
+    "house": 4,
+    "roomId": 2501,
+    "area": 66.6429,
+    "totalPrice": 777177.0893724806
+  },
+  {
+    "house": 4,
+    "roomId": 2502,
+    "area": 84.5714,
+    "totalPrice": 1045415.3727331756
+  },
+  {
+    "house": 4,
+    "roomId": 2503,
+    "area": 84.5714,
+    "totalPrice": 1045454.932255156
+  },
+  {
+    "house": 4,
+    "roomId": 2504,
+    "area": 66.4979,
+    "totalPrice": 795428.8198370681
+  },
+  {
+    "house": 4,
+    "roomId": 2505,
+    "area": 66.498,
+    "totalPrice": 795407.2174204281
+  },
+  {
+    "house": 4,
+    "roomId": 2506,
+    "area": 84.5714,
+    "totalPrice": 1045441.9541634539
+  },
+  {
+    "house": 4,
+    "roomId": 2507,
+    "area": 85.0416,
+    "totalPrice": 1051238.2955344897
+  },
+  {
+    "house": 4,
+    "roomId": 2508,
+    "area": 66.9594,
+    "totalPrice": 754095.8282479933
+  },
+  {
+    "house": 4,
+    "roomId": 2601,
+    "area": 66.6429,
+    "totalPrice": 779358.129736117
+  },
+  {
+    "house": 4,
+    "roomId": 2602,
+    "area": 84.5714,
+    "totalPrice": 1048183.1640059028
+  },
+  {
+    "house": 4,
+    "roomId": 2603,
+    "area": 84.5714,
+    "totalPrice": 1048222.7235278833
+  },
+  {
+    "house": 4,
+    "roomId": 2604,
+    "area": 66.4979,
+    "totalPrice": 797605.114746159
+  },
+  {
+    "house": 4,
+    "roomId": 2605,
+    "area": 66.498,
+    "totalPrice": 797583.5156022462
+  },
+  {
+    "house": 4,
+    "roomId": 2606,
+    "area": 84.5714,
+    "totalPrice": 1048209.7454361811
+  },
+  {
+    "house": 4,
+    "roomId": 2607,
+    "area": 85.0416,
+    "totalPrice": 1054021.4751708533
+  },
+  {
+    "house": 4,
+    "roomId": 2608,
+    "area": 66.9594,
+    "totalPrice": 756287.2267934477
+  },
+  {
+    "house": 4,
+    "roomId": 2701,
+    "area": 66.6429,
+    "totalPrice": 781539.1700997534
+  },
+  {
+    "house": 4,
+    "roomId": 2702,
+    "area": 84.5714,
+    "totalPrice": 1050950.9552786301
+  },
+  {
+    "house": 4,
+    "roomId": 2703,
+    "area": 84.5714,
+    "totalPrice": 1050990.5148006107
+  },
+  {
+    "house": 4,
+    "roomId": 2704,
+    "area": 66.4979,
+    "totalPrice": 799781.4096552499
+  },
+  {
+    "house": 4,
+    "roomId": 2705,
+    "area": 66.498,
+    "totalPrice": 799759.8137840645
+  },
+  {
+    "house": 4,
+    "roomId": 2706,
+    "area": 84.5714,
+    "totalPrice": 1050977.5367089084
+  },
+  {
+    "house": 4,
+    "roomId": 2707,
+    "area": 85.0416,
+    "totalPrice": 1056804.654807217
+  },
+  {
+    "house": 4,
+    "roomId": 2708,
+    "area": 66.9594,
+    "totalPrice": 758478.6253389023
+  },
+  {
+    "house": 4,
+    "roomId": 2801,
+    "area": 66.6429,
+    "totalPrice": 783720.2104633898
+  },
+  {
+    "house": 4,
+    "roomId": 2802,
+    "area": 84.5714,
+    "totalPrice": 1053718.7465513574
+  },
+  {
+    "house": 4,
+    "roomId": 2803,
+    "area": 84.5714,
+    "totalPrice": 1053758.3060733378
+  },
+  {
+    "house": 4,
+    "roomId": 2804,
+    "area": 66.4979,
+    "totalPrice": 801957.7045643408
+  },
+  {
+    "house": 4,
+    "roomId": 2805,
+    "area": 66.498,
+    "totalPrice": 801936.1119658826
+  },
+  {
+    "house": 4,
+    "roomId": 2806,
+    "area": 84.5714,
+    "totalPrice": 1053745.3279816357
+  },
+  {
+    "house": 4,
+    "roomId": 2807,
+    "area": 85.0416,
+    "totalPrice": 1059587.8344435806
+  },
+  {
+    "house": 4,
+    "roomId": 2808,
+    "area": 66.9594,
+    "totalPrice": 760670.0238843568
+  },
+  {
+    "house": 4,
+    "roomId": 2901,
+    "area": 66.6429,
+    "totalPrice": 781539.1700997534
+  },
+  {
+    "house": 4,
+    "roomId": 2902,
+    "area": 84.5714,
+    "totalPrice": 1050950.9552786301
+  },
+  {
+    "house": 4,
+    "roomId": 2903,
+    "area": 84.5714,
+    "totalPrice": 1050990.5148006107
+  },
+  {
+    "house": 4,
+    "roomId": 2904,
+    "area": 66.4979,
+    "totalPrice": 799781.4096552499
+  },
+  {
+    "house": 4,
+    "roomId": 2905,
+    "area": 66.498,
+    "totalPrice": 799759.8137840645
+  },
+  {
+    "house": 4,
+    "roomId": 2906,
+    "area": 84.5714,
+    "totalPrice": 1050977.5367089084
+  },
+  {
+    "house": 4,
+    "roomId": 2907,
+    "area": 85.0416,
+    "totalPrice": 1056804.654807217
+  },
+  {
+    "house": 4,
+    "roomId": 2908,
+    "area": 66.9594,
+    "totalPrice": 758478.6253389023
+  },
+  {
+    "house": 5,
+    "roomId": 301,
+    "area": 87.0128,
+    "totalPrice": 1099857.8880092045
+  },
+  {
+    "house": 5,
+    "roomId": 302,
+    "area": 69.2788,
+    "totalPrice": 820260.291428405
+  },
+  {
+    "house": 5,
+    "roomId": 303,
+    "area": 66.0011,
+    "totalPrice": 712855.3388791982
+  },
+  {
+    "house": 5,
+    "roomId": 304,
+    "area": 66.8354,
+    "totalPrice": 721919.3613042624
+  },
+  {
+    "house": 5,
+    "roomId": 305,
+    "area": 85.0416,
+    "totalPrice": 998373.9883874487
+  },
+  {
+    "house": 5,
+    "roomId": 306,
+    "area": 85.0418,
+    "totalPrice": 998360.2303718473
+  },
+  {
+    "house": 5,
+    "roomId": 307,
+    "area": 66.8353,
+    "totalPrice": 721899.2943527836
+  },
+  {
+    "house": 5,
+    "roomId": 401,
+    "area": 87.0128,
+    "totalPrice": 1099857.8880092045
+  },
+  {
+    "house": 5,
+    "roomId": 402,
+    "area": 69.2788,
+    "totalPrice": 820260.291428405
+  },
+  {
+    "house": 5,
+    "roomId": 403,
+    "area": 66.0011,
+    "totalPrice": 712855.3388791982
+  },
+  {
+    "house": 5,
+    "roomId": 404,
+    "area": 66.8354,
+    "totalPrice": 721919.3613042624
+  },
+  {
+    "house": 5,
+    "roomId": 405,
+    "area": 85.0416,
+    "totalPrice": 998373.9883874487
+  },
+  {
+    "house": 5,
+    "roomId": 406,
+    "area": 85.0418,
+    "totalPrice": 998360.2303718473
+  },
+  {
+    "house": 5,
+    "roomId": 407,
+    "area": 66.8353,
+    "totalPrice": 721899.2943527836
+  },
+  {
+    "house": 5,
+    "roomId": 501,
+    "area": 87.0128,
+    "totalPrice": 1102267.473239974
+  },
+  {
+    "house": 5,
+    "roomId": 502,
+    "area": 69.2788,
+    "totalPrice": 822178.7812745589
+  },
+  {
+    "house": 5,
+    "roomId": 503,
+    "area": 66.0011,
+    "totalPrice": 712855.3388791982
+  },
+  {
+    "house": 5,
+    "roomId": 504,
+    "area": 66.8354,
+    "totalPrice": 721919.3613042624
+  },
+  {
+    "house": 5,
+    "roomId": 505,
+    "area": 85.0416,
+    "totalPrice": 1000728.986541295
+  },
+  {
+    "house": 5,
+    "roomId": 506,
+    "area": 85.0418,
+    "totalPrice": 1000715.234064155
+  },
+  {
+    "house": 5,
+    "roomId": 507,
+    "area": 66.8353,
+    "totalPrice": 721899.2943527836
+  },
+  {
+    "house": 5,
+    "roomId": 601,
+    "area": 87.0128,
+    "totalPrice": 1104677.058470743
+  },
+  {
+    "house": 5,
+    "roomId": 602,
+    "area": 69.2788,
+    "totalPrice": 824097.2711207126
+  },
+  {
+    "house": 5,
+    "roomId": 603,
+    "area": 66.0011,
+    "totalPrice": 712855.3388791982
+  },
+  {
+    "house": 5,
+    "roomId": 604,
+    "area": 66.8354,
+    "totalPrice": 721919.3613042624
+  },
+  {
+    "house": 5,
+    "roomId": 605,
+    "area": 85.0416,
+    "totalPrice": 1003083.984695141
+  },
+  {
+    "house": 5,
+    "roomId": 606,
+    "area": 85.0418,
+    "totalPrice": 1003070.2377564627
+  },
+  {
+    "house": 5,
+    "roomId": 607,
+    "area": 66.8353,
+    "totalPrice": 721899.2943527836
+  },
+  {
+    "house": 5,
+    "roomId": 701,
+    "area": 87.0128,
+    "totalPrice": 1105078.6560092045
+  },
+  {
+    "house": 5,
+    "roomId": 702,
+    "area": 69.2788,
+    "totalPrice": 826015.7609668665
+  },
+  {
+    "house": 5,
+    "roomId": 703,
+    "area": 66.0011,
+    "totalPrice": 712855.3388791982
+  },
+  {
+    "house": 5,
+    "roomId": 704,
+    "area": 66.8354,
+    "totalPrice": 721919.3613042624
+  },
+  {
+    "house": 5,
+    "roomId": 705,
+    "area": 85.0416,
+    "totalPrice": 1005438.9828489872
+  },
+  {
+    "house": 5,
+    "roomId": 706,
+    "area": 85.0418,
+    "totalPrice": 1005425.2414487704
+  },
+  {
+    "house": 5,
+    "roomId": 707,
+    "area": 66.8353,
+    "totalPrice": 721899.2943527836
+  },
+  {
+    "house": 5,
+    "roomId": 801,
+    "area": 87.0128,
+    "totalPrice": 1105078.6560092045
+  },
+  {
+    "house": 5,
+    "roomId": 802,
+    "area": 69.2788,
+    "totalPrice": 827934.2508130203
+  },
+  {
+    "house": 5,
+    "roomId": 803,
+    "area": 66.0011,
+    "totalPrice": 716140.1628561213
+  },
+  {
+    "house": 5,
+    "roomId": 804,
+    "area": 66.8354,
+    "totalPrice": 721919.3613042624
+  },
+  {
+    "house": 5,
+    "roomId": 805,
+    "area": 85.0416,
+    "totalPrice": 1007793.9810028332
+  },
+  {
+    "house": 5,
+    "roomId": 806,
+    "area": 85.0418,
+    "totalPrice": 1007780.245141078
+  },
+  {
+    "house": 5,
+    "roomId": 807,
+    "area": 66.8353,
+    "totalPrice": 721899.2943527836
+  },
+  {
+    "house": 5,
+    "roomId": 901,
+    "area": 87.0128,
+    "totalPrice": 1105078.6560092045
+  },
+  {
+    "house": 5,
+    "roomId": 902,
+    "area": 69.2788,
+    "totalPrice": 829852.7406591743
+  },
+  {
+    "house": 5,
+    "roomId": 903,
+    "area": 66.0011,
+    "totalPrice": 717967.8856253522
+  },
+  {
+    "house": 5,
+    "roomId": 904,
+    "area": 66.8354,
+    "totalPrice": 721919.3613042624
+  },
+  {
+    "house": 5,
+    "roomId": 905,
+    "area": 85.0416,
+    "totalPrice": 1010148.9791566795
+  },
+  {
+    "house": 5,
+    "roomId": 906,
+    "area": 85.0418,
+    "totalPrice": 1010135.2488333858
+  },
+  {
+    "house": 5,
+    "roomId": 907,
+    "area": 66.8353,
+    "totalPrice": 721899.2943527836
+  },
+  {
+    "house": 5,
+    "roomId": 1001,
+    "area": 87.0128,
+    "totalPrice": 1105078.6560092045
+  },
+  {
+    "house": 5,
+    "roomId": 1002,
+    "area": 69.2788,
+    "totalPrice": 831771.230505328
+  },
+  {
+    "house": 5,
+    "roomId": 1003,
+    "area": 66.0011,
+    "totalPrice": 719795.6083945828
+  },
+  {
+    "house": 5,
+    "roomId": 1004,
+    "area": 66.8354,
+    "totalPrice": 722263.8206734932
+  },
+  {
+    "house": 5,
+    "roomId": 1005,
+    "area": 85.0416,
+    "totalPrice": 1012503.9773105256
+  },
+  {
+    "house": 5,
+    "roomId": 1006,
+    "area": 85.0418,
+    "totalPrice": 1012490.2525256934
+  },
+  {
+    "house": 5,
+    "roomId": 1007,
+    "area": 66.8353,
+    "totalPrice": 722243.7532066298
+  },
+  {
+    "house": 5,
+    "roomId": 1101,
+    "area": 87.0128,
+    "totalPrice": 1105078.6560092045
+  },
+  {
+    "house": 5,
+    "roomId": 1102,
+    "area": 69.2788,
+    "totalPrice": 833689.7203514819
+  },
+  {
+    "house": 5,
+    "roomId": 1103,
+    "area": 66.0011,
+    "totalPrice": 721623.3311638136
+  },
+  {
+    "house": 5,
+    "roomId": 1104,
+    "area": 66.8354,
+    "totalPrice": 724114.6471350318
+  },
+  {
+    "house": 5,
+    "roomId": 1105,
+    "area": 85.0416,
+    "totalPrice": 1014858.9754643718
+  },
+  {
+    "house": 5,
+    "roomId": 1106,
+    "area": 85.0418,
+    "totalPrice": 1014845.2562180011
+  },
+  {
+    "house": 5,
+    "roomId": 1107,
+    "area": 66.8353,
+    "totalPrice": 724088.8592527837
+  },
+  {
+    "house": 5,
+    "roomId": 1201,
+    "area": 87.0128,
+    "totalPrice": 1105078.6560092045
+  },
+  {
+    "house": 5,
+    "roomId": 1202,
+    "area": 69.2788,
+    "totalPrice": 835608.2101976357
+  },
+  {
+    "house": 5,
+    "roomId": 1203,
+    "area": 66.0011,
+    "totalPrice": 723451.0539330443
+  },
+  {
+    "house": 5,
+    "roomId": 1204,
+    "area": 66.8354,
+    "totalPrice": 725965.4735965701
+  },
+  {
+    "house": 5,
+    "roomId": 1205,
+    "area": 85.0416,
+    "totalPrice": 1017213.9736182179
+  },
+  {
+    "house": 5,
+    "roomId": 1206,
+    "area": 85.0418,
+    "totalPrice": 1017200.2599103088
+  },
+  {
+    "house": 5,
+    "roomId": 1207,
+    "area": 66.8353,
+    "totalPrice": 725945.400591245
+  },
+  {
+    "house": 5,
+    "roomId": 1301,
+    "area": 87.0128,
+    "totalPrice": 1105078.6560092045
+  },
+  {
+    "house": 5,
+    "roomId": 1302,
+    "area": 69.2788,
+    "totalPrice": 835608.2101976357
+  },
+  {
+    "house": 5,
+    "roomId": 1303,
+    "area": 66.0011,
+    "totalPrice": 723451.0539330443
+  },
+  {
+    "house": 5,
+    "roomId": 1304,
+    "area": 66.8354,
+    "totalPrice": 725965.4735965701
+  },
+  {
+    "house": 5,
+    "roomId": 1305,
+    "area": 85.0416,
+    "totalPrice": 1017213.9736182179
+  },
+  {
+    "house": 5,
+    "roomId": 1306,
+    "area": 85.0418,
+    "totalPrice": 1017200.2599103088
+  },
+  {
+    "house": 5,
+    "roomId": 1307,
+    "area": 66.8353,
+    "totalPrice": 725945.400591245
+  },
+  {
+    "house": 5,
+    "roomId": 1401,
+    "area": 87.0128,
+    "totalPrice": 1105078.6560092045
+  },
+  {
+    "house": 5,
+    "roomId": 1402,
+    "area": 69.2788,
+    "totalPrice": 837526.7000437896
+  },
+  {
+    "house": 5,
+    "roomId": 1403,
+    "area": 66.0011,
+    "totalPrice": 725278.7767022752
+  },
+  {
+    "house": 5,
+    "roomId": 1404,
+    "area": 66.8354,
+    "totalPrice": 727816.3000581086
+  },
+  {
+    "house": 5,
+    "roomId": 1405,
+    "area": 85.0416,
+    "totalPrice": 1019568.9717720641
+  },
+  {
+    "house": 5,
+    "roomId": 1406,
+    "area": 85.0418,
+    "totalPrice": 1019555.2636026165
+  },
+  {
+    "house": 5,
+    "roomId": 1407,
+    "area": 66.8353,
+    "totalPrice": 727796.2242835528
+  },
+  {
+    "house": 5,
+    "roomId": 1501,
+    "area": 87.0128,
+    "totalPrice": 1105078.6560092045
+  },
+  {
+    "house": 5,
+    "roomId": 1502,
+    "area": 69.2788,
+    "totalPrice": 839445.1898899433
+  },
+  {
+    "house": 5,
+    "roomId": 1503,
+    "area": 66.0011,
+    "totalPrice": 727106.4994715059
+  },
+  {
+    "house": 5,
+    "roomId": 1504,
+    "area": 66.8354,
+    "totalPrice": 729667.126519647
+  },
+  {
+    "house": 5,
+    "roomId": 1505,
+    "area": 85.0416,
+    "totalPrice": 1021923.9699259101
+  },
+  {
+    "house": 5,
+    "roomId": 1506,
+    "area": 85.0418,
+    "totalPrice": 1021910.2672949241
+  },
+  {
+    "house": 5,
+    "roomId": 1507,
+    "area": 66.8353,
+    "totalPrice": 729647.0479758604
+  },
+  {
+    "house": 5,
+    "roomId": 1601,
+    "area": 87.0128,
+    "totalPrice": 1105078.6560092045
+  },
+  {
+    "house": 5,
+    "roomId": 1602,
+    "area": 69.2788,
+    "totalPrice": 841363.6797360972
+  },
+  {
+    "house": 5,
+    "roomId": 1603,
+    "area": 66.0011,
+    "totalPrice": 728934.2222407367
+  },
+  {
+    "house": 5,
+    "roomId": 1604,
+    "area": 66.8354,
+    "totalPrice": 731517.9529811855
+  },
+  {
+    "house": 5,
+    "roomId": 1605,
+    "area": 85.0416,
+    "totalPrice": 1024278.9680797564
+  },
+  {
+    "house": 5,
+    "roomId": 1606,
+    "area": 85.0418,
+    "totalPrice": 1024265.2709872319
+  },
+  {
+    "house": 5,
+    "roomId": 1607,
+    "area": 66.8353,
+    "totalPrice": 731497.8716681682
+  },
+  {
+    "house": 5,
+    "roomId": 1701,
+    "area": 87.0128,
+    "totalPrice": 1105078.6560092045
+  },
+  {
+    "house": 5,
+    "roomId": 1702,
+    "area": 69.2788,
+    "totalPrice": 843282.169582251
+  },
+  {
+    "house": 5,
+    "roomId": 1703,
+    "area": 66.0011,
+    "totalPrice": 730761.9450099674
+  },
+  {
+    "house": 5,
+    "roomId": 1704,
+    "area": 66.8354,
+    "totalPrice": 733368.779442724
+  },
+  {
+    "house": 5,
+    "roomId": 1705,
+    "area": 85.0416,
+    "totalPrice": 1026633.9662336025
+  },
+  {
+    "house": 5,
+    "roomId": 1706,
+    "area": 85.0418,
+    "totalPrice": 1026620.2746795395
+  },
+  {
+    "house": 5,
+    "roomId": 1707,
+    "area": 66.8353,
+    "totalPrice": 733348.6953604758
+  },
+  {
+    "house": 5,
+    "roomId": 1801,
+    "area": 87.0128,
+    "totalPrice": 1105078.6560092045
+  },
+  {
+    "house": 5,
+    "roomId": 1802,
+    "area": 69.2788,
+    "totalPrice": 845200.659428405
+  },
+  {
+    "house": 5,
+    "roomId": 1803,
+    "area": 66.0011,
+    "totalPrice": 732589.6677791983
+  },
+  {
+    "house": 5,
+    "roomId": 1804,
+    "area": 66.8354,
+    "totalPrice": 735219.6059042624
+  },
+  {
+    "house": 5,
+    "roomId": 1805,
+    "area": 85.0416,
+    "totalPrice": 1028988.9643874487
+  },
+  {
+    "house": 5,
+    "roomId": 1806,
+    "area": 85.0418,
+    "totalPrice": 1028975.2783718472
+  },
+  {
+    "house": 5,
+    "roomId": 1807,
+    "area": 66.8353,
+    "totalPrice": 735199.5190527836
+  },
+  {
+    "house": 5,
+    "roomId": 1901,
+    "area": 87.0128,
+    "totalPrice": 1105078.6560092045
+  },
+  {
+    "house": 5,
+    "roomId": 1902,
+    "area": 69.2788,
+    "totalPrice": 847119.1492745589
+  },
+  {
+    "house": 5,
+    "roomId": 1903,
+    "area": 66.0011,
+    "totalPrice": 734417.390548429
+  },
+  {
+    "house": 5,
+    "roomId": 1904,
+    "area": 66.8354,
+    "totalPrice": 737070.432365801
+  },
+  {
+    "house": 5,
+    "roomId": 1905,
+    "area": 85.0416,
+    "totalPrice": 1031343.9625412949
+  },
+  {
+    "house": 5,
+    "roomId": 1906,
+    "area": 85.0418,
+    "totalPrice": 1031330.2820641551
+  },
+  {
+    "house": 5,
+    "roomId": 1907,
+    "area": 66.8353,
+    "totalPrice": 737050.3427450913
+  },
+  {
+    "house": 5,
+    "roomId": 2001,
+    "area": 87.0128,
+    "totalPrice": 1105078.6560092045
+  },
+  {
+    "house": 5,
+    "roomId": 2002,
+    "area": 69.2788,
+    "totalPrice": 849037.6391207126
+  },
+  {
+    "house": 5,
+    "roomId": 2003,
+    "area": 66.0011,
+    "totalPrice": 736245.1133176597
+  },
+  {
+    "house": 5,
+    "roomId": 2004,
+    "area": 66.8354,
+    "totalPrice": 738921.2588273394
+  },
+  {
+    "house": 5,
+    "roomId": 2005,
+    "area": 85.0416,
+    "totalPrice": 1033698.960695141
+  },
+  {
+    "house": 5,
+    "roomId": 2006,
+    "area": 85.0418,
+    "totalPrice": 1033685.2857564626
+  },
+  {
+    "house": 5,
+    "roomId": 2007,
+    "area": 66.8353,
+    "totalPrice": 738901.166437399
+  },
+  {
+    "house": 5,
+    "roomId": 2101,
+    "area": 87.0128,
+    "totalPrice": 1105078.6560092045
+  },
+  {
+    "house": 5,
+    "roomId": 2102,
+    "area": 69.2788,
+    "totalPrice": 850956.1289668665
+  },
+  {
+    "house": 5,
+    "roomId": 2103,
+    "area": 66.0011,
+    "totalPrice": 738072.8360868905
+  },
+  {
+    "house": 5,
+    "roomId": 2104,
+    "area": 66.8354,
+    "totalPrice": 740772.0852888778
+  },
+  {
+    "house": 5,
+    "roomId": 2105,
+    "area": 85.0416,
+    "totalPrice": 1036053.9588489872
+  },
+  {
+    "house": 5,
+    "roomId": 2106,
+    "area": 85.0418,
+    "totalPrice": 1036040.2894487705
+  },
+  {
+    "house": 5,
+    "roomId": 2107,
+    "area": 66.8353,
+    "totalPrice": 740751.9901297067
+  },
+  {
+    "house": 5,
+    "roomId": 2201,
+    "area": 87.0128,
+    "totalPrice": 1105078.6560092045
+  },
+  {
+    "house": 5,
+    "roomId": 2202,
+    "area": 69.2788,
+    "totalPrice": 852874.6188130203
+  },
+  {
+    "house": 5,
+    "roomId": 2203,
+    "area": 66.0011,
+    "totalPrice": 739900.5588561213
+  },
+  {
+    "house": 5,
+    "roomId": 2204,
+    "area": 66.8354,
+    "totalPrice": 742622.9117504163
+  },
+  {
+    "house": 5,
+    "roomId": 2205,
+    "area": 85.0416,
+    "totalPrice": 1038408.9570028333
+  },
+  {
+    "house": 5,
+    "roomId": 2206,
+    "area": 85.0418,
+    "totalPrice": 1038395.2931410781
+  },
+  {
+    "house": 5,
+    "roomId": 2207,
+    "area": 66.8353,
+    "totalPrice": 742602.8138220144
+  },
+  {
+    "house": 5,
+    "roomId": 2301,
+    "area": 87.0128,
+    "totalPrice": 1105078.6560092045
+  },
+  {
+    "house": 5,
+    "roomId": 2302,
+    "area": 69.2788,
+    "totalPrice": 852874.6188130203
+  },
+  {
+    "house": 5,
+    "roomId": 2303,
+    "area": 66.0011,
+    "totalPrice": 739900.5588561213
+  },
+  {
+    "house": 5,
+    "roomId": 2304,
+    "area": 66.8354,
+    "totalPrice": 742622.9117504163
+  },
+  {
+    "house": 5,
+    "roomId": 2305,
+    "area": 85.0416,
+    "totalPrice": 1038408.9570028333
+  },
+  {
+    "house": 5,
+    "roomId": 2306,
+    "area": 85.0418,
+    "totalPrice": 1038395.2931410781
+  },
+  {
+    "house": 5,
+    "roomId": 2307,
+    "area": 66.8353,
+    "totalPrice": 742602.8138220144
+  },
+  {
+    "house": 5,
+    "roomId": 2401,
+    "area": 87.0128,
+    "totalPrice": 1105078.6560092045
+  },
+  {
+    "house": 5,
+    "roomId": 2402,
+    "area": 69.2788,
+    "totalPrice": 854793.1086591742
+  },
+  {
+    "house": 5,
+    "roomId": 2403,
+    "area": 66.0011,
+    "totalPrice": 741728.2816253521
+  },
+  {
+    "house": 5,
+    "roomId": 2404,
+    "area": 66.8354,
+    "totalPrice": 744473.7382119548
+  },
+  {
+    "house": 5,
+    "roomId": 2405,
+    "area": 85.0416,
+    "totalPrice": 1040763.9551566795
+  },
+  {
+    "house": 5,
+    "roomId": 2406,
+    "area": 85.0418,
+    "totalPrice": 1040750.2968333858
+  },
+  {
+    "house": 5,
+    "roomId": 2407,
+    "area": 66.8353,
+    "totalPrice": 744453.6375143221
+  },
+  {
+    "house": 5,
+    "roomId": 2501,
+    "area": 87.0128,
+    "totalPrice": 1105078.6560092045
+  },
+  {
+    "house": 5,
+    "roomId": 2502,
+    "area": 69.2788,
+    "totalPrice": 856711.5985053281
+  },
+  {
+    "house": 5,
+    "roomId": 2503,
+    "area": 66.0011,
+    "totalPrice": 743556.0043945828
+  },
+  {
+    "house": 5,
+    "roomId": 2504,
+    "area": 66.8354,
+    "totalPrice": 746324.5646734932
+  },
+  {
+    "house": 5,
+    "roomId": 2505,
+    "area": 85.0416,
+    "totalPrice": 1043118.9533105256
+  },
+  {
+    "house": 5,
+    "roomId": 2506,
+    "area": 85.0418,
+    "totalPrice": 1043105.3005256935
+  },
+  {
+    "house": 5,
+    "roomId": 2507,
+    "area": 66.8353,
+    "totalPrice": 746304.4612066298
+  },
+  {
+    "house": 5,
+    "roomId": 2601,
+    "area": 87.0128,
+    "totalPrice": 1105078.6560092045
+  },
+  {
+    "house": 5,
+    "roomId": 2602,
+    "area": 69.2788,
+    "totalPrice": 858630.088351482
+  },
+  {
+    "house": 5,
+    "roomId": 2603,
+    "area": 66.0011,
+    "totalPrice": 745383.7271638137
+  },
+  {
+    "house": 5,
+    "roomId": 2604,
+    "area": 66.8354,
+    "totalPrice": 748175.3911350317
+  },
+  {
+    "house": 5,
+    "roomId": 2605,
+    "area": 85.0416,
+    "totalPrice": 1045473.9514643718
+  },
+  {
+    "house": 5,
+    "roomId": 2606,
+    "area": 85.0418,
+    "totalPrice": 1045460.3042180012
+  },
+  {
+    "house": 5,
+    "roomId": 2607,
+    "area": 66.8353,
+    "totalPrice": 748155.2848989374
+  },
+  {
+    "house": 5,
+    "roomId": 2701,
+    "area": 87.0128,
+    "totalPrice": 1105078.6560092045
+  },
+  {
+    "house": 5,
+    "roomId": 2702,
+    "area": 69.2788,
+    "totalPrice": 860548.5781976357
+  },
+  {
+    "house": 5,
+    "roomId": 2703,
+    "area": 66.0011,
+    "totalPrice": 747211.4499330444
+  },
+  {
+    "house": 5,
+    "roomId": 2704,
+    "area": 66.8354,
+    "totalPrice": 750026.2175965701
+  },
+  {
+    "house": 5,
+    "roomId": 2705,
+    "area": 85.0416,
+    "totalPrice": 1047828.9496182179
+  },
+  {
+    "house": 5,
+    "roomId": 2706,
+    "area": 85.0418,
+    "totalPrice": 1047815.3079103088
+  },
+  {
+    "house": 5,
+    "roomId": 2707,
+    "area": 66.8353,
+    "totalPrice": 750006.1085912451
+  },
+  {
+    "house": 5,
+    "roomId": 2801,
+    "area": 87.0127,
+    "totalPrice": 1105077.385990706
+  },
+  {
+    "house": 5,
+    "roomId": 2802,
+    "area": 69.2788,
+    "totalPrice": 862467.0680437896
+  },
+  {
+    "house": 5,
+    "roomId": 2803,
+    "area": 66.0011,
+    "totalPrice": 749039.1727022751
+  },
+  {
+    "house": 5,
+    "roomId": 2804,
+    "area": 66.8354,
+    "totalPrice": 751877.0440581086
+  },
+  {
+    "house": 5,
+    "roomId": 2805,
+    "area": 85.0416,
+    "totalPrice": 1050183.947772064
+  },
+  {
+    "house": 5,
+    "roomId": 2806,
+    "area": 85.0416,
+    "totalPrice": 1050167.841828196
+  },
+  {
+    "house": 5,
+    "roomId": 2807,
+    "area": 66.8354,
+    "totalPrice": 751858.0572234159
+  },
+  {
+    "house": 5,
+    "roomId": 2901,
+    "area": 87.0128,
+    "totalPrice": 1105078.6560092045
+  },
+  {
+    "house": 5,
+    "roomId": 2902,
+    "area": 69.2788,
+    "totalPrice": 864385.5578899434
+  },
+  {
+    "house": 5,
+    "roomId": 2903,
+    "area": 66.0011,
+    "totalPrice": 750866.8954715058
+  },
+  {
+    "house": 5,
+    "roomId": 2904,
+    "area": 66.8354,
+    "totalPrice": 753727.870519647
+  },
+  {
+    "house": 5,
+    "roomId": 2905,
+    "area": 85.0416,
+    "totalPrice": 1052538.9459259103
+  },
+  {
+    "house": 5,
+    "roomId": 2906,
+    "area": 85.0416,
+    "totalPrice": 1052522.839982042
+  },
+  {
+    "house": 5,
+    "roomId": 2907,
+    "area": 66.8354,
+    "totalPrice": 753708.8836849544
+  },
+  {
+    "house": 5,
+    "roomId": 3001,
+    "area": 87.0128,
+    "totalPrice": 1105078.6560092045
+  },
+  {
+    "house": 5,
+    "roomId": 3002,
+    "area": 69.2788,
+    "totalPrice": 866304.0477360972
+  },
+  {
+    "house": 5,
+    "roomId": 3003,
+    "area": 66.0011,
+    "totalPrice": 752694.6182407367
+  },
+  {
+    "house": 5,
+    "roomId": 3004,
+    "area": 66.8354,
+    "totalPrice": 755578.6969811856
+  },
+  {
+    "house": 5,
+    "roomId": 3005,
+    "area": 85.0416,
+    "totalPrice": 1054893.9440797565
+  },
+  {
+    "house": 5,
+    "roomId": 3006,
+    "area": 85.0416,
+    "totalPrice": 1054877.8381358883
+  },
+  {
+    "house": 5,
+    "roomId": 3007,
+    "area": 66.8354,
+    "totalPrice": 755559.7101464928
+  },
+  {
+    "house": 5,
+    "roomId": 3101,
+    "area": 87.0128,
+    "totalPrice": 1105078.6560092045
+  },
+  {
+    "house": 5,
+    "roomId": 3102,
+    "area": 69.2788,
+    "totalPrice": 868222.537582251
+  },
+  {
+    "house": 5,
+    "roomId": 3103,
+    "area": 66.0011,
+    "totalPrice": 754522.3410099674
+  },
+  {
+    "house": 5,
+    "roomId": 3104,
+    "area": 66.8354,
+    "totalPrice": 757429.5234427239
+  },
+  {
+    "house": 5,
+    "roomId": 3105,
+    "area": 85.0416,
+    "totalPrice": 1057248.9422336025
+  },
+  {
+    "house": 5,
+    "roomId": 3106,
+    "area": 85.0416,
+    "totalPrice": 1057232.8362897343
+  },
+  {
+    "house": 5,
+    "roomId": 3107,
+    "area": 66.8354,
+    "totalPrice": 757410.5366080313
+  },
+  {
+    "house": 5,
+    "roomId": 3201,
+    "area": 87.0128,
+    "totalPrice": 1105078.6560092045
+  },
+  {
+    "house": 5,
+    "roomId": 3202,
+    "area": 69.2788,
+    "totalPrice": 870141.027428405
+  },
+  {
+    "house": 5,
+    "roomId": 3203,
+    "area": 66.0011,
+    "totalPrice": 756350.0637791982
+  },
+  {
+    "house": 5,
+    "roomId": 3204,
+    "area": 66.8354,
+    "totalPrice": 759280.3499042625
+  },
+  {
+    "house": 5,
+    "roomId": 3205,
+    "area": 85.0416,
+    "totalPrice": 1059603.9403874488
+  },
+  {
+    "house": 5,
+    "roomId": 3206,
+    "area": 85.0416,
+    "totalPrice": 1059587.8344435806
+  },
+  {
+    "house": 5,
+    "roomId": 3207,
+    "area": 66.8354,
+    "totalPrice": 759261.3630695697
+  },
+  {
+    "house": 5,
+    "roomId": 3301,
+    "area": 87.0128,
+    "totalPrice": 1105078.6560092045
+  },
+  {
+    "house": 5,
+    "roomId": 3302,
+    "area": 69.2788,
+    "totalPrice": 868222.537582251
+  },
+  {
+    "house": 5,
+    "roomId": 3303,
+    "area": 66.0011,
+    "totalPrice": 754522.3410099674
+  },
+  {
+    "house": 5,
+    "roomId": 3304,
+    "area": 66.8354,
+    "totalPrice": 757429.5234427239
+  },
+  {
+    "house": 5,
+    "roomId": 3305,
+    "area": 85.0416,
+    "totalPrice": 1057248.9422336025
+  },
+  {
+    "house": 5,
+    "roomId": 3306,
+    "area": 85.0416,
+    "totalPrice": 1057232.8362897343
+  },
+  {
+    "house": 5,
+    "roomId": 3307,
+    "area": 66.8354,
+    "totalPrice": 757410.5366080313
+  },
+  {
+    "house": 6,
+    "roomId": 301,
+    "area": 66.1693,
+    "totalPrice": 743720.7100083026
+  },
+  {
+    "house": 6,
+    "roomId": 302,
+    "area": 84.8065,
+    "totalPrice": 1012548.5988605568
+  },
+  {
+    "house": 6,
+    "roomId": 303,
+    "area": 84.8068,
+    "totalPrice": 1012592.3344038067
+  },
+  {
+    "house": 6,
+    "roomId": 304,
+    "area": 66.3315,
+    "totalPrice": 738964.0239766793
+  },
+  {
+    "house": 6,
+    "roomId": 305,
+    "area": 66.9594,
+    "totalPrice": 723239.7192843569
+  },
+  {
+    "house": 6,
+    "roomId": 306,
+    "area": 85.0416,
+    "totalPrice": 998373.9883874487
+  },
+  {
+    "house": 6,
+    "roomId": 307,
+    "area": 84.8065,
+    "totalPrice": 995597.8927660289
+  },
+  {
+    "house": 6,
+    "roomId": 308,
+    "area": 66.1695,
+    "totalPrice": 721240.2373051149
+  },
+  {
+    "house": 6,
+    "roomId": 401,
+    "area": 66.1693,
+    "totalPrice": 743720.7100083026
+  },
+  {
+    "house": 6,
+    "roomId": 402,
+    "area": 84.8065,
+    "totalPrice": 1012548.5988605568
+  },
+  {
+    "house": 6,
+    "roomId": 403,
+    "area": 84.8068,
+    "totalPrice": 1012592.3344038067
+  },
+  {
+    "house": 6,
+    "roomId": 404,
+    "area": 66.3315,
+    "totalPrice": 738964.0239766793
+  },
+  {
+    "house": 6,
+    "roomId": 405,
+    "area": 66.9594,
+    "totalPrice": 723239.7192843569
+  },
+  {
+    "house": 6,
+    "roomId": 406,
+    "area": 85.0416,
+    "totalPrice": 998373.9883874487
+  },
+  {
+    "house": 6,
+    "roomId": 407,
+    "area": 84.8065,
+    "totalPrice": 995597.8927660289
+  },
+  {
+    "house": 6,
+    "roomId": 408,
+    "area": 66.1695,
+    "totalPrice": 721240.2373051149
+  },
+  {
+    "house": 6,
+    "roomId": 501,
+    "area": 66.1693,
+    "totalPrice": 746102.8048083027
+  },
+  {
+    "house": 6,
+    "roomId": 502,
+    "area": 84.8065,
+    "totalPrice": 1015601.6328605568
+  },
+  {
+    "house": 6,
+    "roomId": 503,
+    "area": 84.8068,
+    "totalPrice": 1015645.3792038067
+  },
+  {
+    "house": 6,
+    "roomId": 504,
+    "area": 66.3315,
+    "totalPrice": 741351.9579766793
+  },
+  {
+    "house": 6,
+    "roomId": 505,
+    "area": 66.9594,
+    "totalPrice": 723239.7192843569
+  },
+  {
+    "house": 6,
+    "roomId": 506,
+    "area": 85.0416,
+    "totalPrice": 1001435.4859874487
+  },
+  {
+    "house": 6,
+    "roomId": 507,
+    "area": 84.8065,
+    "totalPrice": 998650.9267660289
+  },
+  {
+    "house": 6,
+    "roomId": 508,
+    "area": 66.1695,
+    "totalPrice": 721240.2373051149
+  },
+  {
+    "house": 6,
+    "roomId": 601,
+    "area": 66.1693,
+    "totalPrice": 748484.8996083026
+  },
+  {
+    "house": 6,
+    "roomId": 602,
+    "area": 84.8065,
+    "totalPrice": 1018654.6668605568
+  },
+  {
+    "house": 6,
+    "roomId": 603,
+    "area": 84.8068,
+    "totalPrice": 1018698.4240038068
+  },
+  {
+    "house": 6,
+    "roomId": 604,
+    "area": 66.3315,
+    "totalPrice": 743739.8919766793
+  },
+  {
+    "house": 6,
+    "roomId": 605,
+    "area": 66.9594,
+    "totalPrice": 723239.7192843569
+  },
+  {
+    "house": 6,
+    "roomId": 606,
+    "area": 85.0416,
+    "totalPrice": 1004496.9835874487
+  },
+  {
+    "house": 6,
+    "roomId": 607,
+    "area": 84.8065,
+    "totalPrice": 1001703.9607660288
+  },
+  {
+    "house": 6,
+    "roomId": 608,
+    "area": 66.1695,
+    "totalPrice": 721240.2373051149
+  },
+  {
+    "house": 6,
+    "roomId": 701,
+    "area": 66.1693,
+    "totalPrice": 750866.9944083026
+  },
+  {
+    "house": 6,
+    "roomId": 702,
+    "area": 84.8065,
+    "totalPrice": 1021707.7008605569
+  },
+  {
+    "house": 6,
+    "roomId": 703,
+    "area": 84.8068,
+    "totalPrice": 1021751.4688038067
+  },
+  {
+    "house": 6,
+    "roomId": 704,
+    "area": 66.3315,
+    "totalPrice": 746127.8259766792
+  },
+  {
+    "house": 6,
+    "roomId": 705,
+    "area": 66.9594,
+    "totalPrice": 723239.7192843569
+  },
+  {
+    "house": 6,
+    "roomId": 706,
+    "area": 85.0416,
+    "totalPrice": 1007558.4811874487
+  },
+  {
+    "house": 6,
+    "roomId": 707,
+    "area": 84.8065,
+    "totalPrice": 1004756.9947660288
+  },
+  {
+    "house": 6,
+    "roomId": 708,
+    "area": 66.1695,
+    "totalPrice": 721240.2373051149
+  },
+  {
+    "house": 6,
+    "roomId": 801,
+    "area": 66.1693,
+    "totalPrice": 753249.0892083027
+  },
+  {
+    "house": 6,
+    "roomId": 802,
+    "area": 84.8065,
+    "totalPrice": 1024760.7348605569
+  },
+  {
+    "house": 6,
+    "roomId": 803,
+    "area": 84.8068,
+    "totalPrice": 1024804.5136038067
+  },
+  {
+    "house": 6,
+    "roomId": 804,
+    "area": 66.3315,
+    "totalPrice": 748515.7599766792
+  },
+  {
+    "house": 6,
+    "roomId": 805,
+    "area": 66.9594,
+    "totalPrice": 723239.7192843569
+  },
+  {
+    "house": 6,
+    "roomId": 806,
+    "area": 85.0416,
+    "totalPrice": 1010619.9787874487
+  },
+  {
+    "house": 6,
+    "roomId": 807,
+    "area": 84.8065,
+    "totalPrice": 1007810.0287660288
+  },
+  {
+    "house": 6,
+    "roomId": 808,
+    "area": 66.1695,
+    "totalPrice": 721240.2373051149
+  },
+  {
+    "house": 6,
+    "roomId": 901,
+    "area": 66.1693,
+    "totalPrice": 755631.1840083026
+  },
+  {
+    "house": 6,
+    "roomId": 902,
+    "area": 84.8065,
+    "totalPrice": 1027813.7688605569
+  },
+  {
+    "house": 6,
+    "roomId": 903,
+    "area": 84.8068,
+    "totalPrice": 1027857.5584038068
+  },
+  {
+    "house": 6,
+    "roomId": 904,
+    "area": 66.3315,
+    "totalPrice": 750903.6939766792
+  },
+  {
+    "house": 6,
+    "roomId": 905,
+    "area": 66.9594,
+    "totalPrice": 723842.3538843569
+  },
+  {
+    "house": 6,
+    "roomId": 906,
+    "area": 85.0416,
+    "totalPrice": 1013681.4763874487
+  },
+  {
+    "house": 6,
+    "roomId": 907,
+    "area": 84.8065,
+    "totalPrice": 1010863.0627660288
+  },
+  {
+    "house": 6,
+    "roomId": 908,
+    "area": 66.1695,
+    "totalPrice": 722563.6273051149
+  },
+  {
+    "house": 6,
+    "roomId": 1001,
+    "area": 66.1693,
+    "totalPrice": 758013.2788083026
+  },
+  {
+    "house": 6,
+    "roomId": 1002,
+    "area": 84.8065,
+    "totalPrice": 1030866.8028605569
+  },
+  {
+    "house": 6,
+    "roomId": 1003,
+    "area": 84.8068,
+    "totalPrice": 1030910.6032038067
+  },
+  {
+    "house": 6,
+    "roomId": 1004,
+    "area": 66.3315,
+    "totalPrice": 753291.6279766792
+  },
+  {
+    "house": 6,
+    "roomId": 1005,
+    "area": 66.9594,
+    "totalPrice": 726922.4862843569
+  },
+  {
+    "house": 6,
+    "roomId": 1006,
+    "area": 85.0416,
+    "totalPrice": 1016742.9739874487
+  },
+  {
+    "house": 6,
+    "roomId": 1007,
+    "area": 84.8065,
+    "totalPrice": 1013916.0967660289
+  },
+  {
+    "house": 6,
+    "roomId": 1008,
+    "area": 66.1695,
+    "totalPrice": 724945.729305115
+  },
+  {
+    "house": 6,
+    "roomId": 1101,
+    "area": 66.1693,
+    "totalPrice": 760395.3736083027
+  },
+  {
+    "house": 6,
+    "roomId": 1102,
+    "area": 84.8065,
+    "totalPrice": 1033919.8368605569
+  },
+  {
+    "house": 6,
+    "roomId": 1103,
+    "area": 84.8068,
+    "totalPrice": 1033963.6480038067
+  },
+  {
+    "house": 6,
+    "roomId": 1104,
+    "area": 66.3315,
+    "totalPrice": 755679.5619766793
+  },
+  {
+    "house": 6,
+    "roomId": 1105,
+    "area": 66.9594,
+    "totalPrice": 729333.0246843569
+  },
+  {
+    "house": 6,
+    "roomId": 1106,
+    "area": 85.0416,
+    "totalPrice": 1019804.4715874487
+  },
+  {
+    "house": 6,
+    "roomId": 1107,
+    "area": 84.8065,
+    "totalPrice": 1016969.1307660289
+  },
+  {
+    "house": 6,
+    "roomId": 1108,
+    "area": 66.1695,
+    "totalPrice": 727327.8313051149
+  },
+  {
+    "house": 6,
+    "roomId": 1201,
+    "area": 66.1693,
+    "totalPrice": 762777.4684083026
+  },
+  {
+    "house": 6,
+    "roomId": 1202,
+    "area": 84.8065,
+    "totalPrice": 1036972.8708605568
+  },
+  {
+    "house": 6,
+    "roomId": 1203,
+    "area": 84.8068,
+    "totalPrice": 1037016.6928038067
+  },
+  {
+    "house": 6,
+    "roomId": 1204,
+    "area": 66.3315,
+    "totalPrice": 758067.4959766793
+  },
+  {
+    "house": 6,
+    "roomId": 1205,
+    "area": 66.9594,
+    "totalPrice": 731743.5630843568
+  },
+  {
+    "house": 6,
+    "roomId": 1206,
+    "area": 85.0416,
+    "totalPrice": 1022865.9691874487
+  },
+  {
+    "house": 6,
+    "roomId": 1207,
+    "area": 84.8065,
+    "totalPrice": 1020022.1647660289
+  },
+  {
+    "house": 6,
+    "roomId": 1208,
+    "area": 66.1695,
+    "totalPrice": 729709.9333051149
+  },
+  {
+    "house": 6,
+    "roomId": 1301,
+    "area": 66.1693,
+    "totalPrice": 765159.5632083026
+  },
+  {
+    "house": 6,
+    "roomId": 1302,
+    "area": 84.8065,
+    "totalPrice": 1040025.9048605568
+  },
+  {
+    "house": 6,
+    "roomId": 1303,
+    "area": 84.8068,
+    "totalPrice": 1040069.7376038068
+  },
+  {
+    "house": 6,
+    "roomId": 1304,
+    "area": 66.3315,
+    "totalPrice": 760455.4299766793
+  },
+  {
+    "house": 6,
+    "roomId": 1305,
+    "area": 66.9594,
+    "totalPrice": 734154.1014843569
+  },
+  {
+    "house": 6,
+    "roomId": 1306,
+    "area": 85.0416,
+    "totalPrice": 1025927.4667874487
+  },
+  {
+    "house": 6,
+    "roomId": 1307,
+    "area": 84.8065,
+    "totalPrice": 1023075.1987660289
+  },
+  {
+    "house": 6,
+    "roomId": 1308,
+    "area": 66.1695,
+    "totalPrice": 732092.0353051149
+  },
+  {
+    "house": 6,
+    "roomId": 1401,
+    "area": 66.1693,
+    "totalPrice": 765159.5632083026
+  },
+  {
+    "house": 6,
+    "roomId": 1402,
+    "area": 84.8065,
+    "totalPrice": 1040025.9048605568
+  },
+  {
+    "house": 6,
+    "roomId": 1403,
+    "area": 84.8068,
+    "totalPrice": 1040069.7376038068
+  },
+  {
+    "house": 6,
+    "roomId": 1404,
+    "area": 66.3315,
+    "totalPrice": 760455.4299766793
+  },
+  {
+    "house": 6,
+    "roomId": 1405,
+    "area": 66.9594,
+    "totalPrice": 734154.1014843569
+  },
+  {
+    "house": 6,
+    "roomId": 1406,
+    "area": 85.0416,
+    "totalPrice": 1025927.4667874487
+  },
+  {
+    "house": 6,
+    "roomId": 1407,
+    "area": 84.8065,
+    "totalPrice": 1023075.1987660289
+  },
+  {
+    "house": 6,
+    "roomId": 1408,
+    "area": 66.1695,
+    "totalPrice": 732092.0353051149
+  },
+  {
+    "house": 6,
+    "roomId": 1501,
+    "area": 66.1693,
+    "totalPrice": 767541.6580083026
+  },
+  {
+    "house": 6,
+    "roomId": 1502,
+    "area": 84.8065,
+    "totalPrice": 1043078.9388605568
+  },
+  {
+    "house": 6,
+    "roomId": 1503,
+    "area": 84.8068,
+    "totalPrice": 1043122.7824038067
+  },
+  {
+    "house": 6,
+    "roomId": 1504,
+    "area": 66.3315,
+    "totalPrice": 762843.3639766793
+  },
+  {
+    "house": 6,
+    "roomId": 1505,
+    "area": 66.9594,
+    "totalPrice": 736564.6398843569
+  },
+  {
+    "house": 6,
+    "roomId": 1506,
+    "area": 85.0416,
+    "totalPrice": 1028988.9643874487
+  },
+  {
+    "house": 6,
+    "roomId": 1507,
+    "area": 84.8065,
+    "totalPrice": 1026128.2327660288
+  },
+  {
+    "house": 6,
+    "roomId": 1508,
+    "area": 66.1695,
+    "totalPrice": 734474.1373051149
+  },
+  {
+    "house": 6,
+    "roomId": 1601,
+    "area": 66.1693,
+    "totalPrice": 769923.7528083026
+  },
+  {
+    "house": 6,
+    "roomId": 1602,
+    "area": 84.8065,
+    "totalPrice": 1046131.9728605569
+  },
+  {
+    "house": 6,
+    "roomId": 1603,
+    "area": 84.8068,
+    "totalPrice": 1046175.8272038067
+  },
+  {
+    "house": 6,
+    "roomId": 1604,
+    "area": 66.3315,
+    "totalPrice": 765231.2979766793
+  },
+  {
+    "house": 6,
+    "roomId": 1605,
+    "area": 66.9594,
+    "totalPrice": 738975.1782843568
+  },
+  {
+    "house": 6,
+    "roomId": 1606,
+    "area": 85.0416,
+    "totalPrice": 1032050.4619874487
+  },
+  {
+    "house": 6,
+    "roomId": 1607,
+    "area": 84.8065,
+    "totalPrice": 1029181.2667660288
+  },
+  {
+    "house": 6,
+    "roomId": 1608,
+    "area": 66.1695,
+    "totalPrice": 736856.2393051148
+  },
+  {
+    "house": 6,
+    "roomId": 1701,
+    "area": 66.1693,
+    "totalPrice": 772305.8476083026
+  },
+  {
+    "house": 6,
+    "roomId": 1702,
+    "area": 84.8065,
+    "totalPrice": 1049185.0068605568
+  },
+  {
+    "house": 6,
+    "roomId": 1703,
+    "area": 84.8068,
+    "totalPrice": 1049228.8720038068
+  },
+  {
+    "house": 6,
+    "roomId": 1704,
+    "area": 66.3315,
+    "totalPrice": 767619.2319766793
+  },
+  {
+    "house": 6,
+    "roomId": 1705,
+    "area": 66.9594,
+    "totalPrice": 741385.7166843569
+  },
+  {
+    "house": 6,
+    "roomId": 1706,
+    "area": 85.0416,
+    "totalPrice": 1035111.9595874486
+  },
+  {
+    "house": 6,
+    "roomId": 1707,
+    "area": 84.8065,
+    "totalPrice": 1032234.3007660288
+  },
+  {
+    "house": 6,
+    "roomId": 1708,
+    "area": 66.1695,
+    "totalPrice": 739238.3413051149
+  },
+  {
+    "house": 6,
+    "roomId": 1801,
+    "area": 66.1693,
+    "totalPrice": 774687.9424083026
+  },
+  {
+    "house": 6,
+    "roomId": 1802,
+    "area": 84.8065,
+    "totalPrice": 1052238.0408605568
+  },
+  {
+    "house": 6,
+    "roomId": 1803,
+    "area": 84.8068,
+    "totalPrice": 1052281.9168038068
+  },
+  {
+    "house": 6,
+    "roomId": 1804,
+    "area": 66.3315,
+    "totalPrice": 770007.1659766793
+  },
+  {
+    "house": 6,
+    "roomId": 1805,
+    "area": 66.9594,
+    "totalPrice": 743796.2550843569
+  },
+  {
+    "house": 6,
+    "roomId": 1806,
+    "area": 85.0416,
+    "totalPrice": 1038173.4571874486
+  },
+  {
+    "house": 6,
+    "roomId": 1807,
+    "area": 84.8065,
+    "totalPrice": 1035287.3347660288
+  },
+  {
+    "house": 6,
+    "roomId": 1808,
+    "area": 66.1695,
+    "totalPrice": 741620.4433051149
+  },
+  {
+    "house": 6,
+    "roomId": 1901,
+    "area": 66.1693,
+    "totalPrice": 777070.0372083026
+  },
+  {
+    "house": 6,
+    "roomId": 1902,
+    "area": 84.8065,
+    "totalPrice": 1055291.0748605567
+  },
+  {
+    "house": 6,
+    "roomId": 1903,
+    "area": 84.8068,
+    "totalPrice": 1055334.9616038068
+  },
+  {
+    "house": 6,
+    "roomId": 1904,
+    "area": 66.3315,
+    "totalPrice": 772395.0999766793
+  },
+  {
+    "house": 6,
+    "roomId": 1905,
+    "area": 66.9594,
+    "totalPrice": 746206.7934843568
+  },
+  {
+    "house": 6,
+    "roomId": 1906,
+    "area": 85.0416,
+    "totalPrice": 1041234.9547874486
+  },
+  {
+    "house": 6,
+    "roomId": 1907,
+    "area": 84.8065,
+    "totalPrice": 1038340.3687660289
+  },
+  {
+    "house": 6,
+    "roomId": 1908,
+    "area": 66.1695,
+    "totalPrice": 744002.5453051149
+  },
+  {
+    "house": 6,
+    "roomId": 2001,
+    "area": 66.1693,
+    "totalPrice": 779452.1320083026
+  },
+  {
+    "house": 6,
+    "roomId": 2002,
+    "area": 84.8065,
+    "totalPrice": 1058344.108860557
+  },
+  {
+    "house": 6,
+    "roomId": 2003,
+    "area": 84.8068,
+    "totalPrice": 1058388.0064038066
+  },
+  {
+    "house": 6,
+    "roomId": 2004,
+    "area": 66.3315,
+    "totalPrice": 774783.0339766793
+  },
+  {
+    "house": 6,
+    "roomId": 2005,
+    "area": 66.9594,
+    "totalPrice": 748617.3318843569
+  },
+  {
+    "house": 6,
+    "roomId": 2006,
+    "area": 85.0416,
+    "totalPrice": 1044296.4523874486
+  },
+  {
+    "house": 6,
+    "roomId": 2007,
+    "area": 84.8065,
+    "totalPrice": 1041393.4027660289
+  },
+  {
+    "house": 6,
+    "roomId": 2008,
+    "area": 66.1695,
+    "totalPrice": 746384.6473051149
+  },
+  {
+    "house": 6,
+    "roomId": 2101,
+    "area": 66.1693,
+    "totalPrice": 781834.2268083026
+  },
+  {
+    "house": 6,
+    "roomId": 2102,
+    "area": 84.8065,
+    "totalPrice": 1061397.142860557
+  },
+  {
+    "house": 6,
+    "roomId": 2103,
+    "area": 84.8068,
+    "totalPrice": 1061441.0512038067
+  },
+  {
+    "house": 6,
+    "roomId": 2104,
+    "area": 66.3315,
+    "totalPrice": 777170.9679766793
+  },
+  {
+    "house": 6,
+    "roomId": 2105,
+    "area": 66.9594,
+    "totalPrice": 751027.8702843569
+  },
+  {
+    "house": 6,
+    "roomId": 2106,
+    "area": 85.0416,
+    "totalPrice": 1047357.9499874486
+  },
+  {
+    "house": 6,
+    "roomId": 2107,
+    "area": 84.8065,
+    "totalPrice": 1044446.4367660289
+  },
+  {
+    "house": 6,
+    "roomId": 2108,
+    "area": 66.1695,
+    "totalPrice": 748766.7493051148
+  },
+  {
+    "house": 6,
+    "roomId": 2201,
+    "area": 66.1693,
+    "totalPrice": 784216.3216083026
+  },
+  {
+    "house": 6,
+    "roomId": 2202,
+    "area": 84.8065,
+    "totalPrice": 1064450.176860557
+  },
+  {
+    "house": 6,
+    "roomId": 2203,
+    "area": 84.8068,
+    "totalPrice": 1064494.0960038067
+  },
+  {
+    "house": 6,
+    "roomId": 2204,
+    "area": 66.3315,
+    "totalPrice": 779558.9019766792
+  },
+  {
+    "house": 6,
+    "roomId": 2205,
+    "area": 66.9594,
+    "totalPrice": 753438.4086843568
+  },
+  {
+    "house": 6,
+    "roomId": 2206,
+    "area": 85.0416,
+    "totalPrice": 1050419.4475874486
+  },
+  {
+    "house": 6,
+    "roomId": 2207,
+    "area": 84.8065,
+    "totalPrice": 1047499.4707660289
+  },
+  {
+    "house": 6,
+    "roomId": 2208,
+    "area": 66.1695,
+    "totalPrice": 751148.8513051149
+  },
+  {
+    "house": 6,
+    "roomId": 2301,
+    "area": 66.1693,
+    "totalPrice": 786598.4164083026
+  },
+  {
+    "house": 6,
+    "roomId": 2302,
+    "area": 84.8065,
+    "totalPrice": 1067503.210860557
+  },
+  {
+    "house": 6,
+    "roomId": 2303,
+    "area": 84.8068,
+    "totalPrice": 1067547.1408038067
+  },
+  {
+    "house": 6,
+    "roomId": 2304,
+    "area": 66.3315,
+    "totalPrice": 781946.8359766792
+  },
+  {
+    "house": 6,
+    "roomId": 2305,
+    "area": 66.9594,
+    "totalPrice": 755848.9470843569
+  },
+  {
+    "house": 6,
+    "roomId": 2306,
+    "area": 85.0416,
+    "totalPrice": 1053480.9451874488
+  },
+  {
+    "house": 6,
+    "roomId": 2307,
+    "area": 84.8065,
+    "totalPrice": 1050552.5047660288
+  },
+  {
+    "house": 6,
+    "roomId": 2308,
+    "area": 66.1695,
+    "totalPrice": 753530.9533051149
+  },
+  {
+    "house": 6,
+    "roomId": 2401,
+    "area": 66.1693,
+    "totalPrice": 786598.4164083026
+  },
+  {
+    "house": 6,
+    "roomId": 2402,
+    "area": 84.8065,
+    "totalPrice": 1067503.210860557
+  },
+  {
+    "house": 6,
+    "roomId": 2403,
+    "area": 84.8068,
+    "totalPrice": 1067547.1408038067
+  },
+  {
+    "house": 6,
+    "roomId": 2404,
+    "area": 66.3315,
+    "totalPrice": 781946.8359766792
+  },
+  {
+    "house": 6,
+    "roomId": 2405,
+    "area": 66.9594,
+    "totalPrice": 755848.9470843569
+  },
+  {
+    "house": 6,
+    "roomId": 2406,
+    "area": 85.0416,
+    "totalPrice": 1053480.9451874488
+  },
+  {
+    "house": 6,
+    "roomId": 2407,
+    "area": 84.8065,
+    "totalPrice": 1050552.5047660288
+  },
+  {
+    "house": 6,
+    "roomId": 2408,
+    "area": 66.1695,
+    "totalPrice": 753530.9533051149
+  },
+  {
+    "house": 6,
+    "roomId": 2501,
+    "area": 66.1693,
+    "totalPrice": 788980.5112083026
+  },
+  {
+    "house": 6,
+    "roomId": 2502,
+    "area": 84.8065,
+    "totalPrice": 1070556.244860557
+  },
+  {
+    "house": 6,
+    "roomId": 2503,
+    "area": 84.8068,
+    "totalPrice": 1070600.1856038067
+  },
+  {
+    "house": 6,
+    "roomId": 2504,
+    "area": 66.3315,
+    "totalPrice": 784334.7699766792
+  },
+  {
+    "house": 6,
+    "roomId": 2505,
+    "area": 66.9594,
+    "totalPrice": 758259.4854843569
+  },
+  {
+    "house": 6,
+    "roomId": 2506,
+    "area": 85.0416,
+    "totalPrice": 1056542.4427874486
+  },
+  {
+    "house": 6,
+    "roomId": 2507,
+    "area": 84.8065,
+    "totalPrice": 1053605.5387660288
+  },
+  {
+    "house": 6,
+    "roomId": 2508,
+    "area": 66.1695,
+    "totalPrice": 755913.055305115
+  },
+  {
+    "house": 6,
+    "roomId": 2601,
+    "area": 66.1693,
+    "totalPrice": 791362.6060083027
+  },
+  {
+    "house": 6,
+    "roomId": 2602,
+    "area": 84.8065,
+    "totalPrice": 1073609.278860557
+  },
+  {
+    "house": 6,
+    "roomId": 2603,
+    "area": 84.8068,
+    "totalPrice": 1073653.2304038068
+  },
+  {
+    "house": 6,
+    "roomId": 2604,
+    "area": 66.3315,
+    "totalPrice": 786722.7039766792
+  },
+  {
+    "house": 6,
+    "roomId": 2605,
+    "area": 66.9594,
+    "totalPrice": 760670.0238843568
+  },
+  {
+    "house": 6,
+    "roomId": 2606,
+    "area": 85.0416,
+    "totalPrice": 1059603.9403874488
+  },
+  {
+    "house": 6,
+    "roomId": 2607,
+    "area": 84.8065,
+    "totalPrice": 1056658.5727660288
+  },
+  {
+    "house": 6,
+    "roomId": 2608,
+    "area": 66.1695,
+    "totalPrice": 758295.1573051149
+  },
+  {
+    "house": 6,
+    "roomId": 2701,
+    "area": 66.1693,
+    "totalPrice": 788980.5112083026
+  },
+  {
+    "house": 6,
+    "roomId": 2702,
+    "area": 84.8065,
+    "totalPrice": 1070556.244860557
+  },
+  {
+    "house": 6,
+    "roomId": 2703,
+    "area": 84.8068,
+    "totalPrice": 1070600.1856038067
+  },
+  {
+    "house": 6,
+    "roomId": 2704,
+    "area": 66.3315,
+    "totalPrice": 784334.7699766792
+  },
+  {
+    "house": 6,
+    "roomId": 2705,
+    "area": 66.9594,
+    "totalPrice": 758259.4854843569
+  },
+  {
+    "house": 6,
+    "roomId": 2706,
+    "area": 85.0416,
+    "totalPrice": 1056542.4427874486
+  },
+  {
+    "house": 6,
+    "roomId": 2707,
+    "area": 84.8065,
+    "totalPrice": 1053605.5387660288
+  },
+  {
+    "house": 6,
+    "roomId": 2708,
+    "area": 66.1695,
+    "totalPrice": 755913.055305115
+  }
+]

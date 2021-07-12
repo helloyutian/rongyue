@@ -4,7 +4,13 @@ let spareList = JSON.parse(localStorage.getItem('spareList')) || []
 let disabledList = JSON.parse(localStorage.getItem('disabledList')) || []
 
 // 获取房源列表
-export const getAllHouseList = ({ currentPage, pageSize, house, roomId, type, houseType, direction, floor }) => {
+export const getAllHouseList = ({ currentPage, pageSize, house, roomId, type, houseType, direction, floor, sortBy, sortType }) => {
+    houseList.sort((a, b) => {
+        if (sortBy === 'unitPrice') {
+            return sortType === 'ascending' ? a.totalPrice / a.area - b.totalPrice / b.area : sortType === 'descending' ? b.totalPrice / b.area - a.totalPrice / a.area : a.id - b.id
+        }
+        return sortType === 'ascending' ? a[sortBy] - b[sortBy] : sortType === 'descending' ? b[sortBy] - a[sortBy] : a.id - b.id
+    })
     const filterList = houseList.filter(houseItem => {
         let [isHouse, isRoom, isType, isHouseType, isDirection, isFloor] = [true, true, true, true, true, true]
         // 过滤禁用列表

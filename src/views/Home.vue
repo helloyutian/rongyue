@@ -33,7 +33,7 @@
     </div>
     <p class="el-upload__tip mb-10" style="color: #888">* <span v-if="type === 1">添加到 已被选 的房源将不在下面的列表显示；</span>VR实景为3栋16楼或19楼同户型房子的实景，仅供参考</p>
      <!--  -->
-    <el-table class="my-table" ref="multipleTable" :row-class-name="tableRowClassName" :data="tableData" border @selection-change="handleSelectionChange">
+    <el-table class="my-table" ref="multipleTable" :row-class-name="tableRowClassName" :data="tableData" border @selection-change="handleSelectionChange" @sort-change="handleSortChange">
       <el-table-column type="selection" :selectable="getSelectableStatus" width="50" align="center"></el-table-column>
       <el-table-column prop="house" label="楼栋" align="center">
         <template #default="scope">
@@ -42,7 +42,7 @@
       </el-table-column>
       <el-table-column prop="roomId" label="房号" align="center"></el-table-column>
       <el-table-column prop="type" label="房型" align="center" min-width="100"></el-table-column>
-      <el-table-column prop="houseType" label="户型" align="center" sortable  min-width="100">
+      <el-table-column prop="houseType" label="户型" align="center" min-width="100">
         <template #header>
           <el-tooltip class="item" effect="dark" content="户型1、户型2表示同户型的镜像户型，如A1、A2" placement="top-start">
           <span>户型 <i class="el-icon-question"></i></span>
@@ -52,8 +52,8 @@
           <el-button type="text" :preview-src-list="previewList" @click="shouRoomPic(scope.row.houseType)" title="查看户型图">{{ scope.row.houseType }}</el-button>
         </template>
       </el-table-column>
-      <el-table-column prop="area" label="面积(m²)" align="center" sortable min-width="100"></el-table-column>
-      <el-table-column prop="floor" label="楼层" align="center" sortable>
+      <el-table-column prop="area" label="面积(m²)" align="center" sortable="custom" min-width="100"></el-table-column>
+      <el-table-column prop="floor" label="楼层" align="center" sortable="custom">
         <template #default="scope">
           {{ scope.row.floor }} 层
         </template>
@@ -70,12 +70,12 @@
               {{ scope.row.direction }}（{{ scope.row.face }}）
           </template>
       </el-table-column>
-      <el-table-column prop="unitPrice" label="单价(元)" align="center" sortable>
+      <el-table-column prop="unitPrice" label="单价(元)" align="center" sortable="custom">
           <template #default="scope">
               {{ (scope.row.totalPrice / scope.row.area).toFixed(2) }}
           </template>
       </el-table-column>
-      <el-table-column prop="totalPrice" label="总价(元)" align="center" sortable>
+      <el-table-column prop="totalPrice" label="总价(元)" align="center" sortable="custom">
           <template #default="scope">
             <span class="text-danger">{{ (scope.row.totalPrice).toFixed(2) }}</span>
           </template>
@@ -141,7 +141,9 @@ export default {
       total: 0,
       queryParams: {
         currentPage: 1,
-        pageSize: 20
+        pageSize: 20,
+        sortBy: null,
+        sortType: null
       },
       isShowView: false,
       previewList: [],
@@ -262,6 +264,11 @@ export default {
     tableRowClassName({ row }) {
       const className = this.type === 1 && row.isDisabled ? 'info-row' : ''
       return className
+    },
+    handleSortChange(column) {
+        this.queryParams.sortBy = column.prop
+        this.queryParams.sortType = column.order
+        this.queryList()
     }
   }
 }

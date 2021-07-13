@@ -64,6 +64,11 @@
             <span class="text-danger">{{ (scope.row.totalPrice).toFixed(2) }}</span>
           </template>
       </el-table-column>
+      <el-table-column label="3成首付(元)" align="center" >
+          <template #default="scope">
+            <span>{{ (scope.row.totalPrice * 0.3).toFixed(2) }}</span>
+          </template>
+      </el-table-column>
       <!-- <el-table-column prop="voice" label="噪音" align="center"></el-table-column> -->
       <el-table-column label="操作" align="center" min-width="150">
         <template #default="scope">

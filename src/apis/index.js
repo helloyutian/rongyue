@@ -106,7 +106,8 @@ export const getSpareList = ({ currentPage, pageSize, house, roomId, type, house
     const arr = filterList.slice(start, end)
     return {
         list: arr,
-        total: filterList.length
+        total: filterList.length,
+        allTotal: spareList.length
     }
 }
 
@@ -133,6 +134,9 @@ export const updateSpareSort = ({ id, sort }) => {
     })
     const sortItem = spareList.splice(delIdx, 1)
     spareList.splice(sort - 1, 0, ...sortItem)
+    spareList.forEach((item, idx) => {
+        item.sort = idx + 1
+    })
     localStorage.setItem('spareList', JSON.stringify(spareList))
 }
 

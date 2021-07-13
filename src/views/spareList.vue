@@ -35,9 +35,9 @@
         </template>
       </el-table-column>
       <el-table-column prop="roomId" label="房号" align="center"></el-table-column>
-      <el-table-column label="排序" align="center">
+      <el-table-column prop="sort" label="排序" align="center">
         <template #default="scope">
-          <span>{{ (queryParams.currentPage - 1) * queryParams.pageSize + scope.$index + 1 }} <i class="el-icon-edit taggle-input" @click="updateSort(scope.row, scope.$index)" title="修改排序"></i></span>
+          <span>{{ scope.row.sort }} <i class="el-icon-edit taggle-input" @click="updateSort(scope.row)" title="修改排序"></i></span>
         </template>
       </el-table-column>
       <el-table-column prop="type" label="房型" align="center" min-width="100"></el-table-column>
@@ -149,6 +149,7 @@ export default {
     return {
       tableData: [],
       total: 0,
+      allTotal: 0,
       queryParams: {
           currentPage: 1,
           pageSize: 20
@@ -197,6 +198,7 @@ export default {
       const res = getSpareList(this.queryParams)
       this.tableData = res.list
       this.total = res.total
+      this.allTotal = res.allTotal
     },
     shouHousePic(i) {
       if (i === 2 || i === 5) {
@@ -284,15 +286,15 @@ export default {
         this.$alert('没有找到该户型VR')
       }
     },
-    updateSort (row, idx) {
+    updateSort (row) {
       this.$prompt('', '您想要把该房子排到第几', {
           inputPattern: /^[1-9][0-9]*$/,
-          inputValue: (this.queryParams.currentPage - 1) * this.queryParams.pageSize + idx + 1,
+          inputValue: row.sort,
           inputPlaceholder: '您想要把该房子排到第几',
           inputErrorMessage: '格式不正确，只能输入大于0整数'
         }).then(({ value }) => {
-          if (value > this.total) {
-            return this.$message.error('修改失败，填写序号不能超过最大预选数量(' + this.total + ')')
+          if (value > this.allTotal) {
+            return this.$message.error('修改失败，填写序号不能超过最大预选数量(' + this.allTotal + ')')
           }
           // 更新排序的接口
           updateSpareSort ({

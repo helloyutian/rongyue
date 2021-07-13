@@ -114,21 +114,21 @@
 
     <!-- // 图片预览 -->
     <el-image v-show="false" class="previewImg" ref="previewElem" src='' width="0" height="0" :preview-src-list="previewList"></el-image>
-    <float-box />
+    <!-- <float-box /> -->
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import FloatBox from '@/components/floatBox.vue'
+// import FloatBox from '@/components/floatBox.vue'
 import { getAllHouseList, addSpareList, addDisabledList } from '@/apis'
 import { vrList } from '@/assets/data'
 // import XLSX from 'xlsx'
 export default {
   name: 'Home',
-  components: {
-    FloatBox
-  },
+//   components: {
+//     FloatBox
+//   },
   props: {
     type: Number
   },

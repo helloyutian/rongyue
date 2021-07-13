@@ -57,7 +57,7 @@
         </el-main>
     </el-container>
     <el-footer class="footer">
-        <p>本站仅供查看筛选房源信息，数据不会同步到正式选房系统</p>
+        <p>本站仅供查看筛选房源信息，非正式选房系统，数据不会同步到正式选房系统</p>
         <p>网站上如有任何问题，请联系直接联系管理员 <a href="mailto:499906898@qq.com" target="_blank">499906898@qq.com</a></p>
     </el-footer>
     <!-- <div class="footer"></div> -->

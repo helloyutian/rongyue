@@ -19,7 +19,7 @@ const doLocalStoragePrice = () => {
     let disabledList = localStorage.getItem('disabledList')
     if (spareList) {
         spareList = JSON.parse(spareList)
-        if (!spareList[0].totalPrice || !spareList[0].sort) {
+        if (spareList[0] && (!spareList[0].totalPrice || !spareList[0].sort)) {
             spareList.forEach((item, idx) => {
                 const priceItem = PriceList[item.id - 1]
                 item.sort = idx + 1
@@ -35,7 +35,7 @@ const doLocalStoragePrice = () => {
     }
     if (disabledList) {
         disabledList = JSON.parse(disabledList)
-        if (!disabledList[0].totalPrice) {
+        if (disabledList[0] && !disabledList[0].totalPrice) {
             disabledList.forEach(item => {
                 const priceItem = PriceList[item.id - 1]
                 if (priceItem.house === item.house && priceItem.roomId === item.roomId) {

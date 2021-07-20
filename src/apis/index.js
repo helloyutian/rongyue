@@ -120,6 +120,9 @@ export const addSpareList = list => {
         spareList.push(item)
       }
     }
+    spareList.forEach((item, idx) => {
+        item.sort = idx + 1
+    })
     localStorage.setItem('spareList', JSON.stringify(spareList))
 }
 // 修改预选排序
@@ -144,6 +147,9 @@ export const updateSpareSort = ({ id, sort }) => {
 export const removeSpareList = list => {
     spareList = spareList.filter(spareItem => {
         return !list.some(item => spareItem.id === item.id)
+    })
+    spareList.forEach((item, idx) => {
+        item.sort = idx + 1
     })
     localStorage.setItem('spareList', JSON.stringify(spareList))
 }
